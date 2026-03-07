@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-DATA_ROOT = Path(r"")
+DATA_ROOT = Path(r"data")
 OUT       = DATA_ROOT / "outputs"
 OUT.mkdir(parents=True, exist_ok=True)
 

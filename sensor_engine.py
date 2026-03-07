@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-DATA_ROOT  = Path(r"")
+DATA_ROOT  = Path("data")
 SENSOR     = DATA_ROOT / "sensor_data"
 TRIPS_DIR = DATA_ROOT / "trips"
 OUT        = DATA_ROOT / "outputs"

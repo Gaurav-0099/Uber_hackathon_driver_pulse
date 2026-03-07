@@ -4,7 +4,7 @@ import numpy as np
 from pathlib import Path
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-DATA_ROOT = Path(r"")
+DATA_ROOT = Path("data")
 EARNINGS  = DATA_ROOT / "earnings"
 TRIPS_DIR    = DATA_ROOT / "trips"
 OUT       = DATA_ROOT / "outputs"
