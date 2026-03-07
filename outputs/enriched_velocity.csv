@@ -1,0 +1,222 @@
+driver_id,timestamp,cumulative_earnings,elapsed_hours,trips_completed,recalc_velocity,shift_phase,forecast_status,message
+DRV147,07:03:00,145,0.55,1,263.64,early,on_track,"You're on track. Earning ₹264/hr, need ₹269/hr. About 7 more trips should get you there. You're early in your shift — plenty of time to build momentum."
+DRV028,07:38:00,365,1.47,2,248.3,early,ahead,You're ahead of pace by ₹43/hr. On track to finish around ₹1887 — ₹323 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV162,08:15:00,540,2.08,3,259.62,early,ahead,You're ahead of pace by ₹66/hr. On track to finish around ₹2388 — ₹606 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV195,08:52:00,738,2.87,4,257.14,mid,ahead,You're ahead of pace by ₹80/hr. On track to finish around ₹2340 — ₹728 above your goal. You're in the middle of your shift.
+DRV018,09:42:00,996,3.7,5,269.19,mid,ahead,You're ahead of pace by ₹46/hr. On track to finish around ₹2019 — ₹348 above your goal. You're in the middle of your shift.
+DRV040,10:28:00,1178,4.47,6,263.53,peak,ahead,You're ahead of pace by ₹65/hr. On track to finish around ₹1845 — ₹457 above your goal. You're in peak hours — your best window to earn.
+DRV096,11:15:00,1423,5.25,7,271.05,mid,achieved,Goal achieved! You've hit ₹1423 — past your target of ₹1199. Any more trips are pure bonus.
+DRV182,17:58:00,312,0.97,1,321.65,early,ahead,You're ahead of pace by ₹139/hr. On track to finish around ₹2509 — ₹1082 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV163,18:42:00,580,2.2,2,263.64,mid,ahead,You're ahead of pace by ₹82/hr. On track to finish around ₹1977 — ₹611 above your goal. You're in the middle of your shift.
+DRV010,19:35:00,925,3.58,3,258.38,mid,ahead,You're ahead of pace by ₹65/hr. On track to finish around ₹1938 — ₹487 above your goal. You're in the middle of your shift.
+DRV071,08:32:00,385,1.03,1,373.79,early,ahead,You're ahead of pace by ₹181/hr. On track to finish around ₹3028 — ₹1465 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV192,09:18:00,680,2.3,2,295.65,mid,ahead,You're ahead of pace by ₹20/hr. On track to finish around ₹1833 — ₹126 above your goal. You're in the middle of your shift.
+DRV114,10:22:00,1148,3.37,3,340.65,mid,ahead,You're ahead of pace by ₹128/hr. On track to finish around ₹2078 — ₹781 above your goal. You're in the middle of your shift.
+DRV176,06:52:00,168,0.87,1,193.1,early,ahead,You're ahead of pace by ₹6/hr. On track to finish around ₹1738 — ₹57 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV095,07:38:00,403,2.13,2,189.2,mid,ahead,You're ahead of pace by ₹35/hr. On track to finish around ₹1533 — ₹285 above your goal. You're in the middle of your shift.
+DRV103,07:28:00,245,1.47,1,166.67,early,on_track,"You're on track. Earning ₹167/hr, need ₹175/hr. About 6 more trips should get you there. You're early in your shift — plenty of time to build momentum."
+DRV079,2024-02-06 13:02:24,1513,7.04,13,214.91,late,ahead,You're ahead of pace by ₹34/hr. On track to finish around ₹1827 — ₹292 above your goal. You're in the final stretch of your shift.
+DRV115,2024-02-06 11:19:48,414,5.33,15,77.67,mid,at_risk,You're ₹80/hr behind pace. Aim for 6 more trips. You're in the middle of your shift.
+DRV157,2024-02-06 11:24:00,1713,5.4,14,317.22,peak,achieved,Goal achieved! You've hit ₹1713 — past your target of ₹1530. Any more trips are pure bonus.
+DRV068,2024-02-06 12:33:36,1939,6.56,5,295.58,late,achieved,Goal achieved! You've hit ₹1939 — past your target of ₹1598. Any more trips are pure bonus.
+DRV080,2024-02-06 08:40:48,623,2.68,2,232.46,mid,ahead,You're ahead of pace by ₹65/hr. On track to finish around ₹1790 — ₹500 above your goal. You're in the middle of your shift.
+DRV189,2024-02-06 12:03:00,1543,6.05,12,255.04,peak,achieved,Goal achieved! You've hit ₹1543 — past your target of ₹1242. Any more trips are pure bonus.
+DRV127,2024-02-06 10:48:00,625,4.8,14,130.21,mid,at_risk,You're ₹46/hr behind pace. Aim for 6 more trips. You're in the middle of your shift.
+DRV123,2024-02-06 13:39:36,1433,7.66,12,187.08,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1433 out of your ₹1549 goal. Push for 1 more trips — every one counts now.
+DRV013,2024-02-06 08:49:48,156,2.83,9,55.12,mid,at_risk,You're ₹133/hr behind pace. Aim for 6 more trips. You're in the middle of your shift.
+DRV068,2024-02-06 12:51:00,927,6.85,6,135.33,late,at_risk,You're behind and time is short. At this pace you'll reach ₹927 out of your ₹1598 goal. Push for 3 more trips — every one counts now.
+DRV115,2024-02-06 12:28:48,1645,6.48,9,253.86,peak,achieved,Goal achieved! You've hit ₹1645 — past your target of ₹1560. Any more trips are pure bonus.
+DRV008,2024-02-06 07:18:00,1059,1.3,9,814.62,early,ahead,You're ahead of pace by ₹644/hr. On track to finish around ₹7128 — ₹5636 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV057,2024-02-06 08:52:12,2036,2.87,14,709.41,mid,achieved,Goal achieved! You've hit ₹2036 — past your target of ₹1687. Any more trips are pure bonus.
+DRV089,2024-02-06 10:15:00,1046,4.25,3,246.12,mid,ahead,You're ahead of pace by ₹122/hr. On track to finish around ₹2215 — ₹1101 above your goal. You're in the middle of your shift.
+DRV035,2024-02-06 07:35:24,1310,1.59,10,823.9,early,ahead,You're ahead of pace by ₹609/hr. On track to finish around ₹6674 — ₹4930 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV001,2024-02-06 08:49:12,1461,2.82,5,518.09,mid,achieved,Goal achieved! You've hit ₹1461 — past your target of ₹1366. Any more trips are pure bonus.
+DRV174,2024-02-06 10:05:24,2500,4.09,8,611.25,peak,achieved,Goal achieved! You've hit ₹2500 — past your target of ₹1247. Any more trips are pure bonus.
+DRV161,2024-02-06 11:46:48,1343,5.78,1,232.35,mid,ahead,You're ahead of pace by ₹73/hr. On track to finish around ₹2277 — ₹711 above your goal. You're in the middle of your shift.
+DRV206,2024-02-06 07:39:00,1514,1.65,14,917.58,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV022,2024-02-06 11:45:00,1071,5.75,15,186.26,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1192 out of your ₹1565 goal. Push for 2 more trips — every one counts now.
+DRV008,2024-02-06 12:55:48,883,6.93,5,127.42,peak,at_risk,You're ₹43/hr behind but peak hours are here. Complete 3 more trips in 1.8h to recover. Surge pricing could help close the gap.
+DRV029,2024-02-06 13:55:48,802,7.93,7,101.13,late,at_risk,You're behind and time is short. At this pace you'll reach ₹829 out of your ₹1743 goal. Push for 5 more trips — every one counts now.
+DRV155,2024-02-06 09:40:12,1532,3.67,6,417.44,mid,achieved,Goal achieved! You've hit ₹1532 — past your target of ₹1395. Any more trips are pure bonus.
+DRV049,2024-02-06 09:25:48,1753,3.43,12,511.08,mid,achieved,Goal achieved! You've hit ₹1753 — past your target of ₹1214. Any more trips are pure bonus.
+DRV102,2024-02-06 08:37:12,1309,2.62,12,499.62,mid,achieved,Goal achieved! You've hit ₹1309 — past your target of ₹1213. Any more trips are pure bonus.
+DRV126,2024-02-06 09:27:00,2394,3.45,6,693.91,mid,achieved,Goal achieved! You've hit ₹2394 — past your target of ₹1521. Any more trips are pure bonus.
+DRV047,2024-02-06 12:52:12,371,6.87,8,54.0,peak,at_risk,You're ₹74/hr behind but peak hours are here. Complete 4 more trips in 2.6h to recover. Surge pricing could help close the gap.
+DRV070,2024-02-06 10:49:48,820,4.83,12,169.77,peak,on_track,"You're on track. Earning ₹170/hr, need ₹173/hr. About 2 more trips should get you there. You're in peak hours — your best window to earn."
+DRV090,2024-02-06 08:40:48,2126,2.68,4,793.28,mid,achieved,Goal achieved! You've hit ₹2126 — past your target of ₹1478. Any more trips are pure bonus.
+DRV054,2024-02-06 12:31:48,1043,6.53,12,159.72,peak,on_track,"You're on track. Earning ₹160/hr, need ₹165/hr. About 2 more trips should get you there. You're in peak hours — your best window to earn."
+DRV077,2024-02-06 09:13:12,187,3.22,2,58.07,mid,at_risk,You're ₹173/hr behind pace. Aim for 7 more trips. You're in the middle of your shift.
+DRV186,2024-02-06 09:19:12,754,3.32,11,227.11,mid,ahead,You're ahead of pace by ₹17/hr. On track to finish around ₹1726 — ₹130 above your goal. You're in the middle of your shift.
+DRV081,2024-02-06 13:26:24,839,7.44,6,112.77,late,at_risk,You're behind and time is short. At this pace you'll reach ₹936 out of your ₹1659 goal. Push for 4 more trips — every one counts now.
+DRV100,2024-02-06 07:51:00,2090,1.85,2,1129.73,mid,achieved,Goal achieved! You've hit ₹2090 — past your target of ₹1357. Any more trips are pure bonus.
+DRV020,2024-02-06 11:22:48,2261,5.38,7,420.26,mid,achieved,Goal achieved! You've hit ₹2261 — past your target of ₹1574. Any more trips are pure bonus.
+DRV158,2024-02-06 11:12:00,758,5.2,4,145.77,peak,at_risk,You're ₹44/hr behind but peak hours are here. Complete 4 more trips in 3.4h to recover. Surge pricing could help close the gap.
+DRV078,2024-02-06 07:23:24,289,1.39,8,207.91,early,on_track,"You're on track. Earning ₹208/hr, need ₹230/hr. About 7 more trips should get you there. You're early in your shift — plenty of time to build momentum."
+DRV095,2024-02-06 11:39:36,1389,5.66,11,245.41,peak,achieved,Goal achieved! You've hit ₹1389 — past your target of ₹1248. Any more trips are pure bonus.
+DRV201,2024-02-06 12:19:12,1687,6.32,13,266.93,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV011,2024-02-06 12:59:24,2049,6.99,5,293.13,peak,achieved,Goal achieved! You've hit ₹2049 — past your target of ₹1540. Any more trips are pure bonus.
+DRV108,2024-02-06 09:15:00,1973,3.25,2,607.08,mid,achieved,Goal achieved! You've hit ₹1973 — past your target of ₹1138. Any more trips are pure bonus.
+DRV049,2024-02-06 07:25:12,488,1.42,4,343.66,early,ahead,You're ahead of pace by ₹182/hr. On track to finish around ₹2577 — ₹1363 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV042,2024-02-06 10:54:00,244,4.9,8,49.8,peak,at_risk,You're ₹128/hr behind but peak hours are here. Complete 5 more trips in 2.4h to recover. Surge pricing could help close the gap.
+DRV021,2024-02-06 11:42:00,1271,5.7,13,222.98,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1449 out of your ₹1659 goal. Push for 2 more trips — every one counts now.
+DRV037,2024-02-06 09:22:48,891,3.38,5,263.61,mid,ahead,You're ahead of pace by ₹80/hr. On track to finish around ₹2346 — ₹714 above your goal. You're in the middle of your shift.
+DRV210,2024-02-06 07:26:24,2490,1.44,2,1729.17,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV079,2024-02-06 07:53:24,2351,1.89,7,1243.92,early,achieved,Goal achieved! You've hit ₹2351 — past your target of ₹1535. Any more trips are pure bonus.
+DRV060,2024-02-06 12:37:48,2427,6.63,8,366.06,peak,achieved,Goal achieved! You've hit ₹2427 — past your target of ₹1180. Any more trips are pure bonus.
+DRV086,2024-02-06 10:23:24,411,4.39,9,93.62,mid,at_risk,You're ₹65/hr behind pace. Aim for 5 more trips. You're in the middle of your shift.
+DRV109,2024-02-06 12:09:00,658,6.15,11,106.99,peak,at_risk,You're ₹96/hr behind but peak hours are here. Complete 5 more trips in 1.8h to recover. Surge pricing could help close the gap.
+DRV052,2024-02-06 07:51:00,630,1.85,12,340.54,early,ahead,You're ahead of pace by ₹134/hr. On track to finish around ₹2588 — ₹1018 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV004,2024-02-06 06:32:24,887,0.54,13,1642.59,early,ahead,You're ahead of pace by ₹1486/hr. On track to finish around ₹11909 — ₹10776 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV039,2024-02-06 07:25:12,1437,1.42,10,1011.97,early,ahead,You're ahead of pace by ₹814/hr. On track to finish around ₹7792 — ₹6268 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV030,2024-02-06 11:23:24,994,5.39,9,184.42,peak,ahead,You're ahead of pace by ₹54/hr. On track to finish around ₹1604 — ₹471 above your goal. You're in peak hours — your best window to earn.
+DRV132,2024-02-06 12:53:24,1201,6.89,2,174.31,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1201 out of your ₹1650 goal. Push for 2 more trips — every one counts now.
+DRV009,2024-02-06 10:18:00,660,4.3,9,153.49,mid,at_risk,You're ₹37/hr behind pace. Aim for 4 more trips. You're in the middle of your shift.
+DRV203,2024-02-06 09:40:12,852,3.67,4,232.15,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV088,2024-02-06 06:51:00,1381,0.85,15,1624.71,early,achieved,Goal achieved! You've hit ₹1381 — past your target of ₹1229. Any more trips are pure bonus.
+DRV101,2024-02-06 11:26:24,1351,5.44,3,248.35,late,achieved,Goal achieved! You've hit ₹1351 — past your target of ₹1222. Any more trips are pure bonus.
+DRV082,2024-02-06 11:42:36,2158,5.71,15,377.93,mid,achieved,Goal achieved! You've hit ₹2158 — past your target of ₹1593. Any more trips are pure bonus.
+DRV011,2024-02-06 11:03:00,1592,5.05,4,315.25,mid,achieved,Goal achieved! You've hit ₹1592 — past your target of ₹1540. Any more trips are pure bonus.
+DRV062,2024-02-06 11:28:12,555,5.47,4,101.46,peak,at_risk,You're ₹146/hr behind but peak hours are here. Complete 6 more trips in 1.5h to recover. Surge pricing could help close the gap.
+DRV026,2024-02-06 07:54:36,300,1.91,14,157.07,early,ahead,You're ahead of pace by ₹30/hr. On track to finish around ₹1508 — ₹288 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV125,2024-02-06 13:40:48,1031,7.68,9,134.24,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1181 out of your ₹1526 goal. Push for 2 more trips — every one counts now.
+DRV039,2024-02-06 10:56:24,1034,4.94,3,209.31,peak,ahead,You're ahead of pace by ₹11/hr. On track to finish around ₹1612 — ₹88 above your goal. You're in peak hours — your best window to earn.
+DRV149,2024-02-06 07:03:36,1878,1.06,5,1771.7,early,achieved,Goal achieved! You've hit ₹1878 — past your target of ₹1213. Any more trips are pure bonus.
+DRV053,2024-02-06 11:22:12,1713,5.37,7,318.99,peak,achieved,Goal achieved! You've hit ₹1713 — past your target of ₹1441. Any more trips are pure bonus.
+DRV067,2024-02-06 07:07:12,2018,1.12,11,1801.79,early,achieved,Goal achieved! You've hit ₹2018 — past your target of ₹1680. Any more trips are pure bonus.
+DRV146,2024-02-06 13:33:00,1892,7.55,9,250.6,late,achieved,Goal achieved! You've hit ₹1892 — past your target of ₹1741. Any more trips are pure bonus.
+DRV137,2024-02-06 07:01:48,984,1.03,11,955.34,early,ahead,You're ahead of pace by ₹684/hr. On track to finish around ₹5923 — ₹4241 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV092,2024-02-06 11:51:36,939,5.86,11,160.24,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1122 out of your ₹1492 goal. Push for 3 more trips — every one counts now.
+DRV041,2024-02-06 11:02:24,2244,5.04,14,445.24,mid,achieved,Goal achieved! You've hit ₹2244 — past your target of ₹1216. Any more trips are pure bonus.
+DRV190,2024-02-06 08:52:12,778,2.87,7,271.08,mid,ahead,You're ahead of pace by ₹130/hr. On track to finish around ₹2386 — ₹1141 above your goal. You're in the middle of your shift.
+DRV073,2024-02-06 13:43:48,256,7.73,2,33.12,late,at_risk,You're behind and time is short. At this pace you'll reach ₹278 out of your ₹1108 goal. Push for 4 more trips — every one counts now.
+DRV010,2024-02-06 07:25:48,1256,1.43,11,878.32,early,ahead,You're ahead of pace by ₹685/hr. On track to finish around ₹6587 — ₹5136 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV024,2024-02-06 09:33:00,2396,3.55,11,674.93,mid,achieved,Goal achieved! You've hit ₹2396 — past your target of ₹1487. Any more trips are pure bonus.
+DRV025,2024-02-06 09:13:12,514,3.22,13,159.63,mid,ahead,You're ahead of pace by ₹19/hr. On track to finish around ₹1453 — ₹170 above your goal. You're in the middle of your shift.
+DRV136,2024-02-06 07:36:00,1269,1.6,5,793.12,early,achieved,Goal achieved! You've hit ₹1269 — past your target of ₹1239. Any more trips are pure bonus.
+DRV054,2024-02-06 07:13:48,190,1.23,7,154.47,early,on_track,"You're on track. Earning ₹154/hr, need ₹165/hr. About 6 more trips should get you there. You're early in your shift — plenty of time to build momentum."
+DRV141,2024-02-06 12:22:12,580,6.37,3,91.05,peak,at_risk,You're ₹47/hr behind but peak hours are here. Complete 4 more trips in 3.2h to recover. Surge pricing could help close the gap.
+DRV130,2024-02-06 11:57:36,2306,5.96,10,386.91,peak,achieved,Goal achieved! You've hit ₹2306 — past your target of ₹1585. Any more trips are pure bonus.
+DRV169,2024-02-06 07:13:12,2155,1.22,12,1766.39,early,achieved,Goal achieved! You've hit ₹2155 — past your target of ₹1327. Any more trips are pure bonus.
+DRV105,2024-02-06 12:59:24,2493,6.99,5,356.65,late,achieved,Goal achieved! You've hit ₹2493 — past your target of ₹1305. Any more trips are pure bonus.
+DRV135,2024-02-06 13:13:12,555,7.22,6,76.87,late,at_risk,You're behind and time is short. At this pace you'll reach ₹607 out of your ₹1699 goal. Push for 6 more trips — every one counts now.
+DRV004,2024-02-06 07:51:36,1745,1.86,9,938.17,mid,achieved,Goal achieved! You've hit ₹1745 — past your target of ₹1133. Any more trips are pure bonus.
+DRV200,2024-02-06 10:04:48,1799,4.08,5,440.93,mid,achieved,Goal achieved! You've hit ₹1799 — past your target of ₹1184. Any more trips are pure bonus.
+DRV134,2024-02-06 11:39:00,188,5.65,11,33.27,late,at_risk,You're behind and time is short. At this pace you'll reach ₹230 out of your ₹1433 goal. Push for 6 more trips — every one counts now.
+DRV039,2024-02-06 07:34:12,667,1.57,12,424.84,early,ahead,You're ahead of pace by ₹227/hr. On track to finish around ₹3271 — ₹1747 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV151,2024-02-06 06:54:00,1245,0.9,6,1383.33,early,ahead,You're ahead of pace by ₹1205/hr. On track to finish around ₹13142 — ₹11448 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV137,2024-02-06 11:35:24,1170,5.59,12,209.3,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1298 out of your ₹1682 goal. Push for 3 more trips — every one counts now.
+DRV084,2024-02-06 07:52:12,2025,1.87,13,1082.89,mid,achieved,Goal achieved! You've hit ₹2025 — past your target of ₹1693. Any more trips are pure bonus.
+DRV151,2024-02-06 10:16:12,2069,4.27,7,484.54,mid,achieved,Goal achieved! You've hit ₹2069 — past your target of ₹1694. Any more trips are pure bonus.
+DRV196,2024-02-06 13:33:36,2282,7.56,5,301.85,late,achieved,Goal achieved! You've hit ₹2282 — past your target of ₹1114. Any more trips are pure bonus.
+DRV201,2024-02-06 13:36:36,506,7.61,13,66.49,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV042,2024-02-06 12:50:24,1430,6.84,2,209.06,late,achieved,Goal achieved! You've hit ₹1430 — past your target of ₹1298. Any more trips are pure bonus.
+DRV118,2024-02-06 11:58:12,464,5.97,3,77.72,late,at_risk,You're behind and time is short. At this pace you'll reach ₹544 out of your ₹1146 goal. Push for 3 more trips — every one counts now.
+DRV107,2024-02-06 07:07:48,385,1.13,9,340.71,early,ahead,You're ahead of pace by ₹200/hr. On track to finish around ₹2828 — ₹1656 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV113,2024-02-06 12:33:36,2168,6.56,7,330.49,peak,achieved,Goal achieved! You've hit ₹2168 — past your target of ₹1209. Any more trips are pure bonus.
+DRV007,2024-02-06 13:29:24,2233,7.49,8,298.13,late,achieved,Goal achieved! You've hit ₹2233 — past your target of ₹1404. Any more trips are pure bonus.
+DRV096,2024-02-06 10:21:36,2189,4.36,12,502.06,mid,achieved,Goal achieved! You've hit ₹2189 — past your target of ₹1199. Any more trips are pure bonus.
+DRV170,2024-02-06 09:32:24,660,3.54,4,186.44,mid,on_track,"You're on track. Earning ₹186/hr, need ₹214/hr. About 5 more trips should get you there. You're in the middle of your shift."
+DRV008,2024-02-06 11:51:36,179,5.86,12,30.55,peak,at_risk,You're ₹140/hr behind but peak hours are here. Complete 7 more trips in 2.9h to recover. Surge pricing could help close the gap.
+DRV100,2024-02-06 08:19:48,1563,2.33,11,670.82,mid,achieved,Goal achieved! You've hit ₹1563 — past your target of ₹1357. Any more trips are pure bonus.
+DRV091,2024-02-06 11:03:36,323,5.06,11,63.83,peak,at_risk,You're ₹89/hr behind but peak hours are here. Complete 4 more trips in 2.3h to recover. Surge pricing could help close the gap.
+DRV173,2024-02-06 13:16:48,2294,7.28,2,315.11,late,achieved,Goal achieved! You've hit ₹2294 — past your target of ₹1395. Any more trips are pure bonus.
+DRV209,2024-02-06 12:48:00,1653,6.8,6,243.09,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV139,2024-02-06 09:40:12,358,3.67,3,97.55,mid,at_risk,You're ₹114/hr behind pace. Aim for 5 more trips. You're in the middle of your shift.
+DRV169,2024-02-06 13:46:12,1678,7.77,15,215.96,late,achieved,Goal achieved! You've hit ₹1678 — past your target of ₹1327. Any more trips are pure bonus.
+DRV153,2024-02-06 12:44:24,1173,6.74,5,174.04,peak,on_track,"You're on track. Earning ₹174/hr, need ₹176/hr. About 2 more trips should get you there. You're in peak hours — your best window to earn."
+DRV005,2024-02-06 10:07:12,1375,4.12,4,333.74,mid,ahead,You're ahead of pace by ₹127/hr. On track to finish around ₹2353 — ₹897 above your goal. You're in the middle of your shift.
+DRV082,2024-02-06 12:02:24,159,6.04,7,26.32,peak,at_risk,You're ₹136/hr behind but peak hours are here. Complete 7 more trips in 3.8h to recover. Surge pricing could help close the gap.
+DRV121,2024-02-06 13:25:12,1040,7.42,14,140.16,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1163 out of your ₹1800 goal. Push for 4 more trips — every one counts now.
+DRV113,2024-02-06 13:31:12,295,7.52,14,39.23,late,at_risk,You're behind and time is short. At this pace you'll reach ₹333 out of your ₹1209 goal. Push for 5 more trips — every one counts now.
+DRV012,2024-02-06 06:55:48,2149,0.93,10,2310.75,early,achieved,Goal achieved! You've hit ₹2149 — past your target of ₹1719. Any more trips are pure bonus.
+DRV082,2024-02-06 08:57:36,2035,2.96,2,687.5,mid,achieved,Goal achieved! You've hit ₹2035 — past your target of ₹1593. Any more trips are pure bonus.
+DRV081,2024-02-06 09:07:12,171,3.12,7,54.81,mid,at_risk,You're ₹145/hr behind pace. Aim for 7 more trips. You're in the middle of your shift.
+DRV100,2024-02-06 06:34:12,1602,0.57,8,2810.53,early,achieved,Goal achieved! You've hit ₹1602 — past your target of ₹1357. Any more trips are pure bonus.
+DRV205,2024-02-06 07:08:24,959,1.14,15,841.23,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV077,2024-02-06 09:34:48,779,3.58,1,217.6,mid,on_track,"You're on track. Earning ₹218/hr, need ₹231/hr. About 4 more trips should get you there. You're in the middle of your shift."
+DRV033,2024-02-06 12:16:12,787,6.27,4,125.52,peak,on_track,"You're on track. Earning ₹126/hr, need ₹130/hr. About 2 more trips should get you there. You're in peak hours — your best window to earn."
+DRV098,2024-02-06 09:28:12,2077,3.47,6,598.56,mid,achieved,Goal achieved! You've hit ₹2077 — past your target of ₹1299. Any more trips are pure bonus.
+DRV145,2024-02-06 13:11:24,1904,7.19,13,264.81,peak,achieved,Goal achieved! You've hit ₹1904 — past your target of ₹1684. Any more trips are pure bonus.
+DRV160,2024-02-06 07:19:12,1253,1.32,11,949.24,early,ahead,You're ahead of pace by ₹811/hr. On track to finish around ₹8733 — ₹7458 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV015,2024-02-06 07:42:36,1949,1.71,12,1139.77,early,achieved,Goal achieved! You've hit ₹1949 — past your target of ₹1352. Any more trips are pure bonus.
+DRV146,2024-02-06 06:32:24,1927,0.54,2,3568.52,early,achieved,Goal achieved! You've hit ₹1927 — past your target of ₹1741. Any more trips are pure bonus.
+DRV029,2024-02-06 08:38:24,926,2.64,7,350.76,mid,ahead,You're ahead of pace by ₹138/hr. On track to finish around ₹2876 — ₹1133 above your goal. You're in the middle of your shift.
+DRV125,2024-02-06 12:04:48,1874,6.08,3,308.22,peak,achieved,Goal achieved! You've hit ₹1874 — past your target of ₹1526. Any more trips are pure bonus.
+DRV031,2024-02-06 13:36:36,965,7.61,2,126.81,late,at_risk,You're behind and time is short. At this pace you'll reach ₹965 out of your ₹1282 goal. Push for 2 more trips — every one counts now.
+DRV025,2024-02-06 10:10:12,1874,4.17,13,449.4,mid,achieved,Goal achieved! You've hit ₹1874 — past your target of ₹1283. Any more trips are pure bonus.
+DRV158,2024-02-06 08:56:24,671,2.94,9,228.23,mid,ahead,You're ahead of pace by ₹38/hr. On track to finish around ₹1963 — ₹331 above your goal. You're in the middle of your shift.
+DRV045,2024-02-06 07:29:24,1742,1.49,13,1169.13,early,achieved,Goal achieved! You've hit ₹1742 — past your target of ₹1313. Any more trips are pure bonus.
+DRV009,2024-02-06 07:27:00,236,1.45,9,162.76,early,on_track,"You're on track. Earning ₹163/hr, need ₹190/hr. About 6 more trips should get you there. You're early in your shift — plenty of time to build momentum."
+DRV014,2024-02-06 12:15:36,205,6.26,1,32.75,late,at_risk,You're behind and time is short. At this pace you'll reach ₹206 out of your ₹1309 goal. Push for 6 more trips — every one counts now.
+DRV080,2024-02-06 09:43:12,1551,3.72,12,416.94,mid,achieved,Goal achieved! You've hit ₹1551 — past your target of ₹1290. Any more trips are pure bonus.
+DRV056,2024-02-06 09:45:36,182,3.76,5,48.4,mid,at_risk,You're ₹206/hr behind pace. Aim for 7 more trips. You're in the middle of your shift.
+DRV135,2024-02-06 07:07:12,2140,1.12,4,1910.71,early,achieved,Goal achieved! You've hit ₹2140 — past your target of ₹1699. Any more trips are pure bonus.
+DRV025,2024-02-06 11:58:12,774,5.97,4,129.65,peak,on_track,"You're on track. Earning ₹130/hr, need ₹141/hr. About 3 more trips should get you there. You're in peak hours — your best window to earn."
+DRV118,2024-02-06 12:15:00,1301,6.25,12,208.16,late,achieved,Goal achieved! You've hit ₹1301 — past your target of ₹1146. Any more trips are pure bonus.
+DRV128,2024-02-06 11:30:00,1163,5.5,4,211.45,late,ahead,You're ahead of pace by ₹14/hr. On track to finish around ₹1438 — ₹97 above your goal. You're in the final stretch of your shift.
+DRV121,2024-02-06 11:48:00,2091,5.8,12,360.52,peak,achieved,Goal achieved! You've hit ₹2091 — past your target of ₹1800. Any more trips are pure bonus.
+DRV016,2024-02-06 11:04:48,2207,5.08,14,434.45,peak,achieved,Goal achieved! You've hit ₹2207 — past your target of ₹1685. Any more trips are pure bonus.
+DRV109,2024-02-06 08:13:12,759,2.22,7,341.89,mid,ahead,You're ahead of pace by ₹139/hr. On track to finish around ₹2701 — ₹1099 above your goal. You're in the middle of your shift.
+DRV057,2024-02-06 08:33:00,307,2.55,15,120.39,mid,at_risk,You're ₹121/hr behind pace. Aim for 7 more trips. You're in the middle of your shift.
+DRV057,2024-02-06 09:42:00,748,3.7,4,202.16,mid,at_risk,You're ₹39/hr behind pace. Aim for 5 more trips. You're in the middle of your shift.
+DRV085,2024-02-06 12:58:48,522,6.98,7,74.79,late,at_risk,You're behind and time is short. At this pace you'll reach ₹621 out of your ₹1580 goal. Push for 5 more trips — every one counts now.
+DRV191,2024-02-06 08:48:00,2300,2.8,4,821.43,mid,achieved,Goal achieved! You've hit ₹2300 — past your target of ₹1179. Any more trips are pure bonus.
+DRV201,2024-02-06 09:01:12,1058,3.02,1,350.33,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV042,2024-02-06 09:42:00,2238,3.7,5,604.86,mid,achieved,Goal achieved! You've hit ₹2238 — past your target of ₹1298. Any more trips are pure bonus.
+DRV099,2024-02-06 08:31:12,600,2.52,6,238.1,mid,ahead,You're ahead of pace by ₹92/hr. On track to finish around ₹1810 — ₹698 above your goal. You're in the middle of your shift.
+DRV151,2024-02-06 08:21:00,1862,2.35,3,792.34,early,achieved,Goal achieved! You've hit ₹1862 — past your target of ₹1694. Any more trips are pure bonus.
+DRV140,2024-02-06 06:30:00,317,0.5,4,634.0,early,ahead,You're ahead of pace by ₹407/hr. On track to finish around ₹3867 — ₹2482 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV062,2024-02-06 10:02:24,1318,4.04,2,326.24,mid,ahead,You're ahead of pace by ₹79/hr. On track to finish around ₹2284 — ₹553 above your goal. You're in the middle of your shift.
+DRV176,2024-02-06 07:53:24,1914,1.89,6,1012.7,early,achieved,Goal achieved! You've hit ₹1914 — past your target of ₹1681. Any more trips are pure bonus.
+DRV121,2024-02-06 08:46:48,1519,2.78,11,546.4,mid,ahead,You're ahead of pace by ₹330/hr. On track to finish around ₹4535 — ₹2735 above your goal. You're in the middle of your shift.
+DRV047,2024-02-06 11:37:12,205,5.62,6,36.48,mid,at_risk,You're ₹92/hr behind pace. Aim for 5 more trips. You're in the middle of your shift.
+DRV054,2024-02-06 12:03:36,1626,6.06,12,268.32,peak,achieved,Goal achieved! You've hit ₹1626 — past your target of ₹1419. Any more trips are pure bonus.
+DRV142,2024-02-06 11:02:24,2316,5.04,11,459.52,late,achieved,Goal achieved! You've hit ₹2316 — past your target of ₹1616. Any more trips are pure bonus.
+DRV148,2024-02-06 08:04:48,1280,2.08,2,615.38,early,achieved,Goal achieved! You've hit ₹1280 — past your target of ₹1182. Any more trips are pure bonus.
+DRV142,2024-02-06 07:28:48,585,1.48,2,395.27,early,ahead,You're ahead of pace by ₹130/hr. On track to finish around ₹2411 — ₹795 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV164,2024-02-06 10:54:00,318,4.9,4,64.9,peak,at_risk,You're ₹125/hr behind but peak hours are here. Complete 6 more trips in 2.9h to recover. Surge pricing could help close the gap.
+DRV055,2024-02-06 13:26:24,1975,7.44,9,265.46,late,achieved,Goal achieved! You've hit ₹1975 — past your target of ₹1551. Any more trips are pure bonus.
+DRV041,2024-02-06 08:45:36,1554,2.76,13,563.04,mid,achieved,Goal achieved! You've hit ₹1554 — past your target of ₹1216. Any more trips are pure bonus.
+DRV173,2024-02-06 10:30:00,977,4.5,1,217.11,peak,ahead,You're ahead of pace by ₹9/hr. On track to finish around ₹1455 — ₹60 above your goal. You're in peak hours — your best window to earn.
+DRV188,2024-02-06 07:56:24,673,1.94,12,346.91,mid,ahead,You're ahead of pace by ₹166/hr. On track to finish around ₹2255 — ₹1077 above your goal. You're in the middle of your shift.
+DRV117,2024-02-06 13:11:24,1184,7.19,6,164.67,peak,ahead,You're ahead of pace by ₹27/hr. On track to finish around ₹1597 — ₹259 above your goal. You're in peak hours — your best window to earn.
+DRV195,2024-02-06 09:51:36,1649,3.86,15,427.2,mid,achieved,Goal achieved! You've hit ₹1649 — past your target of ₹1612. Any more trips are pure bonus.
+DRV004,2024-02-06 07:00:36,1936,1.01,9,1916.83,early,achieved,Goal achieved! You've hit ₹1936 — past your target of ₹1133. Any more trips are pure bonus.
+DRV167,2024-02-06 12:25:48,2213,6.43,10,344.17,peak,achieved,Goal achieved! You've hit ₹2213 — past your target of ₹1590. Any more trips are pure bonus.
+DRV050,2024-02-06 11:43:48,1272,5.73,5,221.99,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1465 out of your ₹1612 goal. Push for 2 more trips — every one counts now.
+DRV019,2024-02-06 13:40:12,336,7.67,13,43.81,late,at_risk,You're behind and time is short. At this pace you'll reach ₹342 out of your ₹1392 goal. Push for 5 more trips — every one counts now.
+DRV201,2024-02-06 12:03:36,929,6.06,8,153.3,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV197,2024-02-06 13:01:48,2330,7.03,3,331.44,peak,achieved,Goal achieved! You've hit ₹2330 — past your target of ₹1319. Any more trips are pure bonus.
+DRV018,2024-02-06 12:07:48,1943,6.13,9,316.97,late,achieved,Goal achieved! You've hit ₹1943 — past your target of ₹1671. Any more trips are pure bonus.
+DRV144,2024-02-06 09:30:36,1748,3.51,4,498.01,mid,achieved,Goal achieved! You've hit ₹1748 — past your target of ₹1344. Any more trips are pure bonus.
+DRV207,2024-02-06 06:31:48,903,0.53,4,1703.77,late,at_risk,You're behind and time is short. At this pace you'll reach ₹nan out of your ₹nan goal. Push for 0 more trips — every one counts now.
+DRV032,2024-02-06 13:05:24,186,7.09,8,26.23,peak,at_risk,You're ₹103/hr behind but peak hours are here. Complete 5 more trips in 2.8h to recover. Surge pricing could help close the gap.
+DRV025,2024-02-06 11:48:36,2213,5.81,5,380.9,peak,achieved,Goal achieved! You've hit ₹2213 — past your target of ₹1283. Any more trips are pure bonus.
+DRV068,2024-02-06 12:53:24,1392,6.89,12,202.03,late,at_risk,You're behind and time is short. At this pace you'll reach ₹1392 out of your ₹1598 goal. Push for 1 more trips — every one counts now.
+DRV146,2024-02-06 10:38:24,1249,4.64,4,269.18,mid,ahead,You're ahead of pace by ₹49/hr. On track to finish around ₹2127 — ₹386 above your goal. You're in the middle of your shift.
+DRV061,2024-02-06 10:30:00,336,4.5,1,74.67,mid,at_risk,You're ₹79/hr behind pace. Aim for 4 more trips. You're in the middle of your shift.
+DRV055,2024-02-06 13:34:12,756,7.57,15,99.87,late,at_risk,You're behind and time is short. At this pace you'll reach ₹869 out of your ₹1551 goal. Push for 4 more trips — every one counts now.
+DRV072,2024-02-06 08:31:48,694,2.53,11,274.31,mid,ahead,You're ahead of pace by ₹105/hr. On track to finish around ₹2277 — ₹871 above your goal. You're in the middle of your shift.
+DRV058,2024-02-06 13:55:12,1169,7.92,9,147.6,late,achieved,Goal achieved! You've hit ₹1169 — past your target of ₹1129. Any more trips are pure bonus.
+DRV128,2024-02-06 06:30:36,625,0.51,11,1225.49,early,ahead,You're ahead of pace by ₹1028/hr. On track to finish around ₹8333 — ₹6992 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV095,2024-02-06 08:55:48,1661,2.93,5,566.89,mid,achieved,Goal achieved! You've hit ₹1661 — past your target of ₹1248. Any more trips are pure bonus.
+DRV188,2024-02-06 09:33:36,697,3.56,5,195.79,mid,ahead,You're ahead of pace by ₹15/hr. On track to finish around ₹1273 — ₹95 above your goal. You're in the middle of your shift.
+DRV177,2024-02-06 13:53:24,1479,7.89,14,187.45,late,achieved,Goal achieved! You've hit ₹1479 — past your target of ₹1409. Any more trips are pure bonus.
+DRV115,2024-02-06 12:40:48,192,6.68,12,28.74,peak,at_risk,You're ₹129/hr behind but peak hours are here. Complete 7 more trips in 3.2h to recover. Surge pricing could help close the gap.
+DRV170,2024-02-06 07:49:48,1295,1.83,9,707.65,early,ahead,You're ahead of pace by ₹494/hr. On track to finish around ₹5378 — ₹3754 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV104,2024-02-06 11:55:12,585,5.92,11,98.82,mid,at_risk,You're ₹45/hr behind pace. Aim for 4 more trips. You're in the middle of your shift.
+DRV144,2024-02-06 13:01:48,1204,7.03,10,171.27,late,ahead,You're ahead of pace by ₹15/hr. On track to finish around ₹1473 — ₹129 above your goal. You're in the final stretch of your shift.
+DRV064,2024-02-06 08:03:00,2406,2.05,4,1173.66,early,achieved,Goal achieved! You've hit ₹2406 — past your target of ₹1389. Any more trips are pure bonus.
+DRV167,2024-02-06 08:31:12,1478,2.52,11,586.51,mid,ahead,You're ahead of pace by ₹421/hr. On track to finish around ₹5630 — ₹4040 above your goal. You're in the middle of your shift.
+DRV116,2024-02-06 07:40:12,1769,1.67,12,1059.28,early,achieved,Goal achieved! You've hit ₹1769 — past your target of ₹1316. Any more trips are pure bonus.
+DRV130,2024-02-06 09:15:36,1927,3.26,2,591.1,mid,achieved,Goal achieved! You've hit ₹1927 — past your target of ₹1585. Any more trips are pure bonus.
+DRV028,2024-02-06 07:51:36,2181,1.86,14,1172.58,early,achieved,Goal achieved! You've hit ₹2181 — past your target of ₹1564. Any more trips are pure bonus.
+DRV133,2024-02-06 07:55:12,871,1.92,12,453.65,early,ahead,You're ahead of pace by ₹248/hr. On track to finish around ₹3765 — ₹2059 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV008,2024-02-06 11:21:36,888,5.36,5,165.67,peak,on_track,"You're on track. Earning ₹166/hr, need ₹171/hr. About 3 more trips should get you there. You're in peak hours — your best window to earn."
+DRV132,2024-02-06 13:08:24,817,7.14,11,114.43,late,at_risk,You're behind and time is short. At this pace you'll reach ₹817 out of your ₹1650 goal. Push for 4 more trips — every one counts now.
+DRV139,2024-02-06 07:01:12,919,1.02,7,900.98,early,ahead,You're ahead of pace by ₹689/hr. On track to finish around ₹5676 — ₹4341 above your goal. You're early in your shift — plenty of time to build momentum.
+DRV175,2024-02-06 09:54:36,1154,3.91,2,295.14,peak,ahead,You're ahead of pace by ₹63/hr. On track to finish around ₹1889 — ₹405 above your goal. You're in peak hours — your best window to earn.
+DRV095,2024-02-06 07:31:48,2307,1.53,10,1507.84,early,achieved,Goal achieved! You've hit ₹2307 — past your target of ₹1248. Any more trips are pure bonus.
+DRV062,2024-02-06 09:19:48,558,3.33,2,167.57,mid,at_risk,You're ₹80/hr behind pace. Aim for 6 more trips. You're in the middle of your shift.
+DRV103,2024-02-06 12:13:48,205,6.23,3,32.91,peak,at_risk,You're ₹142/hr behind but peak hours are here. Complete 7 more trips in 2.6h to recover. Surge pricing could help close the gap.
+DRV127,2024-02-06 12:16:48,1167,6.28,3,185.83,peak,ahead,You're ahead of pace by ₹10/hr. On track to finish around ₹1821 — ₹95 above your goal. You're in peak hours — your best window to earn.
