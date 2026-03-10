@@ -1,0 +1,1114 @@
+flag_id,trip_id,driver_id,timestamp,elapsed_seconds,flag_type,severity,motion_score,audio_score,combined_score,explanation,context
+FLAG0001,TRIP001,DRV001,06-02-2024 06:28,0,swerve,low,0.394,0,0.177,swerve detected. Combined score 0.177.,Motion: swerve | Audio: normal
+FLAG0002,TRIP001,DRV001,06-02-2024 06:31,228,swerve,low,0.63,0,0.284,moderate brake detected. Combined score 0.284.,Motion: swerve | Audio: normal
+FLAG0003,TRIP001,DRV001,06-02-2024 06:45,1064,harsh_braking,low,0.594,0,0.267,harsh braking detected. Combined score 0.267.,Motion: harsh_braking | Audio: normal
+FLAG0004,TRIP001,DRV001,06-02-2024 06:53,1520,harsh_braking,low,0.546,0,0.246,harsh braking detected. Combined score 0.246.,Motion: harsh_braking | Audio: normal
+FLAG0005,TRIP001,DRV001,06-02-2024 07:00,1976,harsh_braking,low,0.696,0,0.313,harsh braking detected. Combined score 0.313.,Motion: harsh_braking | Audio: normal
+FLAG0006,TRIP002,DRV001,06-02-2024 07:34,25,swerve,low,0.156,0,0.07,swerve detected. Combined score 0.07.,Motion: swerve | Audio: normal
+FLAG0007,TRIP002,DRV001,06-02-2024 07:37,225,harsh_braking,low,0.77,0,0.347,harsh accel detected. Combined score 0.347.,Motion: harsh_braking | Audio: normal
+FLAG0008,TRIP002,DRV001,06-02-2024 07:41,425,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0009,TRIP002,DRV001,06-02-2024 07:43,550,harsh_accel,low,0.409,0,0.184,harsh accel detected. Combined score 0.184.,Motion: harsh_accel | Audio: normal
+FLAG0010,TRIP002,DRV001,06-02-2024 07:46,775,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0011,TRIP002,DRV001,06-02-2024 07:49,900,harsh_braking,low,0.838,0,0.377,harsh accel detected. Combined score 0.377.,Motion: harsh_braking | Audio: normal
+FLAG0012,TRIP002,DRV001,06-02-2024 07:56,1350,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0013,TRIP002,DRV001,06-02-2024 07:59,1550,harsh_braking,low,0.754,0,0.339,moderate brake detected. Combined score 0.339.,Motion: harsh_braking | Audio: normal
+FLAG0014,TRIP002,DRV001,06-02-2024 08:10,2200,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0015,TRIP002,DRV001,06-02-2024 08:18,2675,swerve,low,0.771,0,0.347,swerve detected. Combined score 0.347.,Motion: swerve | Audio: normal
+FLAG0016,TRIP002,DRV001,06-02-2024 08:22,2900,swerve,low,0.294,0,0.132,swerve detected. Combined score 0.132.,Motion: swerve | Audio: normal
+FLAG0017,TRIP002,DRV001,06-02-2024 08:30,3400,swerve,low,0.726,0,0.327,swerve detected. Combined score 0.327.,Motion: swerve | Audio: normal
+FLAG0018,TRIP003,DRV001,06-02-2024 08:53,0,swerve,low,0.21,0,0.095,swerve detected. Combined score 0.095.,Motion: swerve | Audio: normal
+FLAG0019,TRIP003,DRV001,06-02-2024 08:58,312,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0020,TRIP003,DRV001,06-02-2024 09:01,528,harsh_braking,medium,0.95,0,0.427,harsh accel detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0021,TRIP003,DRV001,06-02-2024 09:05,720,conflict_moment,high,0.804,0.95,1,"moderate brake detected. elevated cabin audio (97 dB, 60s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0022,TRIP003,DRV001,06-02-2024 09:20,1632,harsh_accel,low,0.689,0,0.31,harsh accel detected. Combined score 0.31.,Motion: harsh_accel | Audio: normal
+FLAG0023,TRIP003,DRV001,06-02-2024 09:24,1872,swerve,low,0.625,0,0.281,swerve detected. Combined score 0.281.,Motion: swerve | Audio: normal
+FLAG0024,TRIP004,DRV001,06-02-2024 09:57,93,harsh_braking,medium,0.861,0,0.387,harsh braking detected. Combined score 0.387.,Motion: harsh_braking | Audio: normal
+FLAG0025,TRIP004,DRV001,06-02-2024 10:00,248,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0026,TRIP004,DRV001,06-02-2024 10:08,775,harsh_accel,low,0.465,0,0.209,harsh accel detected. Combined score 0.209.,Motion: harsh_accel | Audio: normal
+FLAG0027,TRIP004,DRV001,06-02-2024 10:15,1147,harsh_braking,low,0.633,0,0.285,harsh braking detected. Combined score 0.285.,Motion: harsh_braking | Audio: normal
+FLAG0028,TRIP004,DRV001,06-02-2024 10:18,1364,swerve,low,0.472,0,0.212,swerve detected. Combined score 0.212.,Motion: swerve | Audio: normal
+FLAG0029,TRIP004,DRV001,06-02-2024 10:23,1674,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0030,TRIP005,DRV001,06-02-2024 11:02,240,harsh_accel,low,0.655,0,0.295,pothole detected. Combined score 0.295.,Motion: harsh_accel | Audio: normal
+FLAG0031,TRIP005,DRV001,06-02-2024 11:10,720,swerve,low,0.504,0,0.227,swerve detected. Combined score 0.227.,Motion: swerve | Audio: normal
+FLAG0032,TRIP005,DRV001,06-02-2024 11:12,880,harsh_braking,low,0.708,0,0.319,swerve detected. Combined score 0.319.,Motion: harsh_braking | Audio: normal
+FLAG0033,TRIP006,DRV002,06-02-2024 12:19,152,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0034,TRIP006,DRV002,06-02-2024 12:26,570,swerve,low,0.414,0,0.186,swerve detected. Combined score 0.186.,Motion: swerve | Audio: normal
+FLAG0035,TRIP006,DRV002,06-02-2024 12:32,931,swerve,low,0.748,0,0.337,harsh accel detected. Combined score 0.337.,Motion: swerve | Audio: normal
+FLAG0036,TRIP006,DRV002,06-02-2024 12:36,1178,moderate_brake,low,0.227,0,0.102,moderate brake detected. Combined score 0.102.,Motion: moderate_brake | Audio: normal
+FLAG0037,TRIP006,DRV002,06-02-2024 12:47,1805,harsh_braking,low,0.478,0,0.215,harsh braking detected. Combined score 0.215.,Motion: harsh_braking | Audio: normal
+FLAG0038,TRIP006,DRV002,06-02-2024 12:59,2565,moderate_brake,low,0.252,0,0.113,moderate brake detected. Combined score 0.113.,Motion: moderate_brake | Audio: normal
+FLAG0039,TRIP006,DRV002,06-02-2024 13:04,2831,harsh_accel,low,0.337,0,0.152,harsh accel detected. Combined score 0.152.,Motion: harsh_accel | Audio: normal
+FLAG0040,TRIP006,DRV002,06-02-2024 13:06,2983,harsh_accel,low,0.589,0,0.265,moderate brake detected. Combined score 0.265.,Motion: harsh_accel | Audio: normal
+FLAG0041,TRIP007,DRV002,06-02-2024 13:28,128,harsh_accel,low,0.559,0,0.252,harsh accel detected. Combined score 0.252.,Motion: harsh_accel | Audio: normal
+FLAG0042,TRIP007,DRV002,06-02-2024 13:35,576,harsh_braking,low,0.791,0,0.356,harsh braking detected. Combined score 0.356.,Motion: harsh_braking | Audio: normal
+FLAG0043,TRIP007,DRV002,06-02-2024 13:37,704,moderate_brake,low,0.111,0,0.05,moderate brake detected. Combined score 0.05.,Motion: moderate_brake | Audio: normal
+FLAG0044,TRIP007,DRV002,06-02-2024 13:45,1152,conflict_moment,high,0.264,0.95,0.769,"moderate brake detected. elevated cabin audio (82 dB, 61s sustained). Combined score 0.769.",Motion: conflict_moment | Audio: conflict
+FLAG0045,TRIP007,DRV002,06-02-2024 13:57,1904,swerve,low,0.414,0,0.186,swerve detected. Combined score 0.186.,Motion: swerve | Audio: normal
+FLAG0046,TRIP008,DRV003,06-02-2024 06:01,34,harsh_accel,low,0.271,0,0.122,harsh accel detected. Combined score 0.122.,Motion: harsh_accel | Audio: normal
+FLAG0047,TRIP008,DRV003,06-02-2024 06:15,884,harsh_accel,low,0.358,0,0.161,moderate brake detected. Combined score 0.161.,Motion: harsh_accel | Audio: normal
+FLAG0048,TRIP008,DRV003,06-02-2024 06:31,1802,harsh_braking,low,0.738,0,0.332,harsh braking detected. Combined score 0.332.,Motion: harsh_braking | Audio: normal
+FLAG0049,TRIP008,DRV003,06-02-2024 06:34,2006,harsh_accel,low,0.426,0,0.192,harsh accel detected. Combined score 0.192.,Motion: harsh_accel | Audio: normal
+FLAG0050,TRIP008,DRV003,06-02-2024 06:38,2278,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0051,TRIP008,DRV003,06-02-2024 06:45,2686,harsh_accel,low,0.564,0,0.254,moderate brake detected. Combined score 0.254.,Motion: harsh_accel | Audio: normal
+FLAG0052,TRIP008,DRV003,06-02-2024 06:50,2958,swerve,low,0.345,0,0.155,swerve detected. Combined score 0.155.,Motion: swerve | Audio: normal
+FLAG0053,TRIP008,DRV003,06-02-2024 06:56,3332,swerve,low,0.341,0,0.153,swerve detected. Combined score 0.153.,Motion: swerve | Audio: normal
+FLAG0054,TRIP009,DRV003,06-02-2024 07:28,62,harsh_braking,low,0.843,0,0.379,pothole detected. Combined score 0.379.,Motion: harsh_braking | Audio: normal
+FLAG0055,TRIP009,DRV003,06-02-2024 07:36,558,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0056,TRIP009,DRV003,06-02-2024 07:38,682,harsh_braking,low,0.604,0,0.272,harsh braking detected. Combined score 0.272.,Motion: harsh_braking | Audio: normal
+FLAG0057,TRIP009,DRV003,06-02-2024 07:41,868,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0058,TRIP009,DRV003,06-02-2024 07:51,1488,harsh_braking,medium,0.864,0,0.389,harsh braking detected. Combined score 0.389.,Motion: harsh_braking | Audio: normal
+FLAG0059,TRIP009,DRV003,06-02-2024 07:56,1767,harsh_accel,low,0.686,0,0.309,harsh accel detected. Combined score 0.309.,Motion: harsh_accel | Audio: normal
+FLAG0060,TRIP009,DRV003,06-02-2024 07:59,1953,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0061,TRIP009,DRV003,06-02-2024 08:06,2356,harsh_braking,low,0.799,0,0.36,harsh braking detected. Combined score 0.36.,Motion: harsh_braking | Audio: normal
+FLAG0062,TRIP009,DRV003,06-02-2024 08:09,2542,harsh_braking,low,0.513,0,0.231,harsh braking detected. Combined score 0.231.,Motion: harsh_braking | Audio: normal
+FLAG0063,TRIP009,DRV003,06-02-2024 08:20,3193,harsh_accel,low,0.358,0,0.161,harsh accel detected. Combined score 0.161.,Motion: harsh_accel | Audio: normal
+FLAG0064,TRIP009,DRV003,06-02-2024 08:22,3317,swerve,low,0.732,0,0.329,swerve detected. Combined score 0.329.,Motion: swerve | Audio: normal
+FLAG0065,TRIP009,DRV003,06-02-2024 08:24,3472,harsh_accel,low,0.352,0,0.158,harsh accel detected. Combined score 0.158.,Motion: harsh_accel | Audio: normal
+FLAG0066,TRIP010,DRV004,06-02-2024 06:10,224,harsh_accel,low,0.673,0,0.303,harsh accel detected. Combined score 0.303.,Motion: harsh_accel | Audio: normal
+FLAG0067,TRIP010,DRV004,06-02-2024 06:24,1024,harsh_braking,medium,0.9,0,0.405,harsh braking detected. Combined score 0.405.,Motion: harsh_braking | Audio: normal
+FLAG0068,TRIP011,DRV004,06-02-2024 06:51,258,harsh_accel,low,0.6,0,0.27,harsh accel detected. Combined score 0.27.,Motion: harsh_accel | Audio: normal
+FLAG0069,TRIP011,DRV004,06-02-2024 07:02,946,moderate_brake,low,0.158,0,0.071,moderate brake detected. Combined score 0.071.,Motion: moderate_brake | Audio: normal
+FLAG0070,TRIP011,DRV004,06-02-2024 07:20,2021,swerve,low,0.523,0,0.235,swerve detected. Combined score 0.235.,Motion: swerve | Audio: normal
+FLAG0071,TRIP011,DRV004,06-02-2024 07:25,2322,harsh_braking,low,0.655,0,0.295,harsh braking detected. Combined score 0.295.,Motion: harsh_braking | Audio: normal
+FLAG0072,TRIP011,DRV004,06-02-2024 07:29,2537,harsh_accel,low,0.274,0,0.123,harsh accel detected. Combined score 0.123.,Motion: harsh_accel | Audio: normal
+FLAG0073,TRIP011,DRV004,06-02-2024 07:32,2709,harsh_braking,medium,0.848,0,0.382,harsh braking detected. Combined score 0.382.,Motion: harsh_braking | Audio: normal
+FLAG0074,TRIP012,DRV004,06-02-2024 08:18,42,harsh_accel,low,0.558,0,0.251,harsh accel detected. Combined score 0.251.,Motion: harsh_accel | Audio: normal
+FLAG0075,TRIP012,DRV004,06-02-2024 08:20,168,harsh_accel,low,0.574,0,0.258,swerve detected. Combined score 0.258.,Motion: harsh_accel | Audio: normal
+FLAG0076,TRIP012,DRV004,06-02-2024 08:28,651,harsh_accel,low,0.464,0,0.209,harsh accel detected. Combined score 0.209.,Motion: harsh_accel | Audio: normal
+FLAG0077,TRIP012,DRV004,06-02-2024 08:33,924,swerve,low,0.771,0,0.347,moderate brake detected. Combined score 0.347.,Motion: swerve | Audio: normal
+FLAG0078,TRIP012,DRV004,06-02-2024 08:43,1512,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0079,TRIP012,DRV004,06-02-2024 08:49,1890,harsh_accel,low,0.667,0,0.3,harsh accel detected. Combined score 0.3.,Motion: harsh_accel | Audio: normal
+FLAG0080,TRIP013,DRV005,06-02-2024 06:06,182,harsh_braking,low,0.837,0,0.377,harsh braking detected. Combined score 0.377.,Motion: harsh_braking | Audio: normal
+FLAG0081,TRIP013,DRV005,06-02-2024 06:16,832,harsh_accel,low,0.419,0,0.189,harsh accel detected. Combined score 0.189.,Motion: harsh_accel | Audio: normal
+FLAG0082,TRIP013,DRV005,06-02-2024 06:20,1066,conflict_moment,high,0.831,0.95,1,"harsh accel detected. elevated cabin audio (92 dB, 53s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0083,TRIP013,DRV005,06-02-2024 06:31,1716,swerve,low,0.649,0,0.292,swerve detected. Combined score 0.292.,Motion: swerve | Audio: normal
+FLAG0084,TRIP013,DRV005,06-02-2024 06:35,1976,moderate_brake,low,0.275,0,0.124,moderate brake detected. Combined score 0.124.,Motion: moderate_brake | Audio: normal
+FLAG0085,TRIP013,DRV005,06-02-2024 06:52,2990,harsh_accel,low,0.412,0,0.185,harsh accel detected. Combined score 0.185.,Motion: harsh_accel | Audio: normal
+FLAG0086,TRIP013,DRV005,06-02-2024 07:02,3588,swerve,low,0.703,0,0.316,swerve detected. Combined score 0.316.,Motion: swerve | Audio: normal
+FLAG0087,TRIP014,DRV005,06-02-2024 07:34,0,harsh_braking,medium,0.935,0,0.421,pothole detected. Combined score 0.421.,Motion: harsh_braking | Audio: normal
+FLAG0088,TRIP014,DRV005,06-02-2024 07:39,352,moderate_brake,low,0.206,0,0.093,moderate brake detected. Combined score 0.093.,Motion: moderate_brake | Audio: normal
+FLAG0089,TRIP014,DRV005,06-02-2024 07:45,660,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0090,TRIP014,DRV005,06-02-2024 07:58,1452,harsh_braking,low,0.438,0,0.197,harsh braking detected. Combined score 0.197.,Motion: harsh_braking | Audio: normal
+FLAG0091,TRIP014,DRV005,06-02-2024 08:03,1760,swerve,low,0.282,0,0.127,swerve detected. Combined score 0.127.,Motion: swerve | Audio: normal
+FLAG0092,TRIP014,DRV005,06-02-2024 08:09,2112,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0093,TRIP015,DRV005,06-02-2024 08:43,125,swerve,low,0.156,0,0.07,swerve detected. Combined score 0.07.,Motion: swerve | Audio: normal
+FLAG0094,TRIP015,DRV005,06-02-2024 08:46,300,harsh_accel,low,0.578,0,0.26,harsh accel detected. Combined score 0.26.,Motion: harsh_accel | Audio: normal
+FLAG0095,TRIP015,DRV005,06-02-2024 08:52,700,harsh_accel,low,0.438,0,0.197,harsh accel detected. Combined score 0.197.,Motion: harsh_accel | Audio: normal
+FLAG0096,TRIP016,DRV005,06-02-2024 09:22,19,swerve,low,0.544,0,0.245,swerve detected. Combined score 0.245.,Motion: swerve | Audio: normal
+FLAG0097,TRIP016,DRV005,06-02-2024 09:41,1178,harsh_braking,low,0.707,0,0.318,harsh braking detected. Combined score 0.318.,Motion: harsh_braking | Audio: normal
+FLAG0098,TRIP016,DRV005,06-02-2024 09:52,1805,harsh_accel,low,0.631,0,0.284,harsh accel detected. Combined score 0.284.,Motion: harsh_accel | Audio: normal
+FLAG0099,TRIP016,DRV005,06-02-2024 09:54,1976,harsh_braking,low,0.812,0,0.365,harsh braking detected. Combined score 0.365.,Motion: harsh_braking | Audio: normal
+FLAG0100,TRIP017,DRV006,06-02-2024 06:29,576,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0101,TRIP017,DRV006,06-02-2024 06:42,1320,harsh_accel,low,0.326,0,0.147,harsh accel detected. Combined score 0.147.,Motion: harsh_accel | Audio: normal
+FLAG0102,TRIP017,DRV006,06-02-2024 06:45,1536,harsh_accel,low,0.306,0,0.138,harsh accel detected. Combined score 0.138.,Motion: harsh_accel | Audio: normal
+FLAG0103,TRIP018,DRV006,06-02-2024 07:08,432,moderate_brake,low,0.174,0,0.078,moderate brake detected. Combined score 0.078.,Motion: moderate_brake | Audio: normal
+FLAG0104,TRIP018,DRV006,06-02-2024 07:10,576,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0105,TRIP018,DRV006,06-02-2024 07:17,972,harsh_braking,low,0.814,0,0.366,harsh braking detected. Combined score 0.366.,Motion: harsh_braking | Audio: normal
+FLAG0106,TRIP018,DRV006,06-02-2024 07:34,2016,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0107,TRIP018,DRV006,06-02-2024 07:47,2808,moderate_brake,low,0.313,0,0.141,moderate brake detected. Combined score 0.141.,Motion: moderate_brake | Audio: normal
+FLAG0108,TRIP018,DRV006,06-02-2024 07:54,3204,moderate_brake,low,0.146,0,0.066,moderate brake detected. Combined score 0.066.,Motion: moderate_brake | Audio: normal
+FLAG0109,TRIP019,DRV006,06-02-2024 08:25,176,harsh_braking,low,0.559,0,0.252,pothole detected. Combined score 0.252.,Motion: harsh_braking | Audio: normal
+FLAG0110,TRIP019,DRV006,06-02-2024 08:32,560,harsh_braking,low,0.631,0,0.284,harsh braking detected. Combined score 0.284.,Motion: harsh_braking | Audio: normal
+FLAG0111,TRIP019,DRV006,06-02-2024 08:37,848,harsh_accel,low,0.616,0,0.277,moderate brake detected. Combined score 0.277.,Motion: harsh_accel | Audio: normal
+FLAG0112,TRIP020,DRV006,06-02-2024 08:58,42,swerve,low,0.196,0,0.088,swerve detected. Combined score 0.088.,Motion: swerve | Audio: normal
+FLAG0113,TRIP020,DRV006,06-02-2024 09:15,1050,harsh_braking,low,0.58,0,0.261,harsh braking detected. Combined score 0.261.,Motion: harsh_braking | Audio: normal
+FLAG0114,TRIP020,DRV006,06-02-2024 09:17,1180,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (95 dB, 55s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0115,TRIP020,DRV006,06-02-2024 09:23,1512,moderate_brake,low,0.25,0,0.113,moderate brake detected. Combined score 0.113.,Motion: moderate_brake | Audio: normal
+FLAG0116,TRIP020,DRV006,06-02-2024 09:29,1890,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0117,TRIP020,DRV006,06-02-2024 09:37,2352,harsh_accel,low,0.611,0,0.275,harsh accel detected. Combined score 0.275.,Motion: harsh_accel | Audio: normal
+FLAG0118,TRIP021,DRV007,06-02-2024 06:37,645,swerve,low,0.43,0,0.194,swerve detected. Combined score 0.194.,Motion: swerve | Audio: normal
+FLAG0119,TRIP021,DRV007,06-02-2024 06:45,1118,moderate_brake,low,0.335,0,0.151,moderate brake detected. Combined score 0.151.,Motion: moderate_brake | Audio: normal
+FLAG0120,TRIP021,DRV007,06-02-2024 06:47,1247,swerve,low,0.712,0,0.32,swerve detected. Combined score 0.32.,Motion: swerve | Audio: normal
+FLAG0121,TRIP021,DRV007,06-02-2024 06:54,1634,conflict_moment,medium,0,0.733,0.403,"elevated cabin audio (88 dB, 32s sustained). Combined score 0.403.",Motion: conflict_moment | Audio: conflict
+FLAG0122,TRIP021,DRV007,06-02-2024 07:02,2107,harsh_accel,low,0.667,0,0.3,harsh accel detected. Combined score 0.3.,Motion: harsh_accel | Audio: normal
+FLAG0123,TRIP021,DRV007,06-02-2024 07:23,3397,swerve,low,0.517,0,0.233,swerve detected. Combined score 0.233.,Motion: swerve | Audio: normal
+FLAG0124,TRIP022,DRV007,06-02-2024 08:04,64,moderate_brake,low,0.158,0,0.071,moderate brake detected. Combined score 0.071.,Motion: moderate_brake | Audio: normal
+FLAG0125,TRIP022,DRV007,06-02-2024 08:11,480,swerve,low,0.526,0,0.237,swerve detected. Combined score 0.237.,Motion: swerve | Audio: normal
+FLAG0126,TRIP022,DRV007,06-02-2024 08:18,928,swerve,low,0.599,0,0.27,swerve detected. Combined score 0.27.,Motion: swerve | Audio: normal
+FLAG0127,TRIP022,DRV007,06-02-2024 08:25,1344,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0128,TRIP022,DRV007,06-02-2024 08:31,1728,swerve,low,0.273,0,0.123,swerve detected. Combined score 0.123.,Motion: swerve | Audio: normal
+FLAG0129,TRIP022,DRV007,06-02-2024 08:38,2112,harsh_braking,low,0.806,0,0.363,moderate brake detected. Combined score 0.363.,Motion: harsh_braking | Audio: normal
+FLAG0130,TRIP022,DRV007,06-02-2024 08:43,2400,harsh_accel,low,0.675,0,0.304,harsh accel detected. Combined score 0.304.,Motion: harsh_accel | Audio: normal
+FLAG0131,TRIP023,DRV008,06-02-2024 17:05,51,harsh_braking,medium,0.849,0,0.382,moderate brake detected. Combined score 0.382.,Motion: harsh_braking | Audio: normal
+FLAG0132,TRIP023,DRV008,06-02-2024 17:12,425,harsh_braking,low,0.788,0,0.355,harsh braking detected. Combined score 0.355.,Motion: harsh_braking | Audio: normal
+FLAG0133,TRIP023,DRV008,06-02-2024 17:19,850,harsh_accel,low,0.484,0,0.218,harsh accel detected. Combined score 0.218.,Motion: harsh_accel | Audio: normal
+FLAG0134,TRIP023,DRV008,06-02-2024 17:33,1683,harsh_accel,low,0.395,0,0.178,harsh accel detected. Combined score 0.178.,Motion: harsh_accel | Audio: normal
+FLAG0135,TRIP023,DRV008,06-02-2024 17:37,1921,moderate_brake,low,0.27,0,0.122,moderate brake detected. Combined score 0.122.,Motion: moderate_brake | Audio: normal
+FLAG0136,TRIP023,DRV008,06-02-2024 17:39,2091,harsh_braking,low,0.707,0,0.318,harsh braking detected. Combined score 0.318.,Motion: harsh_braking | Audio: normal
+FLAG0137,TRIP023,DRV008,06-02-2024 17:44,2363,harsh_accel,low,0.548,0,0.247,pothole detected. Combined score 0.247.,Motion: harsh_accel | Audio: normal
+FLAG0138,TRIP023,DRV008,06-02-2024 17:49,2669,harsh_braking,low,0.53,0,0.239,harsh braking detected. Combined score 0.239.,Motion: harsh_braking | Audio: normal
+FLAG0139,TRIP023,DRV008,06-02-2024 17:55,3026,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0140,TRIP023,DRV008,06-02-2024 17:57,3179,harsh_braking,low,0.61,0,0.275,harsh braking detected. Combined score 0.275.,Motion: harsh_braking | Audio: normal
+FLAG0141,TRIP024,DRV008,06-02-2024 18:20,68,harsh_braking,low,0.354,0,0.159,harsh braking detected. Combined score 0.159.,Motion: harsh_braking | Audio: normal
+FLAG0142,TRIP024,DRV008,06-02-2024 18:26,425,harsh_accel,low,0.439,0,0.198,harsh accel detected. Combined score 0.198.,Motion: harsh_accel | Audio: normal
+FLAG0143,TRIP024,DRV008,06-02-2024 18:36,1071,harsh_braking,medium,0.95,0,0.427,harsh accel detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0144,TRIP024,DRV008,06-02-2024 18:46,1666,moderate_brake,low,0.157,0,0.071,moderate brake detected. Combined score 0.071.,Motion: moderate_brake | Audio: normal
+FLAG0145,TRIP024,DRV008,06-02-2024 18:51,1955,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0146,TRIP024,DRV008,06-02-2024 18:57,2312,harsh_accel,low,0.57,0,0.257,harsh accel detected. Combined score 0.257.,Motion: harsh_accel | Audio: normal
+FLAG0147,TRIP024,DRV008,06-02-2024 19:00,2482,moderate_brake,low,0.21,0,0.095,moderate brake detected. Combined score 0.095.,Motion: moderate_brake | Audio: normal
+FLAG0148,TRIP024,DRV008,06-02-2024 19:02,2635,harsh_braking,medium,0.946,0,0.426,harsh braking detected. Combined score 0.426.,Motion: harsh_braking | Audio: normal
+FLAG0149,TRIP024,DRV008,06-02-2024 19:14,3349,swerve,low,0.587,0,0.264,harsh accel detected. Combined score 0.264.,Motion: swerve | Audio: normal
+FLAG0150,TRIP025,DRV009,06-02-2024 06:03,36,swerve,low,0.664,0,0.299,swerve detected. Combined score 0.299.,Motion: swerve | Audio: normal
+FLAG0151,TRIP025,DRV009,06-02-2024 06:10,468,swerve,low,0.241,0,0.108,swerve detected. Combined score 0.108.,Motion: swerve | Audio: normal
+FLAG0152,TRIP025,DRV009,06-02-2024 06:16,792,conflict_moment,high,0.279,0.95,0.778,"moderate brake detected. elevated cabin audio (92 dB, 57s sustained). Combined score 0.778.",Motion: conflict_moment | Audio: conflict
+FLAG0153,TRIP025,DRV009,06-02-2024 06:24,1260,swerve,low,0.606,0,0.273,swerve detected. Combined score 0.273.,Motion: swerve | Audio: normal
+FLAG0154,TRIP025,DRV009,06-02-2024 06:29,1584,harsh_accel,low,0.604,0,0.272,harsh braking detected. Combined score 0.272.,Motion: harsh_accel | Audio: normal
+FLAG0155,TRIP026,DRV009,06-02-2024 06:56,216,harsh_braking,low,0.637,0,0.287,harsh braking detected. Combined score 0.287.,Motion: harsh_braking | Audio: normal
+FLAG0156,TRIP026,DRV009,06-02-2024 07:08,936,harsh_accel,low,0.633,0,0.285,harsh accel detected. Combined score 0.285.,Motion: harsh_accel | Audio: normal
+FLAG0157,TRIP026,DRV009,06-02-2024 07:11,1080,harsh_accel,low,0.625,0,0.281,harsh accel detected. Combined score 0.281.,Motion: harsh_accel | Audio: normal
+FLAG0158,TRIP026,DRV009,06-02-2024 07:14,1260,harsh_accel,low,0.483,0,0.217,harsh accel detected. Combined score 0.217.,Motion: harsh_accel | Audio: normal
+FLAG0159,TRIP026,DRV009,06-02-2024 07:18,1548,moderate_brake,low,0.323,0,0.145,moderate brake detected. Combined score 0.145.,Motion: moderate_brake | Audio: normal
+FLAG0160,TRIP026,DRV009,06-02-2024 07:21,1692,harsh_accel,low,0.408,0,0.184,harsh accel detected. Combined score 0.184.,Motion: harsh_accel | Audio: normal
+FLAG0161,TRIP027,DRV009,06-02-2024 07:58,0,swerve,low,0.153,0,0.069,swerve detected. Combined score 0.069.,Motion: swerve | Audio: normal
+FLAG0162,TRIP027,DRV009,06-02-2024 08:00,176,swerve,low,0.682,0,0.307,swerve detected. Combined score 0.307.,Motion: swerve | Audio: normal
+FLAG0163,TRIP027,DRV009,06-02-2024 08:19,1276,harsh_accel,low,0.496,0,0.223,harsh braking detected. Combined score 0.223.,Motion: harsh_accel | Audio: normal
+FLAG0164,TRIP027,DRV009,06-02-2024 08:25,1672,harsh_accel,low,0.429,0,0.193,harsh accel detected. Combined score 0.193.,Motion: harsh_accel | Audio: normal
+FLAG0165,TRIP028,DRV009,06-02-2024 08:58,217,moderate_brake,low,0.161,0,0.072,moderate brake detected. Combined score 0.072.,Motion: moderate_brake | Audio: normal
+FLAG0166,TRIP028,DRV009,06-02-2024 09:01,372,harsh_accel,low,0.516,0,0.232,harsh accel detected. Combined score 0.232.,Motion: harsh_accel | Audio: normal
+FLAG0167,TRIP028,DRV009,06-02-2024 09:04,589,harsh_braking,low,0.607,0,0.273,harsh braking detected. Combined score 0.273.,Motion: harsh_braking | Audio: normal
+FLAG0168,TRIP028,DRV009,06-02-2024 09:07,775,swerve,low,0.587,0,0.264,swerve detected. Combined score 0.264.,Motion: swerve | Audio: normal
+FLAG0169,TRIP028,DRV009,06-02-2024 09:11,961,harsh_braking,low,0.486,0,0.219,moderate brake detected. Combined score 0.219.,Motion: harsh_braking | Audio: normal
+FLAG0170,TRIP029,DRV010,06-02-2024 17:17,162,harsh_braking,low,0.728,0,0.328,harsh braking detected. Combined score 0.328.,Motion: harsh_braking | Audio: normal
+FLAG0171,TRIP029,DRV010,06-02-2024 17:19,297,swerve,low,0.714,0,0.321,swerve detected. Combined score 0.321.,Motion: swerve | Audio: normal
+FLAG0172,TRIP029,DRV010,06-02-2024 17:26,675,swerve,low,0.313,0,0.141,swerve detected. Combined score 0.141.,Motion: swerve | Audio: normal
+FLAG0173,TRIP029,DRV010,06-02-2024 17:28,837,harsh_braking,medium,0.859,0,0.387,harsh braking detected. Combined score 0.387.,Motion: harsh_braking | Audio: normal
+FLAG0174,TRIP029,DRV010,06-02-2024 17:31,999,harsh_braking,low,0.534,0,0.24,harsh braking detected. Combined score 0.24.,Motion: harsh_braking | Audio: normal
+FLAG0175,TRIP029,DRV010,06-02-2024 17:33,1134,swerve,low,0.278,0,0.125,swerve detected. Combined score 0.125.,Motion: swerve | Audio: normal
+FLAG0176,TRIP029,DRV010,06-02-2024 17:37,1377,harsh_braking,low,0.598,0,0.269,harsh braking detected. Combined score 0.269.,Motion: harsh_braking | Audio: normal
+FLAG0177,TRIP029,DRV010,06-02-2024 17:41,1566,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0178,TRIP029,DRV010,06-02-2024 17:45,1809,harsh_accel,low,0.65,0,0.293,harsh accel detected. Combined score 0.293.,Motion: harsh_accel | Audio: normal
+FLAG0179,TRIP030,DRV010,06-02-2024 18:13,62,moderate_brake,low,0.224,0,0.101,moderate brake detected. Combined score 0.101.,Motion: moderate_brake | Audio: normal
+FLAG0180,TRIP030,DRV010,06-02-2024 18:17,341,moderate_brake,low,0.237,0,0.107,moderate brake detected. Combined score 0.107.,Motion: moderate_brake | Audio: normal
+FLAG0181,TRIP030,DRV010,06-02-2024 18:22,620,harsh_accel,low,0.438,0,0.197,swerve detected. Combined score 0.197.,Motion: harsh_accel | Audio: normal
+FLAG0182,TRIP030,DRV010,06-02-2024 18:30,1085,swerve,low,0.384,0,0.173,swerve detected. Combined score 0.173.,Motion: swerve | Audio: normal
+FLAG0183,TRIP030,DRV010,06-02-2024 18:38,1581,moderate_brake,low,0.163,0,0.073,moderate brake detected. Combined score 0.073.,Motion: moderate_brake | Audio: normal
+FLAG0184,TRIP030,DRV010,06-02-2024 18:40,1736,harsh_accel,low,0.633,0,0.285,pothole detected. Combined score 0.285.,Motion: harsh_accel | Audio: normal
+FLAG0185,TRIP030,DRV010,06-02-2024 18:45,2015,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0186,TRIP030,DRV010,06-02-2024 18:48,2201,harsh_braking,medium,0.911,0,0.41,swerve detected. Combined score 0.41.,Motion: harsh_braking | Audio: normal
+FLAG0187,TRIP030,DRV010,06-02-2024 18:53,2511,swerve,low,0.459,0,0.207,swerve detected. Combined score 0.207.,Motion: swerve | Audio: normal
+FLAG0188,TRIP030,DRV010,06-02-2024 18:57,2728,harsh_accel,low,0.443,0,0.199,harsh accel detected. Combined score 0.199.,Motion: harsh_accel | Audio: normal
+FLAG0189,TRIP031,DRV010,06-02-2024 19:24,280,harsh_braking,low,0.74,0,0.333,harsh braking detected. Combined score 0.333.,Motion: harsh_braking | Audio: normal
+FLAG0190,TRIP031,DRV010,06-02-2024 19:32,720,harsh_accel,low,0.364,0,0.164,harsh accel detected. Combined score 0.164.,Motion: harsh_accel | Audio: normal
+FLAG0191,TRIP031,DRV010,06-02-2024 19:34,880,harsh_accel,low,0.407,0,0.183,harsh accel detected. Combined score 0.183.,Motion: harsh_accel | Audio: normal
+FLAG0192,TRIP031,DRV010,06-02-2024 19:46,1600,harsh_braking,low,0.364,0,0.164,harsh braking detected. Combined score 0.164.,Motion: harsh_braking | Audio: normal
+FLAG0193,TRIP031,DRV010,06-02-2024 19:51,1880,moderate_brake,low,0.141,0,0.063,moderate brake detected. Combined score 0.063.,Motion: moderate_brake | Audio: normal
+FLAG0194,TRIP031,DRV010,06-02-2024 20:02,2520,harsh_accel,low,0.628,0,0.283,harsh accel detected. Combined score 0.283.,Motion: harsh_accel | Audio: normal
+FLAG0195,TRIP032,DRV010,06-02-2024 20:26,351,swerve,low,0.405,0,0.182,swerve detected. Combined score 0.182.,Motion: swerve | Audio: normal
+FLAG0196,TRIP032,DRV010,06-02-2024 20:41,1209,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0197,TRIP032,DRV010,06-02-2024 20:51,1833,harsh_accel,low,0.431,0,0.194,harsh accel detected. Combined score 0.194.,Motion: harsh_accel | Audio: normal
+FLAG0198,TRIP032,DRV010,06-02-2024 21:01,2457,harsh_accel,low,0.467,0,0.21,harsh accel detected. Combined score 0.21.,Motion: harsh_accel | Audio: normal
+FLAG0199,TRIP032,DRV010,06-02-2024 21:12,3060,swerve,low,0.27,0,0.122,swerve detected. Combined score 0.122.,Motion: swerve | Audio: normal
+FLAG0200,TRIP033,DRV010,06-02-2024 21:47,120,harsh_braking,low,0.529,0,0.238,moderate brake detected. Combined score 0.238.,Motion: harsh_braking | Audio: normal
+FLAG0201,TRIP033,DRV010,06-02-2024 21:53,480,harsh_braking,low,0.793,0,0.357,harsh braking detected. Combined score 0.357.,Motion: harsh_braking | Audio: normal
+FLAG0202,TRIP033,DRV010,06-02-2024 22:11,1560,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0203,TRIP033,DRV010,06-02-2024 22:14,1740,harsh_braking,low,0.83,0,0.373,harsh accel detected. Combined score 0.373.,Motion: harsh_braking | Audio: normal
+FLAG0204,TRIP033,DRV010,06-02-2024 22:19,2040,harsh_braking,medium,0.909,0,0.409,harsh accel detected. Combined score 0.409.,Motion: harsh_braking | Audio: normal
+FLAG0205,TRIP033,DRV010,06-02-2024 22:27,2550,moderate_brake,low,0.11,0,0.05,moderate brake detected. Combined score 0.05.,Motion: moderate_brake | Audio: normal
+FLAG0206,TRIP033,DRV010,06-02-2024 22:38,3210,moderate_brake,low,0.134,0,0.06,moderate brake detected. Combined score 0.06.,Motion: moderate_brake | Audio: normal
+FLAG0207,TRIP033,DRV010,06-02-2024 22:43,3480,swerve,low,0.499,0,0.225,swerve detected. Combined score 0.225.,Motion: swerve | Audio: normal
+FLAG0208,TRIP034,DRV011,06-02-2024 06:25,0,swerve,low,0.248,0,0.112,swerve detected. Combined score 0.112.,Motion: swerve | Audio: normal
+FLAG0209,TRIP034,DRV011,06-02-2024 06:33,480,harsh_accel,low,0.271,0,0.122,harsh accel detected. Combined score 0.122.,Motion: harsh_accel | Audio: normal
+FLAG0210,TRIP034,DRV011,06-02-2024 06:36,705,harsh_accel,low,0.401,0,0.18,harsh accel detected. Combined score 0.18.,Motion: harsh_accel | Audio: normal
+FLAG0211,TRIP035,DRV011,06-02-2024 07:16,270,harsh_braking,low,0.666,0,0.3,harsh braking detected. Combined score 0.3.,Motion: harsh_braking | Audio: normal
+FLAG0212,TRIP035,DRV011,06-02-2024 07:22,648,moderate_brake,low,0.211,0,0.095,moderate brake detected. Combined score 0.095.,Motion: moderate_brake | Audio: normal
+FLAG0213,TRIP035,DRV011,06-02-2024 07:25,810,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0214,TRIP035,DRV011,06-02-2024 07:28,972,harsh_braking,low,0.769,0,0.346,harsh braking detected. Combined score 0.346.,Motion: harsh_braking | Audio: normal
+FLAG0215,TRIP035,DRV011,06-02-2024 07:31,1188,harsh_accel,low,0.593,0,0.267,harsh accel detected. Combined score 0.267.,Motion: harsh_accel | Audio: normal
+FLAG0216,TRIP035,DRV011,06-02-2024 07:35,1431,harsh_accel,low,0.29,0,0.131,harsh accel detected. Combined score 0.131.,Motion: harsh_accel | Audio: normal
+FLAG0217,TRIP035,DRV011,06-02-2024 07:39,1647,swerve,low,0.663,0,0.298,swerve detected. Combined score 0.298.,Motion: swerve | Audio: normal
+FLAG0218,TRIP035,DRV011,06-02-2024 07:45,1998,harsh_braking,medium,0.939,0,0.423,harsh accel detected. Combined score 0.423.,Motion: harsh_braking | Audio: normal
+FLAG0219,TRIP035,DRV011,06-02-2024 07:51,2349,swerve,low,0.772,0,0.347,harsh braking detected. Combined score 0.347.,Motion: swerve | Audio: normal
+FLAG0220,TRIP035,DRV011,06-02-2024 07:55,2592,harsh_accel,low,0.279,0,0.126,harsh accel detected. Combined score 0.126.,Motion: harsh_accel | Audio: normal
+FLAG0221,TRIP035,DRV011,06-02-2024 07:58,2781,swerve,low,0.698,0,0.314,harsh accel detected. Combined score 0.314.,Motion: swerve | Audio: normal
+FLAG0222,TRIP035,DRV011,06-02-2024 08:03,3078,harsh_accel,low,0.616,0,0.277,harsh accel detected. Combined score 0.277.,Motion: harsh_accel | Audio: normal
+FLAG0223,TRIP035,DRV011,06-02-2024 08:10,3510,swerve,low,0.5,0,0.225,swerve detected. Combined score 0.225.,Motion: swerve | Audio: normal
+FLAG0224,TRIP036,DRV012,06-02-2024 17:24,116,harsh_braking,low,0.795,0,0.358,swerve detected. Combined score 0.358.,Motion: harsh_braking | Audio: normal
+FLAG0225,TRIP036,DRV012,06-02-2024 17:37,841,harsh_braking,low,0.445,0,0.2,harsh braking detected. Combined score 0.2.,Motion: harsh_braking | Audio: normal
+FLAG0226,TRIP036,DRV012,06-02-2024 17:44,1276,harsh_accel,low,0.637,0,0.287,harsh accel detected. Combined score 0.287.,Motion: harsh_accel | Audio: normal
+FLAG0227,TRIP037,DRV012,06-02-2024 18:11,0,swerve,low,0.414,0,0.186,swerve detected. Combined score 0.186.,Motion: swerve | Audio: normal
+FLAG0228,TRIP037,DRV012,06-02-2024 18:19,512,harsh_braking,low,0.403,0,0.181,moderate brake detected. Combined score 0.181.,Motion: harsh_braking | Audio: normal
+FLAG0229,TRIP037,DRV012,06-02-2024 18:22,672,harsh_braking,low,0.784,0,0.353,harsh braking detected. Combined score 0.353.,Motion: harsh_braking | Audio: normal
+FLAG0230,TRIP037,DRV012,06-02-2024 18:25,864,harsh_braking,low,0.701,0,0.315,harsh braking detected. Combined score 0.315.,Motion: harsh_braking | Audio: normal
+FLAG0231,TRIP037,DRV012,06-02-2024 18:29,1088,harsh_accel,low,0.348,0,0.157,harsh accel detected. Combined score 0.157.,Motion: harsh_accel | Audio: normal
+FLAG0232,TRIP037,DRV012,06-02-2024 18:31,1248,harsh_accel,low,0.56,0,0.252,harsh accel detected. Combined score 0.252.,Motion: harsh_accel | Audio: normal
+FLAG0233,TRIP037,DRV012,06-02-2024 18:37,1600,harsh_braking,low,0.656,0,0.295,harsh braking detected. Combined score 0.295.,Motion: harsh_braking | Audio: normal
+FLAG0234,TRIP038,DRV012,06-02-2024 18:51,24,swerve,low,0.657,0,0.296,swerve detected. Combined score 0.296.,Motion: swerve | Audio: normal
+FLAG0235,TRIP038,DRV012,06-02-2024 18:57,360,swerve,low,0.209,0,0.094,swerve detected. Combined score 0.094.,Motion: swerve | Audio: normal
+FLAG0236,TRIP038,DRV012,06-02-2024 19:08,1056,swerve,low,0.697,0,0.314,swerve detected. Combined score 0.314.,Motion: swerve | Audio: normal
+FLAG0237,TRIP038,DRV012,06-02-2024 19:13,1344,harsh_braking,low,0.82,0,0.369,harsh braking detected. Combined score 0.369.,Motion: harsh_braking | Audio: normal
+FLAG0238,TRIP038,DRV012,06-02-2024 19:19,1728,harsh_accel,low,0.655,0,0.295,harsh accel detected. Combined score 0.295.,Motion: harsh_accel | Audio: normal
+FLAG0239,TRIP038,DRV012,06-02-2024 19:25,2088,moderate_brake,low,0.276,0,0.124,moderate brake detected. Combined score 0.124.,Motion: moderate_brake | Audio: normal
+FLAG0240,TRIP038,DRV012,06-02-2024 19:29,2280,swerve,low,0.458,0,0.206,harsh accel detected. Combined score 0.206.,Motion: swerve | Audio: normal
+FLAG0241,TRIP039,DRV012,06-02-2024 19:47,186,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0242,TRIP039,DRV012,06-02-2024 19:53,558,moderate_brake,low,0.131,0,0.059,moderate brake detected. Combined score 0.059.,Motion: moderate_brake | Audio: normal
+FLAG0243,TRIP039,DRV012,06-02-2024 19:55,713,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0244,TRIP039,DRV012,06-02-2024 20:01,1023,moderate_brake,low,0.317,0,0.143,moderate brake detected. Combined score 0.143.,Motion: moderate_brake | Audio: normal
+FLAG0245,TRIP039,DRV012,06-02-2024 20:07,1395,harsh_braking,low,0.767,0,0.345,harsh braking detected. Combined score 0.345.,Motion: harsh_braking | Audio: normal
+FLAG0246,TRIP039,DRV012,06-02-2024 20:10,1581,harsh_accel,low,0.585,0,0.263,harsh accel detected. Combined score 0.263.,Motion: harsh_accel | Audio: normal
+FLAG0247,TRIP039,DRV012,06-02-2024 20:12,1705,harsh_accel,low,0.585,0,0.263,moderate brake detected. Combined score 0.263.,Motion: harsh_accel | Audio: normal
+FLAG0248,TRIP039,DRV012,06-02-2024 20:15,1891,harsh_accel,low,0.441,0,0.198,harsh accel detected. Combined score 0.198.,Motion: harsh_accel | Audio: normal
+FLAG0249,TRIP039,DRV012,06-02-2024 20:33,2945,swerve,low,0.588,0,0.265,swerve detected. Combined score 0.265.,Motion: swerve | Audio: normal
+FLAG0250,TRIP039,DRV012,06-02-2024 20:37,3193,harsh_braking,medium,0.848,0,0.382,harsh accel detected. Combined score 0.382.,Motion: harsh_braking | Audio: normal
+FLAG0251,TRIP039,DRV012,06-02-2024 20:43,3596,swerve,low,0.288,0,0.13,swerve detected. Combined score 0.13.,Motion: swerve | Audio: normal
+FLAG0252,TRIP040,DRV012,06-02-2024 20:55,0,swerve,low,0.604,0,0.272,swerve detected. Combined score 0.272.,Motion: swerve | Audio: normal
+FLAG0253,TRIP040,DRV012,06-02-2024 20:57,123,moderate_brake,low,0.209,0,0.094,moderate brake detected. Combined score 0.094.,Motion: moderate_brake | Audio: normal
+FLAG0254,TRIP040,DRV012,06-02-2024 21:00,328,swerve,low,0.396,0,0.178,swerve detected. Combined score 0.178.,Motion: swerve | Audio: normal
+FLAG0255,TRIP040,DRV012,06-02-2024 21:04,574,moderate_brake,low,0.229,0,0.103,moderate brake detected. Combined score 0.103.,Motion: moderate_brake | Audio: normal
+FLAG0256,TRIP040,DRV012,06-02-2024 21:10,902,swerve,low,0.495,0,0.223,swerve detected. Combined score 0.223.,Motion: swerve | Audio: normal
+FLAG0257,TRIP040,DRV012,06-02-2024 21:13,1107,moderate_brake,low,0.203,0,0.091,moderate brake detected. Combined score 0.091.,Motion: moderate_brake | Audio: normal
+FLAG0258,TRIP040,DRV012,06-02-2024 21:16,1312,swerve,low,0.571,0,0.257,swerve detected. Combined score 0.257.,Motion: swerve | Audio: normal
+FLAG0259,TRIP041,DRV012,06-02-2024 21:38,0,swerve,low,0.245,0,0.11,swerve detected. Combined score 0.11.,Motion: swerve | Audio: normal
+FLAG0260,TRIP041,DRV012,06-02-2024 21:44,405,moderate_brake,low,0.143,0,0.064,moderate brake detected. Combined score 0.064.,Motion: moderate_brake | Audio: normal
+FLAG0261,TRIP041,DRV012,06-02-2024 21:47,594,swerve,low,0.674,0,0.303,harsh braking detected. Combined score 0.303.,Motion: swerve | Audio: normal
+FLAG0262,TRIP041,DRV012,06-02-2024 22:00,1323,harsh_accel,low,0.377,0,0.17,harsh accel detected. Combined score 0.17.,Motion: harsh_accel | Audio: normal
+FLAG0263,TRIP041,DRV012,06-02-2024 22:07,1755,harsh_braking,low,0.36,0,0.162,harsh braking detected. Combined score 0.162.,Motion: harsh_braking | Audio: normal
+FLAG0264,TRIP041,DRV012,06-02-2024 22:12,2052,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0265,TRIP041,DRV012,06-02-2024 22:14,2214,harsh_accel,low,0.593,0,0.267,pothole detected. Combined score 0.267.,Motion: harsh_accel | Audio: normal
+FLAG0266,TRIP042,DRV013,06-02-2024 12:31,363,moderate_brake,low,0.23,0,0.104,moderate brake detected. Combined score 0.104.,Motion: moderate_brake | Audio: normal
+FLAG0267,TRIP042,DRV013,06-02-2024 12:36,693,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0268,TRIP042,DRV013,06-02-2024 12:42,1056,harsh_accel,low,0.553,0,0.249,moderate brake detected. Combined score 0.249.,Motion: harsh_accel | Audio: normal
+FLAG0269,TRIP042,DRV013,06-02-2024 12:53,1716,harsh_accel,low,0.625,0,0.281,moderate brake detected. Combined score 0.281.,Motion: harsh_accel | Audio: normal
+FLAG0270,TRIP043,DRV013,06-02-2024 13:41,1760,harsh_accel,low,0.313,0,0.141,harsh accel detected. Combined score 0.141.,Motion: harsh_accel | Audio: normal
+FLAG0271,TRIP043,DRV013,06-02-2024 13:44,1940,harsh_braking,low,0.58,0,0.261,harsh braking detected. Combined score 0.261.,Motion: harsh_braking | Audio: normal
+FLAG0272,TRIP043,DRV013,06-02-2024 13:48,2200,swerve,low,0.605,0,0.272,swerve detected. Combined score 0.272.,Motion: swerve | Audio: normal
+FLAG0273,TRIP044,DRV013,06-02-2024 14:14,810,harsh_braking,low,0.46,0,0.207,harsh braking detected. Combined score 0.207.,Motion: harsh_braking | Audio: normal
+FLAG0274,TRIP045,DRV014,06-02-2024 12:49,1716,harsh_accel,low,0.568,0,0.256,harsh accel detected. Combined score 0.256.,Motion: harsh_accel | Audio: normal
+FLAG0275,TRIP045,DRV014,06-02-2024 12:55,2068,harsh_accel,low,0.591,0,0.266,harsh accel detected. Combined score 0.266.,Motion: harsh_accel | Audio: normal
+FLAG0276,TRIP045,DRV014,06-02-2024 13:02,2508,harsh_accel,low,0.301,0,0.135,harsh accel detected. Combined score 0.135.,Motion: harsh_accel | Audio: normal
+FLAG0277,TRIP045,DRV014,06-02-2024 13:13,3124,harsh_accel,low,0.432,0,0.194,moderate brake detected. Combined score 0.194.,Motion: harsh_accel | Audio: normal
+FLAG0278,TRIP046,DRV014,06-02-2024 13:42,0,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0279,TRIP046,DRV014,06-02-2024 13:56,874,harsh_braking,low,0.41,0,0.184,harsh braking detected. Combined score 0.184.,Motion: harsh_braking | Audio: normal
+FLAG0280,TRIP046,DRV014,06-02-2024 14:13,1900,swerve,low,0.558,0,0.251,swerve detected. Combined score 0.251.,Motion: swerve | Audio: normal
+FLAG0281,TRIP046,DRV014,06-02-2024 14:25,2622,moderate_brake,low,0.105,0,0.047,moderate brake detected. Combined score 0.047.,Motion: moderate_brake | Audio: normal
+FLAG0282,TRIP047,DRV014,06-02-2024 14:45,400,harsh_accel,low,0.64,0,0.288,harsh accel detected. Combined score 0.288.,Motion: harsh_accel | Audio: normal
+FLAG0283,TRIP047,DRV014,06-02-2024 14:49,650,harsh_braking,low,0.773,0,0.348,moderate brake detected. Combined score 0.348.,Motion: harsh_braking | Audio: normal
+FLAG0284,TRIP047,DRV014,06-02-2024 14:53,875,swerve,low,0.154,0,0.069,swerve detected. Combined score 0.069.,Motion: swerve | Audio: normal
+FLAG0285,TRIP047,DRV014,06-02-2024 14:56,1050,harsh_braking,low,0.694,0,0.312,harsh braking detected. Combined score 0.312.,Motion: harsh_braking | Audio: normal
+FLAG0286,TRIP047,DRV014,06-02-2024 14:59,1200,harsh_accel,low,0.387,0,0.174,harsh accel detected. Combined score 0.174.,Motion: harsh_accel | Audio: normal
+FLAG0287,TRIP047,DRV014,06-02-2024 15:03,1475,harsh_accel,low,0.32,0,0.144,harsh accel detected. Combined score 0.144.,Motion: harsh_accel | Audio: normal
+FLAG0288,TRIP047,DRV014,06-02-2024 15:21,2525,moderate_brake,low,0.233,0,0.105,moderate brake detected. Combined score 0.105.,Motion: moderate_brake | Audio: normal
+FLAG0289,TRIP047,DRV014,06-02-2024 15:23,2675,harsh_accel,low,0.492,0,0.221,harsh accel detected. Combined score 0.221.,Motion: harsh_accel | Audio: normal
+FLAG0290,TRIP047,DRV014,06-02-2024 15:27,2925,harsh_braking,low,0.545,0,0.245,harsh braking detected. Combined score 0.245.,Motion: harsh_braking | Audio: normal
+FLAG0291,TRIP047,DRV014,06-02-2024 15:32,3200,harsh_accel,low,0.447,0,0.201,harsh accel detected. Combined score 0.201.,Motion: harsh_accel | Audio: normal
+FLAG0292,TRIP048,DRV014,06-02-2024 16:16,1739,moderate_brake,low,0.177,0,0.08,moderate brake detected. Combined score 0.08.,Motion: moderate_brake | Audio: normal
+FLAG0293,TRIP049,DRV014,06-02-2024 16:46,736,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0294,TRIP049,DRV014,06-02-2024 16:50,992,swerve,low,0.241,0,0.108,swerve detected. Combined score 0.108.,Motion: swerve | Audio: normal
+FLAG0295,TRIP049,DRV014,06-02-2024 16:58,1472,harsh_braking,low,0.72,0,0.324,moderate brake detected. Combined score 0.324.,Motion: harsh_braking | Audio: normal
+FLAG0296,TRIP049,DRV014,06-02-2024 17:08,2080,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0297,TRIP049,DRV014,06-02-2024 17:10,2208,harsh_accel,low,0.544,0,0.245,harsh accel detected. Combined score 0.245.,Motion: harsh_accel | Audio: normal
+FLAG0298,TRIP049,DRV014,06-02-2024 17:15,2496,swerve,low,0.607,0,0.273,swerve detected. Combined score 0.273.,Motion: swerve | Audio: normal
+FLAG0299,TRIP050,DRV015,06-02-2024 06:29,273,harsh_braking,low,0.624,0,0.281,harsh braking detected. Combined score 0.281.,Motion: harsh_braking | Audio: normal
+FLAG0300,TRIP050,DRV015,06-02-2024 06:39,858,moderate_brake,low,0.17,0,0.077,moderate brake detected. Combined score 0.077.,Motion: moderate_brake | Audio: normal
+FLAG0301,TRIP051,DRV015,06-02-2024 07:03,476,harsh_accel,low,0.508,0,0.229,harsh accel detected. Combined score 0.229.,Motion: harsh_accel | Audio: normal
+FLAG0302,TRIP051,DRV015,06-02-2024 07:09,784,conflict_moment,high,0.645,0.95,0.976,"harsh accel detected. elevated cabin audio (88 dB, 78s sustained). Combined score 0.976.",Motion: conflict_moment | Audio: conflict
+FLAG0303,TRIP051,DRV015,06-02-2024 07:16,1204,harsh_braking,low,0.783,0,0.352,harsh accel detected. Combined score 0.352.,Motion: harsh_braking | Audio: normal
+FLAG0304,TRIP051,DRV015,06-02-2024 07:24,1736,harsh_braking,low,0.767,0,0.345,harsh braking detected. Combined score 0.345.,Motion: harsh_braking | Audio: normal
+FLAG0305,TRIP051,DRV015,06-02-2024 07:27,1904,harsh_braking,low,0.784,0,0.353,harsh braking detected. Combined score 0.353.,Motion: harsh_braking | Audio: normal
+FLAG0306,TRIP051,DRV015,06-02-2024 07:32,2212,harsh_braking,low,0.791,0,0.356,harsh braking detected. Combined score 0.356.,Motion: harsh_braking | Audio: normal
+FLAG0307,TRIP051,DRV015,06-02-2024 07:39,2604,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0308,TRIP051,DRV015,06-02-2024 07:46,3024,harsh_braking,low,0.544,0,0.245,harsh braking detected. Combined score 0.245.,Motion: harsh_braking | Audio: normal
+FLAG0309,TRIP051,DRV015,06-02-2024 07:50,3248,swerve,low,0.324,0,0.146,moderate brake detected. Combined score 0.146.,Motion: swerve | Audio: normal
+FLAG0310,TRIP052,DRV016,06-02-2024 17:05,57,swerve,low,0.526,0,0.237,swerve detected. Combined score 0.237.,Motion: swerve | Audio: normal
+FLAG0311,TRIP052,DRV016,06-02-2024 17:14,551,moderate_brake,low,0.287,0,0.129,moderate brake detected. Combined score 0.129.,Motion: moderate_brake | Audio: normal
+FLAG0312,TRIP052,DRV016,06-02-2024 17:19,874,swerve,low,0.186,0,0.084,pothole detected. Combined score 0.084.,Motion: swerve | Audio: normal
+FLAG0313,TRIP052,DRV016,06-02-2024 17:24,1140,harsh_accel,low,0.53,0,0.239,harsh accel detected. Combined score 0.239.,Motion: harsh_accel | Audio: normal
+FLAG0314,TRIP053,DRV016,06-02-2024 17:42,280,harsh_braking,medium,0.901,0,0.405,harsh braking detected. Combined score 0.405.,Motion: harsh_braking | Audio: normal
+FLAG0315,TRIP053,DRV016,06-02-2024 17:47,580,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0316,TRIP053,DRV016,06-02-2024 17:50,720,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0317,TRIP053,DRV016,06-02-2024 17:52,880,harsh_accel,low,0.496,0,0.223,moderate brake detected. Combined score 0.223.,Motion: harsh_accel | Audio: normal
+FLAG0318,TRIP053,DRV016,06-02-2024 17:59,1260,harsh_braking,low,0.842,0,0.379,harsh braking detected. Combined score 0.379.,Motion: harsh_braking | Audio: normal
+FLAG0319,TRIP053,DRV016,06-02-2024 18:05,1620,harsh_accel,low,0.381,0,0.171,moderate brake detected. Combined score 0.171.,Motion: harsh_accel | Audio: normal
+FLAG0320,TRIP053,DRV016,06-02-2024 18:12,2040,swerve,low,0.685,0,0.308,harsh accel detected. Combined score 0.308.,Motion: swerve | Audio: normal
+FLAG0321,TRIP054,DRV016,06-02-2024 18:29,205,moderate_brake,low,0.186,0,0.084,moderate brake detected. Combined score 0.084.,Motion: moderate_brake | Audio: normal
+FLAG0322,TRIP054,DRV016,06-02-2024 18:38,738,swerve,low,0.411,0,0.185,swerve detected. Combined score 0.185.,Motion: swerve | Audio: normal
+FLAG0323,TRIP054,DRV016,06-02-2024 18:41,902,harsh_braking,low,0.708,0,0.319,harsh braking detected. Combined score 0.319.,Motion: harsh_braking | Audio: normal
+FLAG0324,TRIP054,DRV016,06-02-2024 18:47,1271,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0325,TRIP054,DRV016,06-02-2024 18:51,1558,swerve,low,0.645,0,0.29,swerve detected. Combined score 0.29.,Motion: swerve | Audio: normal
+FLAG0326,TRIP054,DRV016,06-02-2024 18:56,1845,conflict_moment,high,0.463,0.867,0.822,"harsh accel detected. elevated cabin audio (83 dB, 46s sustained). Combined score 0.822.",Motion: conflict_moment | Audio: conflict
+FLAG0327,TRIP054,DRV016,06-02-2024 19:02,2173,harsh_accel,low,0.598,0,0.269,harsh accel detected. Combined score 0.269.,Motion: harsh_accel | Audio: normal
+FLAG0328,TRIP054,DRV016,06-02-2024 19:08,2542,swerve,low,0.737,0,0.332,swerve detected. Combined score 0.332.,Motion: swerve | Audio: normal
+FLAG0329,TRIP055,DRV017,06-02-2024 17:26,272,moderate_brake,low,0.312,0,0.14,moderate brake detected. Combined score 0.14.,Motion: moderate_brake | Audio: normal
+FLAG0330,TRIP055,DRV017,06-02-2024 17:48,1598,harsh_braking,low,0.755,0,0.34,harsh braking detected. Combined score 0.34.,Motion: harsh_braking | Audio: normal
+FLAG0331,TRIP055,DRV017,06-02-2024 18:01,2380,moderate_brake,low,0.298,0,0.134,moderate brake detected. Combined score 0.134.,Motion: moderate_brake | Audio: normal
+FLAG0332,TRIP055,DRV017,06-02-2024 18:06,2652,harsh_braking,low,0.488,0,0.22,harsh braking detected. Combined score 0.22.,Motion: harsh_braking | Audio: normal
+FLAG0333,TRIP055,DRV017,06-02-2024 18:10,2924,swerve,low,0.256,0,0.115,swerve detected. Combined score 0.115.,Motion: swerve | Audio: normal
+FLAG0334,TRIP055,DRV017,06-02-2024 18:14,3120,swerve,low,0.517,0,0.233,swerve detected. Combined score 0.233.,Motion: swerve | Audio: normal
+FLAG0335,TRIP056,DRV017,06-02-2024 18:47,280,harsh_braking,low,0.357,0,0.161,harsh braking detected. Combined score 0.161.,Motion: harsh_braking | Audio: normal
+FLAG0336,TRIP056,DRV017,06-02-2024 18:57,840,conflict_moment,high,0.495,0.95,0.894,"harsh accel detected. elevated cabin audio (74 dB, 40s sustained). Combined score 0.894.",Motion: conflict_moment | Audio: conflict
+FLAG0337,TRIP056,DRV017,06-02-2024 19:02,1160,moderate_brake,low,0.261,0,0.117,moderate brake detected. Combined score 0.117.,Motion: moderate_brake | Audio: normal
+FLAG0338,TRIP056,DRV017,06-02-2024 19:05,1360,moderate_brake,low,0.217,0,0.098,moderate brake detected. Combined score 0.098.,Motion: moderate_brake | Audio: normal
+FLAG0339,TRIP056,DRV017,06-02-2024 19:10,1640,harsh_braking,low,0.797,0,0.359,harsh braking detected. Combined score 0.359.,Motion: harsh_braking | Audio: normal
+FLAG0340,TRIP056,DRV017,06-02-2024 19:17,2040,moderate_brake,low,0.258,0,0.116,moderate brake detected. Combined score 0.116.,Motion: moderate_brake | Audio: normal
+FLAG0341,TRIP057,DRV017,06-02-2024 19:45,264,harsh_braking,low,0.557,0,0.251,harsh braking detected. Combined score 0.251.,Motion: harsh_braking | Audio: normal
+FLAG0342,TRIP057,DRV017,06-02-2024 19:52,660,harsh_accel,low,0.597,0,0.269,harsh accel detected. Combined score 0.269.,Motion: harsh_accel | Audio: normal
+FLAG0343,TRIP057,DRV017,06-02-2024 20:03,1320,harsh_accel,low,0.382,0,0.172,moderate brake detected. Combined score 0.172.,Motion: harsh_accel | Audio: normal
+FLAG0344,TRIP057,DRV017,06-02-2024 20:17,2178,harsh_braking,medium,0.856,0,0.385,harsh braking detected. Combined score 0.385.,Motion: harsh_braking | Audio: normal
+FLAG0345,TRIP058,DRV017,06-02-2024 21:04,728,harsh_braking,low,0.843,0,0.379,harsh braking detected. Combined score 0.379.,Motion: harsh_braking | Audio: normal
+FLAG0346,TRIP058,DRV017,06-02-2024 21:16,1484,harsh_braking,low,0.712,0,0.32,harsh braking detected. Combined score 0.32.,Motion: harsh_braking | Audio: normal
+FLAG0347,TRIP058,DRV017,06-02-2024 21:20,1736,harsh_braking,low,0.578,0,0.26,harsh braking detected. Combined score 0.26.,Motion: harsh_braking | Audio: normal
+FLAG0348,TRIP058,DRV017,06-02-2024 21:24,1932,swerve,low,0.194,0,0.087,swerve detected. Combined score 0.087.,Motion: swerve | Audio: normal
+FLAG0349,TRIP058,DRV017,06-02-2024 21:28,2184,moderate_brake,low,0.13,0,0.059,moderate brake detected. Combined score 0.059.,Motion: moderate_brake | Audio: normal
+FLAG0350,TRIP058,DRV017,06-02-2024 21:36,2660,swerve,low,0.492,0,0.221,swerve detected. Combined score 0.221.,Motion: swerve | Audio: normal
+FLAG0351,TRIP058,DRV017,06-02-2024 21:39,2856,harsh_braking,low,0.754,0,0.339,harsh braking detected. Combined score 0.339.,Motion: harsh_braking | Audio: normal
+FLAG0352,TRIP058,DRV017,06-02-2024 21:42,3024,harsh_accel,low,0.666,0,0.3,harsh accel detected. Combined score 0.3.,Motion: harsh_accel | Audio: normal
+FLAG0353,TRIP059,DRV017,06-02-2024 22:11,297,swerve,low,0.47,0,0.211,swerve detected. Combined score 0.211.,Motion: swerve | Audio: normal
+FLAG0354,TRIP059,DRV017,06-02-2024 22:20,837,swerve,low,0.179,0,0.081,swerve detected. Combined score 0.081.,Motion: swerve | Audio: normal
+FLAG0355,TRIP059,DRV017,06-02-2024 22:23,972,harsh_braking,low,0.605,0,0.272,harsh braking detected. Combined score 0.272.,Motion: harsh_braking | Audio: normal
+FLAG0356,TRIP059,DRV017,06-02-2024 22:33,1593,harsh_braking,low,0.779,0,0.351,harsh braking detected. Combined score 0.351.,Motion: harsh_braking | Audio: normal
+FLAG0357,TRIP059,DRV017,06-02-2024 22:37,1809,harsh_accel,low,0.473,0,0.213,harsh accel detected. Combined score 0.213.,Motion: harsh_accel | Audio: normal
+FLAG0358,TRIP059,DRV017,06-02-2024 22:41,2052,swerve,low,0.352,0,0.158,swerve detected. Combined score 0.158.,Motion: swerve | Audio: normal
+FLAG0359,TRIP059,DRV017,06-02-2024 22:51,2646,swerve,low,0.619,0,0.279,swerve detected. Combined score 0.279.,Motion: swerve | Audio: normal
+FLAG0360,TRIP060,DRV018,06-02-2024 12:22,420,swerve,low,0.224,0,0.101,swerve detected. Combined score 0.101.,Motion: swerve | Audio: normal
+FLAG0361,TRIP060,DRV018,06-02-2024 12:31,1008,harsh_braking,low,0.801,0,0.36,harsh braking detected. Combined score 0.36.,Motion: harsh_braking | Audio: normal
+FLAG0362,TRIP060,DRV018,06-02-2024 12:34,1197,harsh_accel,low,0.454,0,0.204,harsh accel detected. Combined score 0.204.,Motion: harsh_accel | Audio: normal
+FLAG0363,TRIP060,DRV018,06-02-2024 12:39,1449,harsh_accel,low,0.635,0,0.286,harsh accel detected. Combined score 0.286.,Motion: harsh_accel | Audio: normal
+FLAG0364,TRIP060,DRV018,06-02-2024 12:47,1932,swerve,low,0.485,0,0.218,swerve detected. Combined score 0.218.,Motion: swerve | Audio: normal
+FLAG0365,TRIP061,DRV018,06-02-2024 13:20,279,moderate_brake,low,0.147,0,0.066,moderate brake detected. Combined score 0.066.,Motion: moderate_brake | Audio: normal
+FLAG0366,TRIP061,DRV018,06-02-2024 13:25,589,swerve,low,0.611,0,0.275,swerve detected. Combined score 0.275.,Motion: swerve | Audio: normal
+FLAG0367,TRIP061,DRV018,06-02-2024 13:29,837,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0368,TRIP061,DRV018,06-02-2024 13:32,988,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (89 dB, 51s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0369,TRIP061,DRV018,06-02-2024 13:43,1643,harsh_accel,low,0.675,0,0.304,harsh accel detected. Combined score 0.304.,Motion: harsh_accel | Audio: normal
+FLAG0370,TRIP061,DRV018,06-02-2024 13:47,1891,swerve,low,0.415,0,0.187,pothole detected. Combined score 0.187.,Motion: swerve | Audio: normal
+FLAG0371,TRIP062,DRV019,06-02-2024 06:12,0,swerve,low,0.533,0,0.24,swerve detected. Combined score 0.24.,Motion: swerve | Audio: normal
+FLAG0372,TRIP062,DRV019,06-02-2024 06:15,200,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0373,TRIP062,DRV019,06-02-2024 06:25,820,swerve,low,0.541,0,0.243,swerve detected. Combined score 0.243.,Motion: swerve | Audio: normal
+FLAG0374,TRIP062,DRV019,06-02-2024 06:31,1160,swerve,low,0.676,0,0.304,swerve detected. Combined score 0.304.,Motion: swerve | Audio: normal
+FLAG0375,TRIP062,DRV019,06-02-2024 06:42,1800,harsh_braking,low,0.566,0,0.255,moderate brake detected. Combined score 0.255.,Motion: harsh_braking | Audio: normal
+FLAG0376,TRIP062,DRV019,06-02-2024 06:56,2640,swerve,low,0.667,0,0.3,swerve detected. Combined score 0.3.,Motion: swerve | Audio: normal
+FLAG0377,TRIP063,DRV019,06-02-2024 07:16,259,swerve,low,0.667,0,0.3,swerve detected. Combined score 0.3.,Motion: swerve | Audio: normal
+FLAG0378,TRIP063,DRV019,06-02-2024 07:19,444,swerve,low,0.233,0,0.105,swerve detected. Combined score 0.105.,Motion: swerve | Audio: normal
+FLAG0379,TRIP063,DRV019,06-02-2024 07:26,888,swerve,low,0.77,0,0.347,harsh accel detected. Combined score 0.347.,Motion: swerve | Audio: normal
+FLAG0380,TRIP063,DRV019,06-02-2024 07:37,1554,swerve,low,0.196,0,0.088,swerve detected. Combined score 0.088.,Motion: swerve | Audio: normal
+FLAG0381,TRIP064,DRV020,06-02-2024 17:27,21,harsh_braking,low,0.72,0,0.324,swerve detected. Combined score 0.324.,Motion: harsh_braking | Audio: normal
+FLAG0382,TRIP064,DRV020,06-02-2024 17:33,378,harsh_braking,low,0.544,0,0.245,harsh braking detected. Combined score 0.245.,Motion: harsh_braking | Audio: normal
+FLAG0383,TRIP064,DRV020,06-02-2024 17:39,777,harsh_braking,low,0.435,0,0.196,moderate brake detected. Combined score 0.196.,Motion: harsh_braking | Audio: normal
+FLAG0384,TRIP064,DRV020,06-02-2024 17:44,1050,swerve,low,0.554,0,0.249,swerve detected. Combined score 0.249.,Motion: swerve | Audio: normal
+FLAG0385,TRIP065,DRV020,06-02-2024 18:13,175,harsh_braking,low,0.386,0,0.174,moderate brake detected. Combined score 0.174.,Motion: harsh_braking | Audio: normal
+FLAG0386,TRIP065,DRV020,06-02-2024 18:19,525,harsh_braking,medium,0.844,0,0.38,harsh braking detected. Combined score 0.38.,Motion: harsh_braking | Audio: normal
+FLAG0387,TRIP065,DRV020,06-02-2024 18:24,825,harsh_braking,low,0.765,0,0.344,harsh braking detected. Combined score 0.344.,Motion: harsh_braking | Audio: normal
+FLAG0388,TRIP065,DRV020,06-02-2024 18:34,1425,swerve,low,0.25,0,0.113,moderate brake detected. Combined score 0.113.,Motion: swerve | Audio: normal
+FLAG0389,TRIP065,DRV020,06-02-2024 18:44,2000,moderate_brake,low,0.143,0,0.064,moderate brake detected. Combined score 0.064.,Motion: moderate_brake | Audio: normal
+FLAG0390,TRIP065,DRV020,06-02-2024 18:48,2250,harsh_accel,low,0.568,0,0.256,harsh accel detected. Combined score 0.256.,Motion: harsh_accel | Audio: normal
+FLAG0391,TRIP065,DRV020,06-02-2024 18:50,2375,swerve,low,0.501,0,0.225,harsh braking detected. Combined score 0.225.,Motion: swerve | Audio: normal
+FLAG0392,TRIP065,DRV020,06-02-2024 18:57,2775,moderate_brake,low,0.163,0,0.073,moderate brake detected. Combined score 0.073.,Motion: moderate_brake | Audio: normal
+FLAG0393,TRIP065,DRV020,06-02-2024 19:02,3075,swerve,low,0.448,0,0.202,swerve detected. Combined score 0.202.,Motion: swerve | Audio: normal
+FLAG0394,TRIP065,DRV020,06-02-2024 19:06,3300,harsh_accel,low,0.375,0,0.169,harsh accel detected. Combined score 0.169.,Motion: harsh_accel | Audio: normal
+FLAG0395,TRIP066,DRV021,06-02-2024 17:20,468,harsh_braking,low,0.359,0,0.162,harsh braking detected. Combined score 0.162.,Motion: harsh_braking | Audio: normal
+FLAG0396,TRIP066,DRV021,06-02-2024 17:23,648,harsh_braking,medium,0.928,0,0.418,harsh braking detected. Combined score 0.418.,Motion: harsh_braking | Audio: normal
+FLAG0397,TRIP066,DRV021,06-02-2024 17:32,1188,harsh_braking,low,0.702,0,0.316,harsh braking detected. Combined score 0.316.,Motion: harsh_braking | Audio: normal
+FLAG0398,TRIP066,DRV021,06-02-2024 17:45,1944,harsh_accel,low,0.649,0,0.292,harsh accel detected. Combined score 0.292.,Motion: harsh_accel | Audio: normal
+FLAG0399,TRIP067,DRV021,06-02-2024 18:12,380,moderate_brake,low,0.158,0,0.071,moderate brake detected. Combined score 0.071.,Motion: moderate_brake | Audio: normal
+FLAG0400,TRIP067,DRV021,06-02-2024 18:15,570,moderate_brake,low,0.236,0,0.106,moderate brake detected. Combined score 0.106.,Motion: moderate_brake | Audio: normal
+FLAG0401,TRIP067,DRV021,06-02-2024 18:21,950,harsh_accel,low,0.282,0,0.127,harsh accel detected. Combined score 0.127.,Motion: harsh_accel | Audio: normal
+FLAG0402,TRIP067,DRV021,06-02-2024 18:24,1102,harsh_accel,low,0.568,0,0.256,harsh accel detected. Combined score 0.256.,Motion: harsh_accel | Audio: normal
+FLAG0403,TRIP067,DRV021,06-02-2024 18:28,1330,moderate_brake,low,0.273,0,0.123,moderate brake detected. Combined score 0.123.,Motion: moderate_brake | Audio: normal
+FLAG0404,TRIP067,DRV021,06-02-2024 18:32,1596,harsh_accel,low,0.58,0,0.261,swerve detected. Combined score 0.261.,Motion: harsh_accel | Audio: normal
+FLAG0405,TRIP067,DRV021,06-02-2024 18:38,1976,harsh_accel,low,0.513,0,0.231,harsh accel detected. Combined score 0.231.,Motion: harsh_accel | Audio: normal
+FLAG0406,TRIP068,DRV021,06-02-2024 19:16,38,harsh_accel,low,0.659,0,0.297,swerve detected. Combined score 0.297.,Motion: harsh_accel | Audio: normal
+FLAG0407,TRIP068,DRV021,06-02-2024 19:19,190,harsh_braking,low,0.446,0,0.201,harsh braking detected. Combined score 0.201.,Motion: harsh_braking | Audio: normal
+FLAG0408,TRIP068,DRV021,06-02-2024 19:21,342,harsh_braking,low,0.802,0,0.361,harsh braking detected. Combined score 0.361.,Motion: harsh_braking | Audio: normal
+FLAG0409,TRIP068,DRV021,06-02-2024 19:26,627,harsh_braking,medium,0.904,0,0.407,swerve detected. Combined score 0.407.,Motion: harsh_braking | Audio: normal
+FLAG0410,TRIP068,DRV021,06-02-2024 19:38,1349,harsh_braking,low,0.723,0,0.325,harsh braking detected. Combined score 0.325.,Motion: harsh_braking | Audio: normal
+FLAG0411,TRIP068,DRV021,06-02-2024 19:45,1786,harsh_braking,medium,0.877,0,0.395,harsh braking detected. Combined score 0.395.,Motion: harsh_braking | Audio: normal
+FLAG0412,TRIP068,DRV021,06-02-2024 19:48,1957,harsh_braking,medium,0.942,0,0.424,harsh braking detected. Combined score 0.424.,Motion: harsh_braking | Audio: normal
+FLAG0413,TRIP068,DRV021,06-02-2024 19:54,2337,swerve,low,0.311,0,0.14,swerve detected. Combined score 0.14.,Motion: swerve | Audio: normal
+FLAG0414,TRIP069,DRV022,06-02-2024 17:23,1100,harsh_braking,low,0.669,0,0.301,harsh braking detected. Combined score 0.301.,Motion: harsh_braking | Audio: normal
+FLAG0415,TRIP069,DRV022,06-02-2024 17:26,1276,harsh_braking,medium,0.909,0,0.409,harsh accel detected. Combined score 0.409.,Motion: harsh_braking | Audio: normal
+FLAG0416,TRIP069,DRV022,06-02-2024 17:33,1716,swerve,low,0.485,0,0.218,swerve detected. Combined score 0.218.,Motion: swerve | Audio: normal
+FLAG0417,TRIP070,DRV022,06-02-2024 18:10,185,harsh_accel,low,0.323,0,0.145,harsh accel detected. Combined score 0.145.,Motion: harsh_accel | Audio: normal
+FLAG0418,TRIP070,DRV022,06-02-2024 18:13,370,moderate_brake,low,0.225,0,0.101,moderate brake detected. Combined score 0.101.,Motion: moderate_brake | Audio: normal
+FLAG0419,TRIP070,DRV022,06-02-2024 18:21,888,swerve,low,0.32,0,0.144,swerve detected. Combined score 0.144.,Motion: swerve | Audio: normal
+FLAG0420,TRIP070,DRV022,06-02-2024 18:24,1073,harsh_accel,low,0.353,0,0.159,harsh accel detected. Combined score 0.159.,Motion: harsh_accel | Audio: normal
+FLAG0421,TRIP070,DRV022,06-02-2024 18:27,1258,moderate_brake,low,0.194,0,0.087,moderate brake detected. Combined score 0.087.,Motion: moderate_brake | Audio: normal
+FLAG0422,TRIP070,DRV022,06-02-2024 18:30,1406,swerve,low,0.405,0,0.182,swerve detected. Combined score 0.182.,Motion: swerve | Audio: normal
+FLAG0423,TRIP070,DRV022,06-02-2024 18:37,1850,moderate_brake,low,0.177,0,0.08,moderate brake detected. Combined score 0.08.,Motion: moderate_brake | Audio: normal
+FLAG0424,TRIP070,DRV022,06-02-2024 18:44,2220,moderate_brake,low,0.235,0,0.106,moderate brake detected. Combined score 0.106.,Motion: moderate_brake | Audio: normal
+FLAG0425,TRIP070,DRV022,06-02-2024 18:50,2590,moderate_brake,low,0.28,0,0.126,moderate brake detected. Combined score 0.126.,Motion: moderate_brake | Audio: normal
+FLAG0426,TRIP070,DRV022,06-02-2024 18:53,2775,harsh_accel,low,0.267,0,0.12,harsh accel detected. Combined score 0.12.,Motion: harsh_accel | Audio: normal
+FLAG0427,TRIP070,DRV022,06-02-2024 18:56,2960,moderate_brake,low,0.152,0,0.068,moderate brake detected. Combined score 0.068.,Motion: moderate_brake | Audio: normal
+FLAG0428,TRIP070,DRV022,06-02-2024 19:01,3293,swerve,low,0.171,0,0.077,swerve detected. Combined score 0.077.,Motion: swerve | Audio: normal
+FLAG0429,TRIP071,DRV023,06-02-2024 06:06,369,harsh_braking,low,0.429,0,0.193,harsh braking detected. Combined score 0.193.,Motion: harsh_braking | Audio: normal
+FLAG0430,TRIP071,DRV023,06-02-2024 06:10,615,harsh_braking,low,0.655,0,0.295,harsh braking detected. Combined score 0.295.,Motion: harsh_braking | Audio: normal
+FLAG0431,TRIP071,DRV023,06-02-2024 06:19,1148,harsh_accel,low,0.368,0,0.166,harsh accel detected. Combined score 0.166.,Motion: harsh_accel | Audio: normal
+FLAG0432,TRIP071,DRV023,06-02-2024 06:23,1435,harsh_accel,low,0.584,0,0.263,harsh accel detected. Combined score 0.263.,Motion: harsh_accel | Audio: normal
+FLAG0433,TRIP071,DRV023,06-02-2024 06:33,2030,conflict_moment,medium,0,0.833,0.458,"elevated cabin audio (84 dB, 44s sustained). Combined score 0.458.",Motion: conflict_moment | Audio: conflict
+FLAG0434,TRIP071,DRV023,06-02-2024 06:37,2255,harsh_braking,medium,0.895,0,0.403,harsh braking detected. Combined score 0.403.,Motion: harsh_braking | Audio: normal
+FLAG0435,TRIP071,DRV023,06-02-2024 06:45,2747,harsh_braking,low,0.612,0,0.275,harsh braking detected. Combined score 0.275.,Motion: harsh_braking | Audio: normal
+FLAG0436,TRIP071,DRV023,06-02-2024 06:54,3280,harsh_accel,low,0.319,0,0.144,harsh accel detected. Combined score 0.144.,Motion: harsh_accel | Audio: normal
+FLAG0437,TRIP072,DRV023,06-02-2024 07:23,17,swerve,low,0.667,0,0.3,swerve detected. Combined score 0.3.,Motion: swerve | Audio: normal
+FLAG0438,TRIP072,DRV023,06-02-2024 07:30,442,swerve,low,0.719,0,0.324,moderate brake detected. Combined score 0.324.,Motion: swerve | Audio: normal
+FLAG0439,TRIP072,DRV023,06-02-2024 07:32,595,harsh_braking,low,0.81,0,0.365,moderate brake detected. Combined score 0.365.,Motion: harsh_braking | Audio: normal
+FLAG0440,TRIP072,DRV023,06-02-2024 07:44,1275,moderate_brake,low,0.101,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0441,TRIP072,DRV023,06-02-2024 07:47,1479,harsh_accel,low,0.498,0,0.224,harsh accel detected. Combined score 0.224.,Motion: harsh_accel | Audio: normal
+FLAG0442,TRIP072,DRV023,06-02-2024 07:54,1887,moderate_brake,low,0.121,0,0.054,moderate brake detected. Combined score 0.054.,Motion: moderate_brake | Audio: normal
+FLAG0443,TRIP072,DRV023,06-02-2024 08:00,2227,harsh_accel,low,0.477,0,0.215,harsh accel detected. Combined score 0.215.,Motion: harsh_accel | Audio: normal
+FLAG0444,TRIP072,DRV023,06-02-2024 08:04,2516,harsh_accel,low,0.396,0,0.178,harsh accel detected. Combined score 0.178.,Motion: harsh_accel | Audio: normal
+FLAG0445,TRIP072,DRV023,06-02-2024 08:07,2652,swerve,low,0.285,0,0.128,swerve detected. Combined score 0.128.,Motion: swerve | Audio: normal
+FLAG0446,TRIP072,DRV023,06-02-2024 08:10,2822,swerve,low,0.252,0,0.113,swerve detected. Combined score 0.113.,Motion: swerve | Audio: normal
+FLAG0447,TRIP073,DRV023,06-02-2024 08:46,252,moderate_brake,low,0.33,0,0.149,moderate brake detected. Combined score 0.149.,Motion: moderate_brake | Audio: normal
+FLAG0448,TRIP073,DRV023,06-02-2024 08:49,462,moderate_brake,low,0.15,0,0.068,moderate brake detected. Combined score 0.068.,Motion: moderate_brake | Audio: normal
+FLAG0449,TRIP073,DRV023,06-02-2024 08:51,588,harsh_accel,low,0.435,0,0.196,moderate brake detected. Combined score 0.196.,Motion: harsh_accel | Audio: normal
+FLAG0450,TRIP073,DRV023,06-02-2024 09:10,1680,moderate_brake,low,0.134,0,0.06,moderate brake detected. Combined score 0.06.,Motion: moderate_brake | Audio: normal
+FLAG0451,TRIP073,DRV023,06-02-2024 09:12,1806,harsh_braking,low,0.341,0,0.153,moderate brake detected. Combined score 0.153.,Motion: harsh_braking | Audio: normal
+FLAG0452,TRIP073,DRV023,06-02-2024 09:19,2268,moderate_brake,low,0.203,0,0.091,moderate brake detected. Combined score 0.091.,Motion: moderate_brake | Audio: normal
+FLAG0453,TRIP074,DRV023,06-02-2024 10:01,264,harsh_braking,low,0.572,0,0.257,harsh braking detected. Combined score 0.257.,Motion: harsh_braking | Audio: normal
+FLAG0454,TRIP074,DRV023,06-02-2024 10:09,720,harsh_accel,low,0.372,0,0.167,harsh accel detected. Combined score 0.167.,Motion: harsh_accel | Audio: normal
+FLAG0455,TRIP074,DRV023,06-02-2024 10:12,936,harsh_braking,low,0.571,0,0.257,harsh accel detected. Combined score 0.257.,Motion: harsh_braking | Audio: normal
+FLAG0456,TRIP074,DRV023,06-02-2024 10:16,1176,harsh_braking,low,0.818,0,0.368,harsh braking detected. Combined score 0.368.,Motion: harsh_braking | Audio: normal
+FLAG0457,TRIP074,DRV023,06-02-2024 10:21,1440,swerve,low,0.639,0,0.288,swerve detected. Combined score 0.288.,Motion: swerve | Audio: normal
+FLAG0458,TRIP075,DRV023,06-02-2024 10:56,0,swerve,low,0.396,0,0.178,swerve detected. Combined score 0.178.,Motion: swerve | Audio: normal
+FLAG0459,TRIP075,DRV023,06-02-2024 10:58,128,harsh_accel,low,0.278,0,0.125,harsh accel detected. Combined score 0.125.,Motion: harsh_accel | Audio: normal
+FLAG0460,TRIP075,DRV023,06-02-2024 11:02,384,harsh_braking,medium,0.845,0,0.38,moderate brake detected. Combined score 0.38.,Motion: harsh_braking | Audio: normal
+FLAG0461,TRIP075,DRV023,06-02-2024 11:15,1168,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0462,TRIP075,DRV023,06-02-2024 11:28,1936,harsh_accel,low,0.616,0,0.277,pothole detected. Combined score 0.277.,Motion: harsh_accel | Audio: normal
+FLAG0463,TRIP076,DRV023,06-02-2024 12:12,527,harsh_braking,low,0.679,0,0.306,harsh braking detected. Combined score 0.306.,Motion: harsh_braking | Audio: normal
+FLAG0464,TRIP076,DRV023,06-02-2024 12:16,748,moderate_brake,low,0.166,0,0.075,moderate brake detected. Combined score 0.075.,Motion: moderate_brake | Audio: normal
+FLAG0465,TRIP076,DRV023,06-02-2024 12:20,986,harsh_accel,low,0.675,0,0.304,harsh accel detected. Combined score 0.304.,Motion: harsh_accel | Audio: normal
+FLAG0466,TRIP076,DRV023,06-02-2024 12:23,1156,harsh_braking,low,0.364,0,0.164,harsh braking detected. Combined score 0.164.,Motion: harsh_braking | Audio: normal
+FLAG0467,TRIP076,DRV023,06-02-2024 12:27,1411,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0468,TRIP076,DRV023,06-02-2024 12:35,1870,harsh_accel,low,0.285,0,0.128,harsh accel detected. Combined score 0.128.,Motion: harsh_accel | Audio: normal
+FLAG0469,TRIP076,DRV023,06-02-2024 12:38,2091,harsh_braking,low,0.697,0,0.314,harsh braking detected. Combined score 0.314.,Motion: harsh_braking | Audio: normal
+FLAG0470,TRIP076,DRV023,06-02-2024 12:45,2465,harsh_braking,low,0.521,0,0.234,harsh braking detected. Combined score 0.234.,Motion: harsh_braking | Audio: normal
+FLAG0471,TRIP077,DRV024,06-02-2024 17:23,161,swerve,low,0.361,0,0.162,swerve detected. Combined score 0.162.,Motion: swerve | Audio: normal
+FLAG0472,TRIP077,DRV024,06-02-2024 17:26,345,harsh_accel,low,0.699,0,0.315,swerve detected. Combined score 0.315.,Motion: harsh_accel | Audio: normal
+FLAG0473,TRIP077,DRV024,06-02-2024 17:34,805,harsh_braking,medium,0.924,0,0.416,harsh braking detected. Combined score 0.416.,Motion: harsh_braking | Audio: normal
+FLAG0474,TRIP077,DRV024,06-02-2024 17:39,1081,harsh_braking,medium,0.895,0,0.403,harsh braking detected. Combined score 0.403.,Motion: harsh_braking | Audio: normal
+FLAG0475,TRIP077,DRV024,06-02-2024 17:44,1403,harsh_braking,low,0.538,0,0.242,swerve detected. Combined score 0.242.,Motion: harsh_braking | Audio: normal
+FLAG0476,TRIP077,DRV024,06-02-2024 17:48,1633,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0477,TRIP077,DRV024,06-02-2024 17:57,2162,harsh_accel,low,0.608,0,0.274,harsh accel detected. Combined score 0.274.,Motion: harsh_accel | Audio: normal
+FLAG0478,TRIP077,DRV024,06-02-2024 18:02,2484,harsh_accel,low,0.635,0,0.286,swerve detected. Combined score 0.286.,Motion: harsh_accel | Audio: normal
+FLAG0479,TRIP077,DRV024,06-02-2024 18:08,2852,harsh_accel,low,0.615,0,0.277,harsh accel detected. Combined score 0.277.,Motion: harsh_accel | Audio: normal
+FLAG0480,TRIP077,DRV024,06-02-2024 18:11,3013,harsh_accel,low,0.553,0,0.249,harsh accel detected. Combined score 0.249.,Motion: harsh_accel | Audio: normal
+FLAG0481,TRIP077,DRV024,06-02-2024 18:14,3220,swerve,low,0.592,0,0.266,swerve detected. Combined score 0.266.,Motion: swerve | Audio: normal
+FLAG0482,TRIP077,DRV024,06-02-2024 18:16,3358,harsh_accel,low,0.605,0,0.272,harsh accel detected. Combined score 0.272.,Motion: harsh_accel | Audio: normal
+FLAG0483,TRIP077,DRV024,06-02-2024 18:19,3496,swerve,low,0.651,0,0.293,harsh accel detected. Combined score 0.293.,Motion: swerve | Audio: normal
+FLAG0484,TRIP078,DRV024,06-02-2024 19:08,814,swerve,low,0.237,0,0.107,swerve detected. Combined score 0.107.,Motion: swerve | Audio: normal
+FLAG0485,TRIP078,DRV024,06-02-2024 19:15,1221,moderate_brake,low,0.194,0,0.087,moderate brake detected. Combined score 0.087.,Motion: moderate_brake | Audio: normal
+FLAG0486,TRIP078,DRV024,06-02-2024 19:25,1813,harsh_accel,low,0.537,0,0.242,harsh accel detected. Combined score 0.242.,Motion: harsh_accel | Audio: normal
+FLAG0487,TRIP078,DRV024,06-02-2024 19:32,2257,harsh_accel,low,0.343,0,0.154,harsh accel detected. Combined score 0.154.,Motion: harsh_accel | Audio: normal
+FLAG0488,TRIP079,DRV024,06-02-2024 20:08,525,harsh_accel,low,0.382,0,0.172,harsh accel detected. Combined score 0.172.,Motion: harsh_accel | Audio: normal
+FLAG0489,TRIP079,DRV024,06-02-2024 20:12,756,harsh_braking,low,0.791,0,0.356,harsh braking detected. Combined score 0.356.,Motion: harsh_braking | Audio: normal
+FLAG0490,TRIP079,DRV024,06-02-2024 20:18,1113,harsh_braking,low,0.709,0,0.319,moderate brake detected. Combined score 0.319.,Motion: harsh_braking | Audio: normal
+FLAG0491,TRIP079,DRV024,06-02-2024 20:22,1365,harsh_braking,low,0.691,0,0.311,pothole detected. Combined score 0.311.,Motion: harsh_braking | Audio: normal
+FLAG0492,TRIP079,DRV024,06-02-2024 20:28,1680,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0493,TRIP079,DRV024,06-02-2024 20:41,2478,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0494,TRIP079,DRV024,06-02-2024 20:43,2625,swerve,low,0.752,0,0.338,moderate brake detected. Combined score 0.338.,Motion: swerve | Audio: normal
+FLAG0495,TRIP079,DRV024,06-02-2024 20:50,3024,harsh_accel,low,0.68,0,0.306,swerve detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG0496,TRIP079,DRV024,06-02-2024 20:59,3591,swerve,low,0.52,0,0.234,swerve detected. Combined score 0.234.,Motion: swerve | Audio: normal
+FLAG0497,TRIP080,DRV024,06-02-2024 21:14,36,swerve,low,0.317,0,0.143,swerve detected. Combined score 0.143.,Motion: swerve | Audio: normal
+FLAG0498,TRIP080,DRV024,06-02-2024 21:20,360,harsh_accel,low,0.539,0,0.243,harsh accel detected. Combined score 0.243.,Motion: harsh_accel | Audio: normal
+FLAG0499,TRIP080,DRV024,06-02-2024 21:22,504,swerve,low,0.384,0,0.173,swerve detected. Combined score 0.173.,Motion: swerve | Audio: normal
+FLAG0500,TRIP080,DRV024,06-02-2024 21:27,792,harsh_accel,low,0.444,0,0.2,harsh accel detected. Combined score 0.2.,Motion: harsh_accel | Audio: normal
+FLAG0501,TRIP080,DRV024,06-02-2024 21:35,1260,moderate_brake,low,0.221,0,0.099,moderate brake detected. Combined score 0.099.,Motion: moderate_brake | Audio: normal
+FLAG0502,TRIP080,DRV024,06-02-2024 21:42,1728,harsh_accel,low,0.418,0,0.188,harsh accel detected. Combined score 0.188.,Motion: harsh_accel | Audio: normal
+FLAG0503,TRIP080,DRV024,06-02-2024 21:47,2016,harsh_braking,low,0.466,0,0.21,harsh braking detected. Combined score 0.21.,Motion: harsh_braking | Audio: normal
+FLAG0504,TRIP080,DRV024,06-02-2024 21:51,2232,harsh_braking,low,0.447,0,0.201,harsh braking detected. Combined score 0.201.,Motion: harsh_braking | Audio: normal
+FLAG0505,TRIP081,DRV024,06-02-2024 22:18,0,swerve,low,0.239,0,0.108,swerve detected. Combined score 0.108.,Motion: swerve | Audio: normal
+FLAG0506,TRIP081,DRV024,06-02-2024 22:20,162,moderate_brake,low,0.311,0,0.14,moderate brake detected. Combined score 0.14.,Motion: moderate_brake | Audio: normal
+FLAG0507,TRIP081,DRV024,06-02-2024 22:22,288,harsh_accel,low,0.667,0,0.3,harsh accel detected. Combined score 0.3.,Motion: harsh_accel | Audio: normal
+FLAG0508,TRIP081,DRV024,06-02-2024 22:31,792,harsh_accel,low,0.413,0,0.186,harsh accel detected. Combined score 0.186.,Motion: harsh_accel | Audio: normal
+FLAG0509,TRIP081,DRV024,06-02-2024 22:33,918,harsh_braking,medium,0.858,0,0.386,harsh braking detected. Combined score 0.386.,Motion: harsh_braking | Audio: normal
+FLAG0510,TRIP082,DRV025,06-02-2024 06:02,58,moderate_brake,low,0.313,0,0.141,moderate brake detected. Combined score 0.141.,Motion: moderate_brake | Audio: normal
+FLAG0511,TRIP082,DRV025,06-02-2024 06:06,290,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0512,TRIP082,DRV025,06-02-2024 06:10,522,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0513,TRIP082,DRV025,06-02-2024 06:15,812,harsh_accel,low,0.563,0,0.253,swerve detected. Combined score 0.253.,Motion: harsh_accel | Audio: normal
+FLAG0514,TRIP082,DRV025,06-02-2024 06:21,1160,harsh_accel,low,0.519,0,0.234,pothole detected. Combined score 0.234.,Motion: harsh_accel | Audio: normal
+FLAG0515,TRIP082,DRV025,06-02-2024 06:28,1566,moderate_brake,low,0.331,0,0.149,moderate brake detected. Combined score 0.149.,Motion: moderate_brake | Audio: normal
+FLAG0516,TRIP083,DRV025,06-02-2024 06:42,0,swerve,low,0.743,0,0.334,swerve detected. Combined score 0.334.,Motion: swerve | Audio: normal
+FLAG0517,TRIP083,DRV025,06-02-2024 06:47,324,moderate_brake,low,0.142,0,0.064,moderate brake detected. Combined score 0.064.,Motion: moderate_brake | Audio: normal
+FLAG0518,TRIP083,DRV025,06-02-2024 07:01,1188,harsh_braking,low,0.463,0,0.208,harsh braking detected. Combined score 0.208.,Motion: harsh_braking | Audio: normal
+FLAG0519,TRIP083,DRV025,06-02-2024 07:04,1332,moderate_brake,low,0.323,0,0.145,moderate brake detected. Combined score 0.145.,Motion: moderate_brake | Audio: normal
+FLAG0520,TRIP083,DRV025,06-02-2024 07:16,2040,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0521,TRIP084,DRV025,06-02-2024 07:36,0,swerve,low,0.677,0,0.305,swerve detected. Combined score 0.305.,Motion: swerve | Audio: normal
+FLAG0522,TRIP084,DRV025,06-02-2024 07:43,450,harsh_braking,low,0.777,0,0.35,harsh accel detected. Combined score 0.35.,Motion: harsh_braking | Audio: normal
+FLAG0523,TRIP084,DRV025,06-02-2024 07:48,756,harsh_braking,low,0.363,0,0.163,harsh braking detected. Combined score 0.163.,Motion: harsh_braking | Audio: normal
+FLAG0524,TRIP084,DRV025,06-02-2024 07:56,1242,harsh_braking,low,0.674,0,0.303,swerve detected. Combined score 0.303.,Motion: harsh_braking | Audio: normal
+FLAG0525,TRIP084,DRV025,06-02-2024 08:03,1620,harsh_braking,medium,0.854,0,0.384,harsh braking detected. Combined score 0.384.,Motion: harsh_braking | Audio: normal
+FLAG0526,TRIP084,DRV025,06-02-2024 08:05,1782,swerve,low,0.209,0,0.094,swerve detected. Combined score 0.094.,Motion: swerve | Audio: normal
+FLAG0527,TRIP084,DRV025,06-02-2024 08:08,1962,harsh_accel,low,0.59,0,0.266,harsh accel detected. Combined score 0.266.,Motion: harsh_accel | Audio: normal
+FLAG0528,TRIP084,DRV025,06-02-2024 08:18,2538,harsh_accel,low,0.631,0,0.284,harsh accel detected. Combined score 0.284.,Motion: harsh_accel | Audio: normal
+FLAG0529,TRIP085,DRV026,06-02-2024 06:25,0,harsh_accel,low,0.646,0,0.291,pothole detected. Combined score 0.291.,Motion: harsh_accel | Audio: normal
+FLAG0530,TRIP085,DRV026,06-02-2024 06:31,377,swerve,low,0.53,0,0.239,swerve detected. Combined score 0.239.,Motion: swerve | Audio: normal
+FLAG0531,TRIP085,DRV026,06-02-2024 06:34,551,conflict_moment,high,0.666,0.95,0.986,"swerve detected. elevated cabin audio (77 dB, 50s sustained). Combined score 0.986.",Motion: conflict_moment | Audio: conflict
+FLAG0532,TRIP085,DRV026,06-02-2024 06:46,1260,swerve,low,0.149,0,0.067,swerve detected. Combined score 0.067.,Motion: swerve | Audio: normal
+FLAG0533,TRIP086,DRV026,06-02-2024 07:04,0,swerve,low,0.481,0,0.216,swerve detected. Combined score 0.216.,Motion: swerve | Audio: normal
+FLAG0534,TRIP086,DRV026,06-02-2024 07:12,522,harsh_accel,low,0.425,0,0.191,moderate brake detected. Combined score 0.191.,Motion: harsh_accel | Audio: normal
+FLAG0535,TRIP086,DRV026,06-02-2024 07:24,1218,harsh_accel,low,0.373,0,0.168,harsh accel detected. Combined score 0.168.,Motion: harsh_accel | Audio: normal
+FLAG0536,TRIP086,DRV026,06-02-2024 07:31,1624,harsh_braking,low,0.615,0,0.277,harsh braking detected. Combined score 0.277.,Motion: harsh_braking | Audio: normal
+FLAG0537,TRIP086,DRV026,06-02-2024 07:37,2030,harsh_accel,low,0.383,0,0.172,moderate brake detected. Combined score 0.172.,Motion: harsh_accel | Audio: normal
+FLAG0538,TRIP086,DRV026,06-02-2024 07:41,2275,conflict_moment,high,0.267,0.95,0.772,"moderate brake detected. elevated cabin audio (90 dB, 44s sustained). Combined score 0.772.",Motion: conflict_moment | Audio: conflict
+FLAG0539,TRIP087,DRV027,06-02-2024 12:22,434,harsh_braking,low,0.808,0,0.364,harsh accel detected. Combined score 0.364.,Motion: harsh_braking | Audio: normal
+FLAG0540,TRIP087,DRV027,06-02-2024 12:57,2573,swerve,low,0.142,0,0.064,swerve detected. Combined score 0.064.,Motion: swerve | Audio: normal
+FLAG0541,TRIP088,DRV027,06-02-2024 13:13,60,swerve,low,0.774,0,0.348,moderate brake detected. Combined score 0.348.,Motion: swerve | Audio: normal
+FLAG0542,TRIP088,DRV027,06-02-2024 13:27,930,swerve,low,0.672,0,0.302,moderate brake detected. Combined score 0.302.,Motion: swerve | Audio: normal
+FLAG0543,TRIP088,DRV027,06-02-2024 13:32,1230,moderate_brake,low,0.25,0,0.113,moderate brake detected. Combined score 0.113.,Motion: moderate_brake | Audio: normal
+FLAG0544,TRIP088,DRV027,06-02-2024 13:37,1500,swerve,low,0.527,0,0.237,moderate brake detected. Combined score 0.237.,Motion: swerve | Audio: normal
+FLAG0545,TRIP088,DRV027,06-02-2024 13:45,1980,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0546,TRIP088,DRV027,06-02-2024 13:53,2460,harsh_accel,low,0.505,0,0.227,pothole detected. Combined score 0.227.,Motion: harsh_accel | Audio: normal
+FLAG0547,TRIP088,DRV027,06-02-2024 13:59,2820,harsh_braking,medium,0.89,0,0.401,moderate brake detected. Combined score 0.401.,Motion: harsh_braking | Audio: normal
+FLAG0548,TRIP088,DRV027,06-02-2024 14:05,3180,swerve,low,0.708,0,0.319,swerve detected. Combined score 0.319.,Motion: swerve | Audio: normal
+FLAG0549,TRIP089,DRV027,06-02-2024 14:32,0,harsh_braking,low,0.784,0,0.353,swerve detected. Combined score 0.353.,Motion: harsh_braking | Audio: normal
+FLAG0550,TRIP089,DRV027,06-02-2024 14:45,782,harsh_accel,low,0.424,0,0.191,harsh accel detected. Combined score 0.191.,Motion: harsh_accel | Audio: normal
+FLAG0551,TRIP089,DRV027,06-02-2024 14:54,1377,harsh_braking,medium,0.894,0,0.402,harsh accel detected. Combined score 0.402.,Motion: harsh_braking | Audio: normal
+FLAG0552,TRIP089,DRV027,06-02-2024 15:02,1836,harsh_braking,low,0.837,0,0.377,harsh accel detected. Combined score 0.377.,Motion: harsh_braking | Audio: normal
+FLAG0553,TRIP089,DRV027,06-02-2024 15:10,2329,harsh_accel,low,0.28,0,0.126,harsh accel detected. Combined score 0.126.,Motion: harsh_accel | Audio: normal
+FLAG0554,TRIP090,DRV028,06-02-2024 06:07,205,harsh_accel,low,0.503,0,0.226,harsh accel detected. Combined score 0.226.,Motion: harsh_accel | Audio: normal
+FLAG0555,TRIP090,DRV028,06-02-2024 06:10,369,harsh_braking,low,0.62,0,0.279,harsh braking detected. Combined score 0.279.,Motion: harsh_braking | Audio: normal
+FLAG0556,TRIP090,DRV028,06-02-2024 06:14,656,harsh_accel,low,0.623,0,0.28,harsh accel detected. Combined score 0.28.,Motion: harsh_accel | Audio: normal
+FLAG0557,TRIP090,DRV028,06-02-2024 06:22,1107,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0558,TRIP090,DRV028,06-02-2024 06:40,2173,harsh_braking,low,0.782,0,0.352,harsh braking detected. Combined score 0.352.,Motion: harsh_braking | Audio: normal
+FLAG0559,TRIP090,DRV028,06-02-2024 06:52,2911,harsh_braking,medium,0.943,0,0.424,harsh braking detected. Combined score 0.424.,Motion: harsh_braking | Audio: normal
+FLAG0560,TRIP091,DRV028,06-02-2024 07:39,240,harsh_braking,low,0.588,0,0.265,harsh braking detected. Combined score 0.265.,Motion: harsh_braking | Audio: normal
+FLAG0561,TRIP091,DRV028,06-02-2024 07:44,540,harsh_braking,low,0.436,0,0.196,harsh braking detected. Combined score 0.196.,Motion: harsh_braking | Audio: normal
+FLAG0562,TRIP091,DRV028,06-02-2024 07:47,740,swerve,low,0.162,0,0.073,swerve detected. Combined score 0.073.,Motion: swerve | Audio: normal
+FLAG0563,TRIP091,DRV028,06-02-2024 07:50,940,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0564,TRIP091,DRV028,06-02-2024 07:53,1080,moderate_brake,low,0.3,0,0.135,moderate brake detected. Combined score 0.135.,Motion: moderate_brake | Audio: normal
+FLAG0565,TRIP092,DRV028,06-02-2024 08:06,95,harsh_braking,low,0.465,0,0.209,harsh accel detected. Combined score 0.209.,Motion: harsh_braking | Audio: normal
+FLAG0566,TRIP092,DRV028,06-02-2024 08:13,532,harsh_accel,low,0.647,0,0.291,moderate brake detected. Combined score 0.291.,Motion: harsh_accel | Audio: normal
+FLAG0567,TRIP092,DRV028,06-02-2024 08:19,855,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0568,TRIP092,DRV028,06-02-2024 08:27,1368,harsh_braking,low,0.777,0,0.35,moderate brake detected. Combined score 0.35.,Motion: harsh_braking | Audio: normal
+FLAG0569,TRIP092,DRV028,06-02-2024 08:34,1748,harsh_braking,medium,0.899,0,0.405,harsh braking detected. Combined score 0.405.,Motion: harsh_braking | Audio: normal
+FLAG0570,TRIP092,DRV028,06-02-2024 08:36,1919,harsh_braking,low,0.362,0,0.163,harsh braking detected. Combined score 0.163.,Motion: harsh_braking | Audio: normal
+FLAG0571,TRIP092,DRV028,06-02-2024 08:45,2432,harsh_braking,medium,0.891,0,0.401,harsh braking detected. Combined score 0.401.,Motion: harsh_braking | Audio: normal
+FLAG0572,TRIP092,DRV028,06-02-2024 08:49,2698,harsh_braking,medium,0.903,0,0.406,harsh braking detected. Combined score 0.406.,Motion: harsh_braking | Audio: normal
+FLAG0573,TRIP093,DRV028,06-02-2024 09:23,35,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0574,TRIP093,DRV028,06-02-2024 09:31,525,swerve,low,0.707,0,0.318,swerve detected. Combined score 0.318.,Motion: swerve | Audio: normal
+FLAG0575,TRIP093,DRV028,06-02-2024 09:38,910,harsh_braking,low,0.507,0,0.228,harsh braking detected. Combined score 0.228.,Motion: harsh_braking | Audio: normal
+FLAG0576,TRIP093,DRV028,06-02-2024 09:45,1330,moderate_brake,low,0.339,0,0.153,moderate brake detected. Combined score 0.153.,Motion: moderate_brake | Audio: normal
+FLAG0577,TRIP093,DRV028,06-02-2024 09:48,1540,moderate_brake,low,0.296,0,0.133,moderate brake detected. Combined score 0.133.,Motion: moderate_brake | Audio: normal
+FLAG0578,TRIP093,DRV028,06-02-2024 09:52,1785,swerve,low,0.607,0,0.273,moderate brake detected. Combined score 0.273.,Motion: swerve | Audio: normal
+FLAG0579,TRIP094,DRV028,06-02-2024 10:28,168,moderate_brake,low,0.315,0,0.142,moderate brake detected. Combined score 0.142.,Motion: moderate_brake | Audio: normal
+FLAG0580,TRIP094,DRV028,06-02-2024 10:35,560,swerve,low,0.204,0,0.092,swerve detected. Combined score 0.092.,Motion: swerve | Audio: normal
+FLAG0581,TRIP094,DRV028,06-02-2024 10:42,1008,conflict_moment,high,0.563,0.933,0.92,"harsh accel detected. elevated cabin audio (92 dB, 38s sustained). Combined score 0.92.",Motion: conflict_moment | Audio: conflict
+FLAG0582,TRIP094,DRV028,06-02-2024 10:50,1456,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0583,TRIP094,DRV028,06-02-2024 10:52,1596,moderate_brake,low,0.321,0,0.144,moderate brake detected. Combined score 0.144.,Motion: moderate_brake | Audio: normal
+FLAG0584,TRIP094,DRV028,06-02-2024 10:55,1764,swerve,low,0.774,0,0.348,swerve detected. Combined score 0.348.,Motion: swerve | Audio: normal
+FLAG0585,TRIP094,DRV028,06-02-2024 11:06,2408,harsh_accel,low,0.68,0,0.306,moderate brake detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG0586,TRIP094,DRV028,06-02-2024 11:12,2772,moderate_brake,low,0.195,0,0.088,moderate brake detected. Combined score 0.088.,Motion: moderate_brake | Audio: normal
+FLAG0587,TRIP094,DRV028,06-02-2024 11:15,2940,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0588,TRIP094,DRV028,06-02-2024 11:17,3108,harsh_braking,low,0.565,0,0.254,harsh accel detected. Combined score 0.254.,Motion: harsh_braking | Audio: normal
+FLAG0589,TRIP094,DRV028,06-02-2024 11:22,3388,swerve,low,0.635,0,0.286,swerve detected. Combined score 0.286.,Motion: swerve | Audio: normal
+FLAG0590,TRIP095,DRV029,06-02-2024 17:28,0,swerve,low,0.733,0,0.33,swerve detected. Combined score 0.33.,Motion: swerve | Audio: normal
+FLAG0591,TRIP095,DRV029,06-02-2024 17:34,403,conflict_moment,high,0.494,0.95,0.894,"harsh braking detected. elevated cabin audio (88 dB, 46s sustained). Combined score 0.894.",Motion: conflict_moment | Audio: conflict
+FLAG0592,TRIP095,DRV029,06-02-2024 17:43,930,harsh_accel,low,0.531,0,0.239,harsh accel detected. Combined score 0.239.,Motion: harsh_accel | Audio: normal
+FLAG0593,TRIP095,DRV029,06-02-2024 17:46,1116,swerve,low,0.374,0,0.168,swerve detected. Combined score 0.168.,Motion: swerve | Audio: normal
+FLAG0594,TRIP096,DRV029,06-02-2024 18:17,100,harsh_braking,medium,0.948,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0595,TRIP096,DRV029,06-02-2024 18:23,450,moderate_brake,low,0.314,0,0.141,moderate brake detected. Combined score 0.141.,Motion: moderate_brake | Audio: normal
+FLAG0596,TRIP096,DRV029,06-02-2024 18:26,600,moderate_brake,low,0.213,0,0.096,moderate brake detected. Combined score 0.096.,Motion: moderate_brake | Audio: normal
+FLAG0597,TRIP096,DRV029,06-02-2024 18:31,925,harsh_braking,low,0.797,0,0.359,harsh braking detected. Combined score 0.359.,Motion: harsh_braking | Audio: normal
+FLAG0598,TRIP096,DRV029,06-02-2024 18:37,1275,harsh_braking,low,0.615,0,0.277,harsh braking detected. Combined score 0.277.,Motion: harsh_braking | Audio: normal
+FLAG0599,TRIP096,DRV029,06-02-2024 18:42,1575,swerve,low,0.369,0,0.166,moderate brake detected. Combined score 0.166.,Motion: swerve | Audio: normal
+FLAG0600,TRIP096,DRV029,06-02-2024 18:47,1900,harsh_accel,low,0.5,0,0.225,harsh accel detected. Combined score 0.225.,Motion: harsh_accel | Audio: normal
+FLAG0601,TRIP096,DRV029,06-02-2024 18:51,2125,swerve,low,0.552,0,0.248,swerve detected. Combined score 0.248.,Motion: swerve | Audio: normal
+FLAG0602,TRIP096,DRV029,06-02-2024 18:53,2275,harsh_braking,low,0.599,0,0.27,harsh braking detected. Combined score 0.27.,Motion: harsh_braking | Audio: normal
+FLAG0603,TRIP096,DRV029,06-02-2024 18:58,2525,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0604,TRIP096,DRV029,06-02-2024 19:01,2725,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0605,TRIP096,DRV029,06-02-2024 19:03,2875,harsh_accel,low,0.294,0,0.132,harsh accel detected. Combined score 0.132.,Motion: harsh_accel | Audio: normal
+FLAG0606,TRIP096,DRV029,06-02-2024 19:06,3025,harsh_accel,low,0.543,0,0.244,harsh accel detected. Combined score 0.244.,Motion: harsh_accel | Audio: normal
+FLAG0607,TRIP096,DRV029,06-02-2024 19:09,3225,harsh_accel,low,0.431,0,0.194,pothole detected. Combined score 0.194.,Motion: harsh_accel | Audio: normal
+FLAG0608,TRIP097,DRV030,06-02-2024 06:25,364,swerve,low,0.548,0,0.247,swerve detected. Combined score 0.247.,Motion: swerve | Audio: normal
+FLAG0609,TRIP097,DRV030,06-02-2024 06:28,588,moderate_brake,low,0.213,0,0.096,moderate brake detected. Combined score 0.096.,Motion: moderate_brake | Audio: normal
+FLAG0610,TRIP097,DRV030,06-02-2024 06:36,1036,swerve,low,0.478,0,0.215,swerve detected. Combined score 0.215.,Motion: swerve | Audio: normal
+FLAG0611,TRIP098,DRV030,06-02-2024 06:58,465,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0612,TRIP098,DRV030,06-02-2024 07:01,651,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0613,TRIP098,DRV030,06-02-2024 07:04,806,harsh_braking,low,0.604,0,0.272,harsh accel detected. Combined score 0.272.,Motion: harsh_braking | Audio: normal
+FLAG0614,TRIP098,DRV030,06-02-2024 07:17,1612,harsh_braking,low,0.818,0,0.368,harsh braking detected. Combined score 0.368.,Motion: harsh_braking | Audio: normal
+FLAG0615,TRIP098,DRV030,06-02-2024 07:22,1860,harsh_accel,low,0.641,0,0.288,harsh accel detected. Combined score 0.288.,Motion: harsh_accel | Audio: normal
+FLAG0616,TRIP099,DRV030,06-02-2024 07:56,210,swerve,low,0.567,0,0.255,swerve detected. Combined score 0.255.,Motion: swerve | Audio: normal
+FLAG0617,TRIP099,DRV030,06-02-2024 08:08,945,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0618,TRIP099,DRV030,06-02-2024 08:12,1155,harsh_braking,low,0.408,0,0.184,harsh braking detected. Combined score 0.184.,Motion: harsh_braking | Audio: normal
+FLAG0619,TRIP099,DRV030,06-02-2024 08:15,1365,moderate_brake,low,0.134,0,0.06,moderate brake detected. Combined score 0.06.,Motion: moderate_brake | Audio: normal
+FLAG0620,TRIP099,DRV030,06-02-2024 08:23,1855,swerve,low,0.166,0,0.075,swerve detected. Combined score 0.075.,Motion: swerve | Audio: normal
+FLAG0621,TRIP099,DRV030,06-02-2024 08:26,1995,harsh_accel,low,0.596,0,0.268,harsh accel detected. Combined score 0.268.,Motion: harsh_accel | Audio: normal
+FLAG0622,TRIP099,DRV030,06-02-2024 08:40,2870,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0623,TRIP100,DRV030,06-02-2024 09:24,253,harsh_accel,low,0.697,0,0.314,harsh accel detected. Combined score 0.314.,Motion: harsh_accel | Audio: normal
+FLAG0624,TRIP100,DRV030,06-02-2024 09:28,483,swerve,low,0.246,0,0.111,swerve detected. Combined score 0.111.,Motion: swerve | Audio: normal
+FLAG0625,TRIP100,DRV030,06-02-2024 09:31,713,moderate_brake,low,0.315,0,0.142,moderate brake detected. Combined score 0.142.,Motion: moderate_brake | Audio: normal
+FLAG0626,TRIP101,DRV030,06-02-2024 09:55,0,harsh_accel,low,0.501,0,0.225,harsh accel detected. Combined score 0.225.,Motion: harsh_accel | Audio: normal
+FLAG0627,TRIP101,DRV030,06-02-2024 09:57,168,harsh_braking,low,0.682,0,0.307,harsh braking detected. Combined score 0.307.,Motion: harsh_braking | Audio: normal
+FLAG0628,TRIP101,DRV030,06-02-2024 10:06,700,harsh_accel,low,0.621,0,0.279,harsh accel detected. Combined score 0.279.,Motion: harsh_accel | Audio: normal
+FLAG0629,TRIP101,DRV030,06-02-2024 10:15,1232,harsh_braking,low,0.804,0,0.362,harsh braking detected. Combined score 0.362.,Motion: harsh_braking | Audio: normal
+FLAG0630,TRIP101,DRV030,06-02-2024 10:20,1540,harsh_accel,low,0.665,0,0.299,harsh braking detected. Combined score 0.299.,Motion: harsh_accel | Audio: normal
+FLAG0631,TRIP101,DRV030,06-02-2024 10:29,2044,harsh_braking,low,0.802,0,0.361,harsh braking detected. Combined score 0.361.,Motion: harsh_braking | Audio: normal
+FLAG0632,TRIP102,DRV031,06-02-2024 17:22,0,swerve,low,0.724,0,0.326,swerve detected. Combined score 0.326.,Motion: swerve | Audio: normal
+FLAG0633,TRIP102,DRV031,06-02-2024 17:26,279,swerve,low,0.281,0,0.126,swerve detected. Combined score 0.126.,Motion: swerve | Audio: normal
+FLAG0634,TRIP102,DRV031,06-02-2024 17:28,403,moderate_brake,low,0.231,0,0.104,moderate brake detected. Combined score 0.104.,Motion: moderate_brake | Audio: normal
+FLAG0635,TRIP102,DRV031,06-02-2024 17:33,713,moderate_brake,low,0.289,0,0.13,moderate brake detected. Combined score 0.13.,Motion: moderate_brake | Audio: normal
+FLAG0636,TRIP102,DRV031,06-02-2024 17:36,899,swerve,low,0.179,0,0.081,swerve detected. Combined score 0.081.,Motion: swerve | Audio: normal
+FLAG0637,TRIP102,DRV031,06-02-2024 17:44,1333,harsh_accel,low,0.411,0,0.185,harsh accel detected. Combined score 0.185.,Motion: harsh_accel | Audio: normal
+FLAG0638,TRIP102,DRV031,06-02-2024 17:46,1457,swerve,low,0.514,0,0.231,swerve detected. Combined score 0.231.,Motion: swerve | Audio: normal
+FLAG0639,TRIP102,DRV031,06-02-2024 17:49,1643,moderate_brake,low,0.266,0,0.12,moderate brake detected. Combined score 0.12.,Motion: moderate_brake | Audio: normal
+FLAG0640,TRIP102,DRV031,06-02-2024 17:52,1829,conflict_moment,high,0.174,0.633,0.511,"swerve detected. elevated cabin audio (87 dB, 62s sustained). Combined score 0.511.",Motion: conflict_moment | Audio: conflict
+FLAG0641,TRIP102,DRV031,06-02-2024 18:04,2542,harsh_braking,low,0.783,0,0.352,swerve detected. Combined score 0.352.,Motion: harsh_braking | Audio: normal
+FLAG0642,TRIP103,DRV031,06-02-2024 18:28,96,swerve,low,0.613,0,0.276,harsh accel detected. Combined score 0.276.,Motion: swerve | Audio: normal
+FLAG0643,TRIP103,DRV031,06-02-2024 18:32,352,swerve,low,0.538,0,0.242,swerve detected. Combined score 0.242.,Motion: swerve | Audio: normal
+FLAG0644,TRIP103,DRV031,06-02-2024 18:38,672,swerve,low,0.741,0,0.333,swerve detected. Combined score 0.333.,Motion: swerve | Audio: normal
+FLAG0645,TRIP103,DRV031,06-02-2024 18:41,864,moderate_brake,low,0.329,0,0.148,pothole detected. Combined score 0.148.,Motion: moderate_brake | Audio: normal
+FLAG0646,TRIP103,DRV031,06-02-2024 18:45,1120,swerve,low,0.53,0,0.239,swerve detected. Combined score 0.239.,Motion: swerve | Audio: normal
+FLAG0647,TRIP103,DRV031,06-02-2024 18:51,1440,swerve,low,0.636,0,0.286,swerve detected. Combined score 0.286.,Motion: swerve | Audio: normal
+FLAG0648,TRIP103,DRV031,06-02-2024 18:54,1664,harsh_accel,low,0.263,0,0.118,harsh accel detected. Combined score 0.118.,Motion: harsh_accel | Audio: normal
+FLAG0649,TRIP103,DRV031,06-02-2024 18:59,1952,swerve,low,0.624,0,0.281,swerve detected. Combined score 0.281.,Motion: swerve | Audio: normal
+FLAG0650,TRIP103,DRV031,06-02-2024 19:09,2560,swerve,low,0.423,0,0.19,swerve detected. Combined score 0.19.,Motion: swerve | Audio: normal
+FLAG0651,TRIP103,DRV031,06-02-2024 19:12,2752,swerve,low,0.741,0,0.333,swerve detected. Combined score 0.333.,Motion: swerve | Audio: normal
+FLAG0652,TRIP104,DRV031,06-02-2024 19:33,126,harsh_accel,low,0.496,0,0.223,harsh accel detected. Combined score 0.223.,Motion: harsh_accel | Audio: normal
+FLAG0653,TRIP104,DRV031,06-02-2024 19:39,504,harsh_braking,medium,0.871,0,0.392,harsh braking detected. Combined score 0.392.,Motion: harsh_braking | Audio: normal
+FLAG0654,TRIP104,DRV031,06-02-2024 19:43,748,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (88 dB, 37s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0655,TRIP104,DRV031,06-02-2024 19:49,1092,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0656,TRIP104,DRV031,06-02-2024 19:56,1512,harsh_braking,low,0.512,0,0.23,harsh braking detected. Combined score 0.23.,Motion: harsh_braking | Audio: normal
+FLAG0657,TRIP104,DRV031,06-02-2024 20:05,2058,moderate_brake,low,0.261,0,0.117,moderate brake detected. Combined score 0.117.,Motion: moderate_brake | Audio: normal
+FLAG0658,TRIP105,DRV031,06-02-2024 20:30,205,harsh_accel,low,0.543,0,0.244,swerve detected. Combined score 0.244.,Motion: harsh_accel | Audio: normal
+FLAG0659,TRIP105,DRV031,06-02-2024 20:35,492,moderate_brake,low,0.199,0,0.09,moderate brake detected. Combined score 0.09.,Motion: moderate_brake | Audio: normal
+FLAG0660,TRIP105,DRV031,06-02-2024 20:50,1435,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0661,TRIP106,DRV031,06-02-2024 21:28,345,conflict_moment,high,0.876,0.95,1,"harsh braking detected. elevated cabin audio (98 dB, 49s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0662,TRIP106,DRV031,06-02-2024 21:39,975,swerve,low,0.302,0,0.136,swerve detected. Combined score 0.136.,Motion: swerve | Audio: normal
+FLAG0663,TRIP106,DRV031,06-02-2024 21:41,1110,swerve,low,0.729,0,0.328,swerve detected. Combined score 0.328.,Motion: swerve | Audio: normal
+FLAG0664,TRIP107,DRV031,06-02-2024 22:17,646,harsh_accel,low,0.563,0,0.253,harsh accel detected. Combined score 0.253.,Motion: harsh_accel | Audio: normal
+FLAG0665,TRIP107,DRV031,06-02-2024 22:21,893,harsh_braking,low,0.601,0,0.27,moderate brake detected. Combined score 0.27.,Motion: harsh_braking | Audio: normal
+FLAG0666,TRIP107,DRV031,06-02-2024 22:28,1273,harsh_accel,low,0.583,0,0.262,harsh accel detected. Combined score 0.262.,Motion: harsh_accel | Audio: normal
+FLAG0667,TRIP107,DRV031,06-02-2024 22:33,1596,harsh_braking,medium,0.9,0,0.405,harsh braking detected. Combined score 0.405.,Motion: harsh_braking | Audio: normal
+FLAG0668,TRIP107,DRV031,06-02-2024 22:36,1748,swerve,low,0.249,0,0.112,swerve detected. Combined score 0.112.,Motion: swerve | Audio: normal
+FLAG0669,TRIP108,DRV032,06-02-2024 06:29,48,harsh_braking,low,0.843,0,0.379,harsh braking detected. Combined score 0.379.,Motion: harsh_braking | Audio: normal
+FLAG0670,TRIP108,DRV032,06-02-2024 06:33,272,harsh_braking,low,0.698,0,0.314,swerve detected. Combined score 0.314.,Motion: harsh_braking | Audio: normal
+FLAG0671,TRIP108,DRV032,06-02-2024 06:36,432,conflict_moment,high,0,0.9,0.495,"elevated cabin audio (90 dB, 43s sustained). Combined score 0.495.",Motion: conflict_moment | Audio: conflict
+FLAG0672,TRIP108,DRV032,06-02-2024 06:40,704,harsh_braking,low,0.609,0,0.274,harsh accel detected. Combined score 0.274.,Motion: harsh_braking | Audio: normal
+FLAG0673,TRIP108,DRV032,06-02-2024 06:43,896,harsh_braking,low,0.747,0,0.336,harsh braking detected. Combined score 0.336.,Motion: harsh_braking | Audio: normal
+FLAG0674,TRIP108,DRV032,06-02-2024 06:47,1104,swerve,low,0.403,0,0.181,swerve detected. Combined score 0.181.,Motion: swerve | Audio: normal
+FLAG0675,TRIP109,DRV032,06-02-2024 07:32,195,moderate_brake,low,0.132,0,0.059,moderate brake detected. Combined score 0.059.,Motion: moderate_brake | Audio: normal
+FLAG0676,TRIP109,DRV032,06-02-2024 07:37,480,harsh_braking,low,0.701,0,0.315,harsh braking detected. Combined score 0.315.,Motion: harsh_braking | Audio: normal
+FLAG0677,TRIP109,DRV032,06-02-2024 07:40,660,swerve,low,0.458,0,0.206,swerve detected. Combined score 0.206.,Motion: swerve | Audio: normal
+FLAG0678,TRIP109,DRV032,06-02-2024 07:52,1380,swerve,low,0.225,0,0.101,swerve detected. Combined score 0.101.,Motion: swerve | Audio: normal
+FLAG0679,TRIP109,DRV032,06-02-2024 08:00,1905,swerve,low,0.726,0,0.327,swerve detected. Combined score 0.327.,Motion: swerve | Audio: normal
+FLAG0680,TRIP109,DRV032,06-02-2024 08:04,2100,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0681,TRIP109,DRV032,06-02-2024 08:07,2310,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0682,TRIP109,DRV032,06-02-2024 08:13,2640,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (86 dB, 36s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0683,TRIP109,DRV032,06-02-2024 08:16,2850,swerve,low,0.21,0,0.095,swerve detected. Combined score 0.095.,Motion: swerve | Audio: normal
+FLAG0684,TRIP109,DRV032,06-02-2024 08:19,3030,harsh_braking,low,0.592,0,0.266,moderate brake detected. Combined score 0.266.,Motion: harsh_braking | Audio: normal
+FLAG0685,TRIP109,DRV032,06-02-2024 08:25,3360,swerve,low,0.325,0,0.146,swerve detected. Combined score 0.146.,Motion: swerve | Audio: normal
+FLAG0686,TRIP110,DRV033,06-02-2024 06:02,0,swerve,low,0.507,0,0.228,swerve detected. Combined score 0.228.,Motion: swerve | Audio: normal
+FLAG0687,TRIP110,DRV033,06-02-2024 06:12,651,harsh_accel,low,0.678,0,0.305,harsh accel detected. Combined score 0.305.,Motion: harsh_accel | Audio: normal
+FLAG0688,TRIP110,DRV033,06-02-2024 06:26,1457,harsh_braking,medium,0.93,0,0.419,harsh braking detected. Combined score 0.419.,Motion: harsh_braking | Audio: normal
+FLAG0689,TRIP111,DRV033,06-02-2024 06:40,220,swerve,low,0.173,0,0.078,swerve detected. Combined score 0.078.,Motion: swerve | Audio: normal
+FLAG0690,TRIP111,DRV033,06-02-2024 06:45,484,harsh_accel,low,0.34,0,0.153,harsh accel detected. Combined score 0.153.,Motion: harsh_accel | Audio: normal
+FLAG0691,TRIP111,DRV033,06-02-2024 06:52,924,harsh_accel,low,0.528,0,0.238,harsh accel detected. Combined score 0.238.,Motion: harsh_accel | Audio: normal
+FLAG0692,TRIP111,DRV033,06-02-2024 06:59,1364,harsh_accel,low,0.334,0,0.15,harsh accel detected. Combined score 0.15.,Motion: harsh_accel | Audio: normal
+FLAG0693,TRIP111,DRV033,06-02-2024 07:03,1584,swerve,low,0.41,0,0.184,swerve detected. Combined score 0.184.,Motion: swerve | Audio: normal
+FLAG0694,TRIP111,DRV033,06-02-2024 07:06,1760,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0695,TRIP111,DRV033,06-02-2024 07:12,2112,harsh_braking,low,0.718,0,0.323,moderate brake detected. Combined score 0.323.,Motion: harsh_braking | Audio: normal
+FLAG0696,TRIP111,DRV033,06-02-2024 07:19,2520,harsh_accel,low,0.644,0,0.29,harsh accel detected. Combined score 0.29.,Motion: harsh_accel | Audio: normal
+FLAG0697,TRIP112,DRV033,06-02-2024 07:50,15,conflict_moment,high,0.864,0.95,1,"swerve detected. elevated cabin audio (97 dB, 61s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0698,TRIP113,DRV033,06-02-2024 08:32,0,swerve,low,0.729,0,0.328,swerve detected. Combined score 0.328.,Motion: swerve | Audio: normal
+FLAG0699,TRIP113,DRV033,06-02-2024 08:34,164,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0700,TRIP113,DRV033,06-02-2024 08:41,574,moderate_brake,low,0.105,0,0.047,moderate brake detected. Combined score 0.047.,Motion: moderate_brake | Audio: normal
+FLAG0701,TRIP113,DRV033,06-02-2024 08:54,1353,harsh_accel,low,0.539,0,0.243,harsh accel detected. Combined score 0.243.,Motion: harsh_accel | Audio: normal
+FLAG0702,TRIP113,DRV033,06-02-2024 08:57,1558,swerve,low,0.588,0,0.265,swerve detected. Combined score 0.265.,Motion: swerve | Audio: normal
+FLAG0703,TRIP113,DRV033,06-02-2024 09:02,1845,swerve,low,0.299,0,0.135,swerve detected. Combined score 0.135.,Motion: swerve | Audio: normal
+FLAG0704,TRIP113,DRV033,06-02-2024 09:05,2009,swerve,low,0.565,0,0.254,swerve detected. Combined score 0.254.,Motion: swerve | Audio: normal
+FLAG0705,TRIP113,DRV033,06-02-2024 09:08,2173,moderate_brake,low,0.255,0,0.115,moderate brake detected. Combined score 0.115.,Motion: moderate_brake | Audio: normal
+FLAG0706,TRIP113,DRV033,06-02-2024 09:11,2378,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0707,TRIP113,DRV033,06-02-2024 09:14,2520,swerve,low,0.167,0,0.075,swerve detected. Combined score 0.075.,Motion: swerve | Audio: normal
+FLAG0708,TRIP114,DRV034,06-02-2024 12:25,96,moderate_brake,low,0.254,0,0.114,moderate brake detected. Combined score 0.114.,Motion: moderate_brake | Audio: normal
+FLAG0709,TRIP114,DRV034,06-02-2024 12:29,312,harsh_braking,medium,0.939,0,0.423,harsh braking detected. Combined score 0.423.,Motion: harsh_braking | Audio: normal
+FLAG0710,TRIP114,DRV034,06-02-2024 12:34,648,harsh_braking,low,0.594,0,0.267,harsh accel detected. Combined score 0.267.,Motion: harsh_braking | Audio: normal
+FLAG0711,TRIP114,DRV034,06-02-2024 12:39,912,harsh_braking,medium,0.95,0,0.427,swerve detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0712,TRIP115,DRV034,06-02-2024 13:31,171,harsh_braking,medium,0.918,0,0.413,harsh braking detected. Combined score 0.413.,Motion: harsh_braking | Audio: normal
+FLAG0713,TRIP115,DRV034,06-02-2024 13:36,475,swerve,low,0.548,0,0.247,swerve detected. Combined score 0.247.,Motion: swerve | Audio: normal
+FLAG0714,TRIP115,DRV034,06-02-2024 13:40,703,swerve,low,0.281,0,0.126,swerve detected. Combined score 0.126.,Motion: swerve | Audio: normal
+FLAG0715,TRIP115,DRV034,06-02-2024 13:45,969,harsh_braking,low,0.744,0,0.335,harsh accel detected. Combined score 0.335.,Motion: harsh_braking | Audio: normal
+FLAG0716,TRIP115,DRV034,06-02-2024 13:49,1254,harsh_braking,low,0.47,0,0.211,harsh braking detected. Combined score 0.211.,Motion: harsh_braking | Audio: normal
+FLAG0717,TRIP115,DRV034,06-02-2024 13:56,1634,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0718,TRIP115,DRV034,06-02-2024 14:01,1976,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0719,TRIP115,DRV034,06-02-2024 14:04,2147,moderate_brake,low,0.189,0,0.085,moderate brake detected. Combined score 0.085.,Motion: moderate_brake | Audio: normal
+FLAG0720,TRIP115,DRV034,06-02-2024 14:10,2489,swerve,low,0.381,0,0.171,swerve detected. Combined score 0.171.,Motion: swerve | Audio: normal
+FLAG0721,TRIP115,DRV034,06-02-2024 14:15,2793,harsh_braking,medium,0.854,0,0.384,harsh accel detected. Combined score 0.384.,Motion: harsh_braking | Audio: normal
+FLAG0722,TRIP115,DRV034,06-02-2024 14:19,3040,harsh_braking,medium,0.872,0,0.392,pothole detected. Combined score 0.392.,Motion: harsh_braking | Audio: normal
+FLAG0723,TRIP115,DRV034,06-02-2024 14:24,3344,swerve,low,0.597,0,0.269,swerve detected. Combined score 0.269.,Motion: swerve | Audio: normal
+FLAG0724,TRIP116,DRV035,06-02-2024 06:24,204,harsh_braking,medium,0.937,0,0.422,harsh accel detected. Combined score 0.422.,Motion: harsh_braking | Audio: normal
+FLAG0725,TRIP116,DRV035,06-02-2024 06:31,629,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0726,TRIP116,DRV035,06-02-2024 06:37,986,harsh_accel,low,0.487,0,0.219,harsh accel detected. Combined score 0.219.,Motion: harsh_accel | Audio: normal
+FLAG0727,TRIP117,DRV035,06-02-2024 07:14,21,harsh_accel,low,0.41,0,0.184,moderate brake detected. Combined score 0.184.,Motion: harsh_accel | Audio: normal
+FLAG0728,TRIP117,DRV035,06-02-2024 07:23,567,harsh_braking,medium,0.886,0,0.399,harsh accel detected. Combined score 0.399.,Motion: harsh_braking | Audio: normal
+FLAG0729,TRIP117,DRV035,06-02-2024 07:31,1029,moderate_brake,low,0.295,0,0.133,moderate brake detected. Combined score 0.133.,Motion: moderate_brake | Audio: normal
+FLAG0730,TRIP117,DRV035,06-02-2024 07:36,1344,moderate_brake,low,0.195,0,0.088,moderate brake detected. Combined score 0.088.,Motion: moderate_brake | Audio: normal
+FLAG0731,TRIP117,DRV035,06-02-2024 07:40,1617,harsh_accel,low,0.502,0,0.226,harsh accel detected. Combined score 0.226.,Motion: harsh_accel | Audio: normal
+FLAG0732,TRIP117,DRV035,06-02-2024 07:46,1932,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0733,TRIP117,DRV035,06-02-2024 07:53,2394,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0734,TRIP117,DRV035,06-02-2024 07:59,2751,swerve,low,0.772,0,0.347,swerve detected. Combined score 0.347.,Motion: swerve | Audio: normal
+FLAG0735,TRIP118,DRV035,06-02-2024 08:13,18,harsh_accel,low,0.466,0,0.21,harsh accel detected. Combined score 0.21.,Motion: harsh_accel | Audio: normal
+FLAG0736,TRIP118,DRV035,06-02-2024 08:22,540,moderate_brake,low,0.126,0,0.057,moderate brake detected. Combined score 0.057.,Motion: moderate_brake | Audio: normal
+FLAG0737,TRIP118,DRV035,06-02-2024 08:27,864,harsh_braking,low,0.703,0,0.316,harsh accel detected. Combined score 0.316.,Motion: harsh_braking | Audio: normal
+FLAG0738,TRIP119,DRV036,06-02-2024 06:38,640,harsh_braking,medium,0.902,0,0.406,harsh braking detected. Combined score 0.406.,Motion: harsh_braking | Audio: normal
+FLAG0739,TRIP119,DRV036,06-02-2024 06:44,960,conflict_moment,high,0.485,0.95,0.889,"harsh braking detected. elevated cabin audio (72 dB, 47s sustained). Combined score 0.889.",Motion: conflict_moment | Audio: conflict
+FLAG0740,TRIP120,DRV036,06-02-2024 07:04,120,harsh_accel,low,0.653,0,0.294,harsh braking detected. Combined score 0.294.,Motion: harsh_accel | Audio: normal
+FLAG0741,TRIP120,DRV036,06-02-2024 07:09,420,harsh_braking,medium,0.912,0,0.41,harsh accel detected. Combined score 0.41.,Motion: harsh_braking | Audio: normal
+FLAG0742,TRIP120,DRV036,06-02-2024 07:14,750,moderate_brake,low,0.162,0,0.073,moderate brake detected. Combined score 0.073.,Motion: moderate_brake | Audio: normal
+FLAG0743,TRIP120,DRV036,06-02-2024 07:18,990,harsh_braking,low,0.81,0,0.365,swerve detected. Combined score 0.365.,Motion: harsh_braking | Audio: normal
+FLAG0744,TRIP120,DRV036,06-02-2024 07:24,1320,harsh_accel,low,0.474,0,0.213,harsh accel detected. Combined score 0.213.,Motion: harsh_accel | Audio: normal
+FLAG0745,TRIP120,DRV036,06-02-2024 07:40,2280,swerve,low,0.354,0,0.159,moderate brake detected. Combined score 0.159.,Motion: swerve | Audio: normal
+FLAG0746,TRIP121,DRV036,06-02-2024 08:03,0,harsh_braking,medium,0.931,0,0.419,harsh accel detected. Combined score 0.419.,Motion: harsh_braking | Audio: normal
+FLAG0747,TRIP121,DRV036,06-02-2024 08:17,870,harsh_accel,low,0.562,0,0.253,harsh accel detected. Combined score 0.253.,Motion: harsh_accel | Audio: normal
+FLAG0748,TRIP121,DRV036,06-02-2024 08:20,1044,moderate_brake,low,0.264,0,0.119,moderate brake detected. Combined score 0.119.,Motion: moderate_brake | Audio: normal
+FLAG0749,TRIP121,DRV036,06-02-2024 08:23,1232,conflict_moment,high,0.297,0.767,0.667,"moderate brake detected. elevated cabin audio (88 dB, 70s sustained). Combined score 0.667.",Motion: conflict_moment | Audio: conflict
+FLAG0750,TRIP121,DRV036,06-02-2024 08:28,1500,swerve,low,0.354,0,0.159,swerve detected. Combined score 0.159.,Motion: swerve | Audio: normal
+FLAG0751,TRIP122,DRV036,06-02-2024 08:43,196,harsh_accel,low,0.629,0,0.283,harsh accel detected. Combined score 0.283.,Motion: harsh_accel | Audio: normal
+FLAG0752,TRIP122,DRV036,06-02-2024 08:56,980,moderate_brake,low,0.163,0,0.073,moderate brake detected. Combined score 0.073.,Motion: moderate_brake | Audio: normal
+FLAG0753,TRIP122,DRV036,06-02-2024 09:02,1372,harsh_accel,low,0.475,0,0.214,harsh accel detected. Combined score 0.214.,Motion: harsh_accel | Audio: normal
+FLAG0754,TRIP122,DRV036,06-02-2024 09:13,1988,harsh_accel,low,0.653,0,0.294,harsh braking detected. Combined score 0.294.,Motion: harsh_accel | Audio: normal
+FLAG0755,TRIP122,DRV036,06-02-2024 09:20,2436,swerve,low,0.591,0,0.266,swerve detected. Combined score 0.266.,Motion: swerve | Audio: normal
+FLAG0756,TRIP122,DRV036,06-02-2024 09:26,2790,conflict_moment,high,0,0.9,0.495,"elevated cabin audio (79 dB, 31s sustained). Combined score 0.495.",Motion: conflict_moment | Audio: conflict
+FLAG0757,TRIP122,DRV036,06-02-2024 09:31,3080,harsh_braking,low,0.647,0,0.291,moderate brake detected. Combined score 0.291.,Motion: harsh_braking | Audio: normal
+FLAG0758,TRIP123,DRV037,06-02-2024 06:09,0,harsh_accel,low,0.41,0,0.184,harsh accel detected. Combined score 0.184.,Motion: harsh_accel | Audio: normal
+FLAG0759,TRIP123,DRV037,06-02-2024 06:17,486,swerve,low,0.543,0,0.244,swerve detected. Combined score 0.244.,Motion: swerve | Audio: normal
+FLAG0760,TRIP123,DRV037,06-02-2024 06:23,891,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0761,TRIP123,DRV037,06-02-2024 06:31,1350,harsh_braking,low,0.815,0,0.367,swerve detected. Combined score 0.367.,Motion: harsh_braking | Audio: normal
+FLAG0762,TRIP123,DRV037,06-02-2024 06:43,2052,moderate_brake,low,0.293,0,0.132,moderate brake detected. Combined score 0.132.,Motion: moderate_brake | Audio: normal
+FLAG0763,TRIP123,DRV037,06-02-2024 06:48,2349,swerve,low,0.276,0,0.124,swerve detected. Combined score 0.124.,Motion: swerve | Audio: normal
+FLAG0764,TRIP123,DRV037,06-02-2024 06:52,2592,moderate_brake,low,0.222,0,0.1,moderate brake detected. Combined score 0.1.,Motion: moderate_brake | Audio: normal
+FLAG0765,TRIP123,DRV037,06-02-2024 06:57,2889,swerve,low,0.729,0,0.328,swerve detected. Combined score 0.328.,Motion: swerve | Audio: normal
+FLAG0766,TRIP124,DRV037,06-02-2024 07:48,330,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0767,TRIP124,DRV037,06-02-2024 07:55,726,conflict_moment,high,0.452,0.867,0.816,"swerve detected. elevated cabin audio (87 dB, 56s sustained). Combined score 0.816.",Motion: conflict_moment | Audio: conflict
+FLAG0768,TRIP124,DRV037,06-02-2024 08:00,1023,harsh_braking,low,0.597,0,0.269,harsh braking detected. Combined score 0.269.,Motion: harsh_braking | Audio: normal
+FLAG0769,TRIP124,DRV037,06-02-2024 08:03,1254,harsh_braking,medium,0.928,0,0.418,harsh braking detected. Combined score 0.418.,Motion: harsh_braking | Audio: normal
+FLAG0770,TRIP124,DRV037,06-02-2024 08:09,1617,moderate_brake,low,0.229,0,0.103,moderate brake detected. Combined score 0.103.,Motion: moderate_brake | Audio: normal
+FLAG0771,TRIP124,DRV037,06-02-2024 08:13,1848,harsh_accel,low,0.361,0,0.162,harsh accel detected. Combined score 0.162.,Motion: harsh_accel | Audio: normal
+FLAG0772,TRIP124,DRV037,06-02-2024 08:17,2046,swerve,low,0.765,0,0.344,swerve detected. Combined score 0.344.,Motion: swerve | Audio: normal
+FLAG0773,TRIP125,DRV037,06-02-2024 08:52,0,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0774,TRIP125,DRV037,06-02-2024 08:55,234,harsh_accel,low,0.379,0,0.171,harsh accel detected. Combined score 0.171.,Motion: harsh_accel | Audio: normal
+FLAG0775,TRIP125,DRV037,06-02-2024 09:00,494,swerve,low,0.193,0,0.087,swerve detected. Combined score 0.087.,Motion: swerve | Audio: normal
+FLAG0776,TRIP125,DRV037,06-02-2024 09:03,676,moderate_brake,low,0.155,0,0.07,moderate brake detected. Combined score 0.07.,Motion: moderate_brake | Audio: normal
+FLAG0777,TRIP125,DRV037,06-02-2024 09:08,962,swerve,low,0.309,0,0.139,swerve detected. Combined score 0.139.,Motion: swerve | Audio: normal
+FLAG0778,TRIP125,DRV037,06-02-2024 09:11,1170,harsh_braking,low,0.522,0,0.235,harsh braking detected. Combined score 0.235.,Motion: harsh_braking | Audio: normal
+FLAG0779,TRIP125,DRV037,06-02-2024 09:17,1508,harsh_braking,low,0.362,0,0.163,harsh braking detected. Combined score 0.163.,Motion: harsh_braking | Audio: normal
+FLAG0780,TRIP125,DRV037,06-02-2024 09:20,1716,harsh_braking,low,0.837,0,0.377,harsh braking detected. Combined score 0.377.,Motion: harsh_braking | Audio: normal
+FLAG0781,TRIP125,DRV037,06-02-2024 09:25,2028,swerve,low,0.291,0,0.131,swerve detected. Combined score 0.131.,Motion: swerve | Audio: normal
+FLAG0782,TRIP127,DRV038,06-02-2024 07:19,912,harsh_accel,low,0.414,0,0.186,harsh accel detected. Combined score 0.186.,Motion: harsh_accel | Audio: normal
+FLAG0783,TRIP128,DRV038,06-02-2024 07:47,259,harsh_accel,low,0.536,0,0.241,harsh accel detected. Combined score 0.241.,Motion: harsh_accel | Audio: normal
+FLAG0784,TRIP128,DRV038,06-02-2024 07:52,555,harsh_braking,medium,0.937,0,0.422,harsh braking detected. Combined score 0.422.,Motion: harsh_braking | Audio: normal
+FLAG0785,TRIP128,DRV038,06-02-2024 07:58,925,harsh_accel,low,0.665,0,0.299,harsh accel detected. Combined score 0.299.,Motion: harsh_accel | Audio: normal
+FLAG0786,TRIP128,DRV038,06-02-2024 08:02,1147,harsh_accel,low,0.613,0,0.276,moderate brake detected. Combined score 0.276.,Motion: harsh_accel | Audio: normal
+FLAG0787,TRIP128,DRV038,06-02-2024 08:08,1554,swerve,low,0.661,0,0.297,moderate brake detected. Combined score 0.297.,Motion: swerve | Audio: normal
+FLAG0788,TRIP128,DRV038,06-02-2024 08:17,2072,moderate_brake,low,0.131,0,0.059,moderate brake detected. Combined score 0.059.,Motion: moderate_brake | Audio: normal
+FLAG0789,TRIP128,DRV038,06-02-2024 08:20,2220,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0790,TRIP128,DRV038,06-02-2024 08:22,2368,swerve,low,0.652,0,0.293,swerve detected. Combined score 0.293.,Motion: swerve | Audio: normal
+FLAG0791,TRIP129,DRV038,06-02-2024 08:59,30,swerve,low,0.62,0,0.279,swerve detected. Combined score 0.279.,Motion: swerve | Audio: normal
+FLAG0792,TRIP129,DRV038,06-02-2024 09:10,690,harsh_accel,low,0.541,0,0.243,harsh accel detected. Combined score 0.243.,Motion: harsh_accel | Audio: normal
+FLAG0793,TRIP129,DRV038,06-02-2024 09:18,1140,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0794,TRIP129,DRV038,06-02-2024 09:27,1680,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0795,TRIP129,DRV038,06-02-2024 09:39,2400,moderate_brake,low,0.176,0,0.079,moderate brake detected. Combined score 0.079.,Motion: moderate_brake | Audio: normal
+FLAG0796,TRIP129,DRV038,06-02-2024 09:42,2580,harsh_braking,low,0.826,0,0.372,harsh braking detected. Combined score 0.372.,Motion: harsh_braking | Audio: normal
+FLAG0797,TRIP129,DRV038,06-02-2024 09:45,2760,swerve,low,0.476,0,0.214,swerve detected. Combined score 0.214.,Motion: swerve | Audio: normal
+FLAG0798,TRIP130,DRV038,06-02-2024 10:34,135,swerve,low,0.204,0,0.092,swerve detected. Combined score 0.092.,Motion: swerve | Audio: normal
+FLAG0799,TRIP130,DRV038,06-02-2024 10:38,405,swerve,low,0.646,0,0.291,swerve detected. Combined score 0.291.,Motion: swerve | Audio: normal
+FLAG0800,TRIP130,DRV038,06-02-2024 10:41,594,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0801,TRIP130,DRV038,06-02-2024 10:46,864,swerve,low,0.506,0,0.228,swerve detected. Combined score 0.228.,Motion: swerve | Audio: normal
+FLAG0802,TRIP130,DRV038,06-02-2024 10:53,1296,harsh_accel,low,0.476,0,0.214,pothole detected. Combined score 0.214.,Motion: harsh_accel | Audio: normal
+FLAG0803,TRIP130,DRV038,06-02-2024 10:56,1485,swerve,low,0.63,0,0.284,moderate brake detected. Combined score 0.284.,Motion: swerve | Audio: normal
+FLAG0804,TRIP130,DRV038,06-02-2024 11:01,1755,harsh_accel,low,0.561,0,0.252,swerve detected. Combined score 0.252.,Motion: harsh_accel | Audio: normal
+FLAG0805,TRIP130,DRV038,06-02-2024 11:07,2106,swerve,low,0.226,0,0.102,swerve detected. Combined score 0.102.,Motion: swerve | Audio: normal
+FLAG0806,TRIP130,DRV038,06-02-2024 11:11,2376,swerve,low,0.548,0,0.247,swerve detected. Combined score 0.247.,Motion: swerve | Audio: normal
+FLAG0807,TRIP131,DRV038,06-02-2024 11:37,78,swerve,low,0.637,0,0.287,swerve detected. Combined score 0.287.,Motion: swerve | Audio: normal
+FLAG0808,TRIP131,DRV038,06-02-2024 11:41,351,moderate_brake,low,0.198,0,0.089,moderate brake detected. Combined score 0.089.,Motion: moderate_brake | Audio: normal
+FLAG0809,TRIP131,DRV038,06-02-2024 11:44,507,moderate_brake,low,0.216,0,0.097,moderate brake detected. Combined score 0.097.,Motion: moderate_brake | Audio: normal
+FLAG0810,TRIP131,DRV038,06-02-2024 11:50,897,harsh_accel,low,0.402,0,0.181,pothole detected. Combined score 0.181.,Motion: harsh_accel | Audio: normal
+FLAG0811,TRIP131,DRV038,06-02-2024 12:02,1599,swerve,low,0.565,0,0.254,swerve detected. Combined score 0.254.,Motion: swerve | Audio: normal
+FLAG0812,TRIP132,DRV039,06-02-2024 12:17,54,swerve,low,0.761,0,0.342,swerve detected. Combined score 0.342.,Motion: swerve | Audio: normal
+FLAG0813,TRIP132,DRV039,06-02-2024 12:21,270,harsh_accel,low,0.362,0,0.163,harsh accel detected. Combined score 0.163.,Motion: harsh_accel | Audio: normal
+FLAG0814,TRIP132,DRV039,06-02-2024 12:23,414,harsh_braking,low,0.815,0,0.367,harsh braking detected. Combined score 0.367.,Motion: harsh_braking | Audio: normal
+FLAG0815,TRIP132,DRV039,06-02-2024 12:27,612,harsh_braking,medium,0.905,0,0.407,harsh accel detected. Combined score 0.407.,Motion: harsh_braking | Audio: normal
+FLAG0816,TRIP132,DRV039,06-02-2024 12:33,1008,harsh_accel,low,0.474,0,0.213,moderate brake detected. Combined score 0.213.,Motion: harsh_accel | Audio: normal
+FLAG0817,TRIP132,DRV039,06-02-2024 12:43,1602,swerve,low,0.384,0,0.173,swerve detected. Combined score 0.173.,Motion: swerve | Audio: normal
+FLAG0818,TRIP132,DRV039,06-02-2024 12:53,2160,harsh_braking,low,0.398,0,0.179,harsh braking detected. Combined score 0.179.,Motion: harsh_braking | Audio: normal
+FLAG0819,TRIP132,DRV039,06-02-2024 12:59,2538,harsh_accel,low,0.489,0,0.22,harsh accel detected. Combined score 0.22.,Motion: harsh_accel | Audio: normal
+FLAG0820,TRIP132,DRV039,06-02-2024 13:06,2988,swerve,low,0.173,0,0.078,swerve detected. Combined score 0.078.,Motion: swerve | Audio: normal
+FLAG0821,TRIP132,DRV039,06-02-2024 13:12,3330,swerve,low,0.704,0,0.317,swerve detected. Combined score 0.317.,Motion: swerve | Audio: normal
+FLAG0822,TRIP133,DRV039,06-02-2024 13:43,25,moderate_brake,low,0.256,0,0.115,moderate brake detected. Combined score 0.115.,Motion: moderate_brake | Audio: normal
+FLAG0823,TRIP133,DRV039,06-02-2024 13:52,575,moderate_brake,low,0.215,0,0.097,moderate brake detected. Combined score 0.097.,Motion: moderate_brake | Audio: normal
+FLAG0824,TRIP133,DRV039,06-02-2024 13:57,850,moderate_brake,low,0.332,0,0.149,moderate brake detected. Combined score 0.149.,Motion: moderate_brake | Audio: normal
+FLAG0825,TRIP133,DRV039,06-02-2024 14:03,1250,conflict_moment,high,0.85,0.95,1,"harsh braking detected. elevated cabin audio (89 dB, 55s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0826,TRIP133,DRV039,06-02-2024 14:12,1775,harsh_accel,low,0.579,0,0.261,harsh accel detected. Combined score 0.261.,Motion: harsh_accel | Audio: normal
+FLAG0827,TRIP133,DRV039,06-02-2024 14:14,1900,swerve,low,0.181,0,0.081,swerve detected. Combined score 0.081.,Motion: swerve | Audio: normal
+FLAG0828,TRIP133,DRV039,06-02-2024 14:17,2050,harsh_braking,low,0.607,0,0.273,harsh braking detected. Combined score 0.273.,Motion: harsh_braking | Audio: normal
+FLAG0829,TRIP133,DRV039,06-02-2024 14:23,2425,swerve,low,0.734,0,0.33,swerve detected. Combined score 0.33.,Motion: swerve | Audio: normal
+FLAG0830,TRIP134,DRV039,06-02-2024 14:55,780,harsh_braking,low,0.604,0,0.272,harsh braking detected. Combined score 0.272.,Motion: harsh_braking | Audio: normal
+FLAG0831,TRIP134,DRV039,06-02-2024 15:14,1920,swerve,low,0.496,0,0.223,swerve detected. Combined score 0.223.,Motion: swerve | Audio: normal
+FLAG0832,TRIP134,DRV039,06-02-2024 15:19,2220,harsh_accel,low,0.675,0,0.304,harsh accel detected. Combined score 0.304.,Motion: harsh_accel | Audio: normal
+FLAG0833,TRIP134,DRV039,06-02-2024 15:24,2520,harsh_braking,low,0.372,0,0.167,moderate brake detected. Combined score 0.167.,Motion: harsh_braking | Audio: normal
+FLAG0834,TRIP134,DRV039,06-02-2024 15:30,2910,harsh_accel,low,0.635,0,0.286,harsh accel detected. Combined score 0.286.,Motion: harsh_accel | Audio: normal
+FLAG0835,TRIP135,DRV039,06-02-2024 16:11,629,harsh_braking,low,0.501,0,0.225,harsh braking detected. Combined score 0.225.,Motion: harsh_braking | Audio: normal
+FLAG0836,TRIP135,DRV039,06-02-2024 16:17,986,harsh_braking,low,0.376,0,0.169,harsh braking detected. Combined score 0.169.,Motion: harsh_braking | Audio: normal
+FLAG0837,TRIP135,DRV039,06-02-2024 16:20,1156,harsh_braking,low,0.436,0,0.196,harsh braking detected. Combined score 0.196.,Motion: harsh_braking | Audio: normal
+FLAG0838,TRIP135,DRV039,06-02-2024 16:32,1904,harsh_accel,low,0.443,0,0.199,harsh accel detected. Combined score 0.199.,Motion: harsh_accel | Audio: normal
+FLAG0839,TRIP135,DRV039,06-02-2024 16:41,2431,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0840,TRIP135,DRV039,06-02-2024 16:46,2737,harsh_braking,low,0.829,0,0.373,harsh braking detected. Combined score 0.373.,Motion: harsh_braking | Audio: normal
+FLAG0841,TRIP135,DRV039,06-02-2024 16:49,2924,harsh_accel,low,0.55,0,0.248,harsh accel detected. Combined score 0.248.,Motion: harsh_accel | Audio: normal
+FLAG0842,TRIP135,DRV039,06-02-2024 16:52,3077,harsh_braking,low,0.496,0,0.223,harsh braking detected. Combined score 0.223.,Motion: harsh_braking | Audio: normal
+FLAG0843,TRIP135,DRV039,06-02-2024 16:58,3451,swerve,low,0.383,0,0.172,swerve detected. Combined score 0.172.,Motion: swerve | Audio: normal
+FLAG0844,TRIP136,DRV039,06-02-2024 17:28,592,harsh_accel,low,0.389,0,0.175,harsh accel detected. Combined score 0.175.,Motion: harsh_accel | Audio: normal
+FLAG0845,TRIP137,DRV039,06-02-2024 18:07,96,swerve,low,0.651,0,0.293,swerve detected. Combined score 0.293.,Motion: swerve | Audio: normal
+FLAG0846,TRIP137,DRV039,06-02-2024 18:21,928,moderate_brake,low,0.233,0,0.105,moderate brake detected. Combined score 0.105.,Motion: moderate_brake | Audio: normal
+FLAG0847,TRIP137,DRV039,06-02-2024 18:24,1088,swerve,low,0.568,0,0.256,swerve detected. Combined score 0.256.,Motion: swerve | Audio: normal
+FLAG0848,TRIP137,DRV039,06-02-2024 18:28,1360,conflict_moment,high,0.495,0.95,0.894,"harsh braking detected. elevated cabin audio (92 dB, 67s sustained). Combined score 0.894.",Motion: conflict_moment | Audio: conflict
+FLAG0849,TRIP137,DRV039,06-02-2024 18:42,2208,harsh_braking,low,0.459,0,0.207,harsh braking detected. Combined score 0.207.,Motion: harsh_braking | Audio: normal
+FLAG0850,TRIP137,DRV039,06-02-2024 18:48,2560,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0851,TRIP138,DRV040,06-02-2024 17:27,418,harsh_accel,low,0.403,0,0.181,harsh accel detected. Combined score 0.181.,Motion: harsh_accel | Audio: normal
+FLAG0852,TRIP138,DRV040,06-02-2024 17:30,570,harsh_accel,low,0.599,0,0.27,harsh accel detected. Combined score 0.27.,Motion: harsh_accel | Audio: normal
+FLAG0853,TRIP138,DRV040,06-02-2024 17:33,760,harsh_braking,low,0.787,0,0.354,harsh braking detected. Combined score 0.354.,Motion: harsh_braking | Audio: normal
+FLAG0854,TRIP138,DRV040,06-02-2024 17:40,1140,swerve,low,0.611,0,0.275,swerve detected. Combined score 0.275.,Motion: swerve | Audio: normal
+FLAG0855,TRIP139,DRV040,06-02-2024 18:15,0,swerve,low,0.241,0,0.108,swerve detected. Combined score 0.108.,Motion: swerve | Audio: normal
+FLAG0856,TRIP139,DRV040,06-02-2024 18:17,140,swerve,low,0.312,0,0.14,swerve detected. Combined score 0.14.,Motion: swerve | Audio: normal
+FLAG0857,TRIP139,DRV040,06-02-2024 18:20,315,moderate_brake,low,0.33,0,0.149,moderate brake detected. Combined score 0.149.,Motion: moderate_brake | Audio: normal
+FLAG0858,TRIP139,DRV040,06-02-2024 18:24,595,harsh_accel,low,0.564,0,0.254,moderate brake detected. Combined score 0.254.,Motion: harsh_accel | Audio: normal
+FLAG0859,TRIP139,DRV040,06-02-2024 18:31,1015,harsh_accel,low,0.39,0,0.176,swerve detected. Combined score 0.176.,Motion: harsh_accel | Audio: normal
+FLAG0860,TRIP140,DRV040,06-02-2024 19:15,408,harsh_accel,low,0.288,0,0.13,harsh accel detected. Combined score 0.13.,Motion: harsh_accel | Audio: normal
+FLAG0861,TRIP140,DRV040,06-02-2024 19:18,578,harsh_accel,low,0.505,0,0.227,harsh accel detected. Combined score 0.227.,Motion: harsh_accel | Audio: normal
+FLAG0862,TRIP140,DRV040,06-02-2024 19:21,748,swerve,low,0.532,0,0.239,swerve detected. Combined score 0.239.,Motion: swerve | Audio: normal
+FLAG0863,TRIP140,DRV040,06-02-2024 19:24,952,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0864,TRIP140,DRV040,06-02-2024 19:29,1224,harsh_braking,low,0.812,0,0.365,moderate brake detected. Combined score 0.365.,Motion: harsh_braking | Audio: normal
+FLAG0865,TRIP140,DRV040,06-02-2024 19:35,1564,moderate_brake,low,0.317,0,0.143,moderate brake detected. Combined score 0.143.,Motion: moderate_brake | Audio: normal
+FLAG0866,TRIP140,DRV040,06-02-2024 19:37,1700,harsh_braking,low,0.807,0,0.363,harsh braking detected. Combined score 0.363.,Motion: harsh_braking | Audio: normal
+FLAG0867,TRIP140,DRV040,06-02-2024 19:40,1870,moderate_brake,low,0.327,0,0.147,swerve detected. Combined score 0.147.,Motion: moderate_brake | Audio: normal
+FLAG0868,TRIP141,DRV040,06-02-2024 20:19,74,harsh_braking,low,0.829,0,0.373,pothole detected. Combined score 0.373.,Motion: harsh_braking | Audio: normal
+FLAG0869,TRIP141,DRV040,06-02-2024 20:29,666,moderate_brake,low,0.137,0,0.062,moderate brake detected. Combined score 0.062.,Motion: moderate_brake | Audio: normal
+FLAG0870,TRIP141,DRV040,06-02-2024 20:34,962,swerve,low,0.628,0,0.283,moderate brake detected. Combined score 0.283.,Motion: swerve | Audio: normal
+FLAG0871,TRIP141,DRV040,06-02-2024 20:40,1369,moderate_brake,low,0.173,0,0.078,moderate brake detected. Combined score 0.078.,Motion: moderate_brake | Audio: normal
+FLAG0872,TRIP141,DRV040,06-02-2024 20:43,1517,moderate_brake,low,0.313,0,0.141,moderate brake detected. Combined score 0.141.,Motion: moderate_brake | Audio: normal
+FLAG0873,TRIP141,DRV040,06-02-2024 20:47,1776,swerve,low,0.434,0,0.195,swerve detected. Combined score 0.195.,Motion: swerve | Audio: normal
+FLAG0874,TRIP141,DRV040,06-02-2024 20:51,1998,moderate_brake,low,0.323,0,0.145,moderate brake detected. Combined score 0.145.,Motion: moderate_brake | Audio: normal
+FLAG0875,TRIP141,DRV040,06-02-2024 20:59,2479,harsh_accel,low,0.673,0,0.303,harsh accel detected. Combined score 0.303.,Motion: harsh_accel | Audio: normal
+FLAG0876,TRIP142,DRV040,06-02-2024 21:44,60,harsh_accel,low,0.546,0,0.246,harsh accel detected. Combined score 0.246.,Motion: harsh_accel | Audio: normal
+FLAG0877,TRIP142,DRV040,06-02-2024 21:46,220,harsh_accel,low,0.631,0,0.284,harsh accel detected. Combined score 0.284.,Motion: harsh_accel | Audio: normal
+FLAG0878,TRIP142,DRV040,06-02-2024 21:57,880,harsh_braking,low,0.437,0,0.197,moderate brake detected. Combined score 0.197.,Motion: harsh_braking | Audio: normal
+FLAG0879,TRIP142,DRV040,06-02-2024 22:05,1340,harsh_braking,medium,0.917,0,0.413,harsh braking detected. Combined score 0.413.,Motion: harsh_braking | Audio: normal
+FLAG0880,TRIP142,DRV040,06-02-2024 22:08,1540,moderate_brake,low,0.18,0,0.081,moderate brake detected. Combined score 0.081.,Motion: moderate_brake | Audio: normal
+FLAG0881,TRIP142,DRV040,06-02-2024 22:13,1820,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0882,TRIP142,DRV040,06-02-2024 22:24,2480,moderate_brake,low,0.112,0,0.05,moderate brake detected. Combined score 0.05.,Motion: moderate_brake | Audio: normal
+FLAG0883,TRIP142,DRV040,06-02-2024 22:27,2640,harsh_accel,low,0.665,0,0.299,harsh accel detected. Combined score 0.299.,Motion: harsh_accel | Audio: normal
+FLAG0884,TRIP143,DRV041,06-02-2024 12:24,105,harsh_accel,low,0.403,0,0.181,harsh accel detected. Combined score 0.181.,Motion: harsh_accel | Audio: normal
+FLAG0885,TRIP143,DRV041,06-02-2024 12:33,645,swerve,low,0.44,0,0.198,swerve detected. Combined score 0.198.,Motion: swerve | Audio: normal
+FLAG0886,TRIP143,DRV041,06-02-2024 12:43,1200,harsh_accel,low,0.679,0,0.306,harsh accel detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG0887,TRIP143,DRV041,06-02-2024 12:46,1410,harsh_accel,low,0.508,0,0.229,harsh accel detected. Combined score 0.229.,Motion: harsh_accel | Audio: normal
+FLAG0888,TRIP143,DRV041,06-02-2024 12:49,1605,moderate_brake,low,0.292,0,0.131,moderate brake detected. Combined score 0.131.,Motion: moderate_brake | Audio: normal
+FLAG0889,TRIP144,DRV041,06-02-2024 13:09,261,harsh_braking,low,0.345,0,0.155,harsh braking detected. Combined score 0.155.,Motion: harsh_braking | Audio: normal
+FLAG0890,TRIP144,DRV041,06-02-2024 13:14,551,harsh_accel,low,0.614,0,0.276,swerve detected. Combined score 0.276.,Motion: harsh_accel | Audio: normal
+FLAG0891,TRIP144,DRV041,06-02-2024 13:19,841,moderate_brake,low,0.109,0,0.049,moderate brake detected. Combined score 0.049.,Motion: moderate_brake | Audio: normal
+FLAG0892,TRIP144,DRV041,06-02-2024 13:29,1440,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (80 dB, 44s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0893,TRIP145,DRV041,06-02-2024 13:57,203,harsh_accel,low,0.382,0,0.172,harsh accel detected. Combined score 0.172.,Motion: harsh_accel | Audio: normal
+FLAG0894,TRIP145,DRV041,06-02-2024 14:01,435,harsh_accel,low,0.66,0,0.297,harsh accel detected. Combined score 0.297.,Motion: harsh_accel | Audio: normal
+FLAG0895,TRIP145,DRV041,06-02-2024 14:04,645,conflict_moment,medium,0,0.833,0.458,"elevated cabin audio (93 dB, 61s sustained). Combined score 0.458.",Motion: conflict_moment | Audio: conflict
+FLAG0896,TRIP145,DRV041,06-02-2024 14:22,1682,harsh_braking,medium,0.858,0,0.386,harsh braking detected. Combined score 0.386.,Motion: harsh_braking | Audio: normal
+FLAG0897,TRIP146,DRV041,06-02-2024 15:00,160,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0898,TRIP146,DRV041,06-02-2024 15:04,400,harsh_accel,low,0.571,0,0.257,harsh accel detected. Combined score 0.257.,Motion: harsh_accel | Audio: normal
+FLAG0899,TRIP146,DRV041,06-02-2024 15:10,720,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG0900,TRIP146,DRV041,06-02-2024 15:16,1080,harsh_braking,medium,0.902,0,0.406,moderate brake detected. Combined score 0.406.,Motion: harsh_braking | Audio: normal
+FLAG0901,TRIP146,DRV041,06-02-2024 15:25,1640,swerve,low,0.584,0,0.263,swerve detected. Combined score 0.263.,Motion: swerve | Audio: normal
+FLAG0902,TRIP146,DRV041,06-02-2024 15:29,1880,harsh_accel,low,0.339,0,0.153,harsh accel detected. Combined score 0.153.,Motion: harsh_accel | Audio: normal
+FLAG0903,TRIP146,DRV041,06-02-2024 15:34,2160,harsh_accel,low,0.506,0,0.228,harsh accel detected. Combined score 0.228.,Motion: harsh_accel | Audio: normal
+FLAG0904,TRIP146,DRV041,06-02-2024 15:36,2320,harsh_braking,medium,0.861,0,0.387,swerve detected. Combined score 0.387.,Motion: harsh_braking | Audio: normal
+FLAG0905,TRIP146,DRV041,06-02-2024 15:41,2600,harsh_braking,medium,0.908,0,0.409,moderate brake detected. Combined score 0.409.,Motion: harsh_braking | Audio: normal
+FLAG0906,TRIP146,DRV041,06-02-2024 15:48,3000,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0907,TRIP146,DRV041,06-02-2024 15:52,3240,harsh_accel,low,0.408,0,0.184,harsh accel detected. Combined score 0.184.,Motion: harsh_accel | Audio: normal
+FLAG0908,TRIP146,DRV041,06-02-2024 15:55,3440,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0909,TRIP147,DRV041,06-02-2024 16:36,528,moderate_brake,low,0.256,0,0.115,moderate brake detected. Combined score 0.115.,Motion: moderate_brake | Audio: normal
+FLAG0910,TRIP147,DRV041,06-02-2024 16:40,744,conflict_moment,high,0.95,0.95,1,"harsh braking detected. elevated cabin audio (90 dB, 38s sustained). Combined score 1.0.",Motion: conflict_moment | Audio: conflict
+FLAG0911,TRIP147,DRV041,06-02-2024 16:53,1512,moderate_brake,low,0.137,0,0.062,moderate brake detected. Combined score 0.062.,Motion: moderate_brake | Audio: normal
+FLAG0912,TRIP147,DRV041,06-02-2024 16:55,1656,harsh_accel,low,0.687,0,0.309,harsh accel detected. Combined score 0.309.,Motion: harsh_accel | Audio: normal
+FLAG0913,TRIP147,DRV041,06-02-2024 16:59,1872,harsh_braking,low,0.828,0,0.373,harsh braking detected. Combined score 0.373.,Motion: harsh_braking | Audio: normal
+FLAG0914,TRIP147,DRV041,06-02-2024 17:07,2352,swerve,low,0.566,0,0.255,swerve detected. Combined score 0.255.,Motion: swerve | Audio: normal
+FLAG0915,TRIP147,DRV041,06-02-2024 17:18,3000,harsh_accel,low,0.372,0,0.167,harsh accel detected. Combined score 0.167.,Motion: harsh_accel | Audio: normal
+FLAG0916,TRIP148,DRV042,06-02-2024 17:05,0,swerve,low,0.176,0,0.079,swerve detected. Combined score 0.079.,Motion: swerve | Audio: normal
+FLAG0917,TRIP148,DRV042,06-02-2024 17:08,210,harsh_accel,low,0.679,0,0.306,moderate brake detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG0918,TRIP148,DRV042,06-02-2024 17:19,840,harsh_braking,medium,0.906,0,0.408,harsh braking detected. Combined score 0.408.,Motion: harsh_braking | Audio: normal
+FLAG0919,TRIP148,DRV042,06-02-2024 17:30,1500,swerve,low,0.638,0,0.287,moderate brake detected. Combined score 0.287.,Motion: swerve | Audio: normal
+FLAG0920,TRIP148,DRV042,06-02-2024 17:36,1890,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0921,TRIP148,DRV042,06-02-2024 17:41,2160,swerve,low,0.214,0,0.096,swerve detected. Combined score 0.096.,Motion: swerve | Audio: normal
+FLAG0922,TRIP148,DRV042,06-02-2024 17:47,2520,harsh_braking,low,0.586,0,0.264,harsh braking detected. Combined score 0.264.,Motion: harsh_braking | Audio: normal
+FLAG0923,TRIP148,DRV042,06-02-2024 17:50,2700,harsh_braking,medium,0.894,0,0.402,harsh braking detected. Combined score 0.402.,Motion: harsh_braking | Audio: normal
+FLAG0924,TRIP148,DRV042,06-02-2024 17:53,2880,harsh_accel,low,0.582,0,0.262,harsh accel detected. Combined score 0.262.,Motion: harsh_accel | Audio: normal
+FLAG0925,TRIP148,DRV042,06-02-2024 18:01,3360,swerve,low,0.525,0,0.236,swerve detected. Combined score 0.236.,Motion: swerve | Audio: normal
+FLAG0926,TRIP148,DRV042,06-02-2024 18:04,3570,swerve,low,0.729,0,0.328,swerve detected. Combined score 0.328.,Motion: swerve | Audio: normal
+FLAG0927,TRIP149,DRV042,06-02-2024 18:41,82,moderate_brake,low,0.269,0,0.121,moderate brake detected. Combined score 0.121.,Motion: moderate_brake | Audio: normal
+FLAG0928,TRIP149,DRV042,06-02-2024 18:46,369,harsh_braking,medium,0.95,0,0.427,harsh accel detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0929,TRIP149,DRV042,06-02-2024 18:50,615,swerve,low,0.553,0,0.249,moderate brake detected. Combined score 0.249.,Motion: swerve | Audio: normal
+FLAG0930,TRIP149,DRV042,06-02-2024 18:59,1148,moderate_brake,low,0.136,0,0.061,moderate brake detected. Combined score 0.061.,Motion: moderate_brake | Audio: normal
+FLAG0931,TRIP149,DRV042,06-02-2024 19:04,1476,swerve,low,0.321,0,0.144,swerve detected. Combined score 0.144.,Motion: swerve | Audio: normal
+FLAG0932,TRIP149,DRV042,06-02-2024 19:06,1599,moderate_brake,low,0.193,0,0.087,moderate brake detected. Combined score 0.087.,Motion: moderate_brake | Audio: normal
+FLAG0933,TRIP149,DRV042,06-02-2024 19:10,1845,conflict_moment,high,0,0.933,0.513,"elevated cabin audio (94 dB, 74s sustained). Combined score 0.513.",Motion: conflict_moment | Audio: conflict
+FLAG0934,TRIP149,DRV042,06-02-2024 19:14,2091,moderate_brake,low,0.221,0,0.099,moderate brake detected. Combined score 0.099.,Motion: moderate_brake | Audio: normal
+FLAG0935,TRIP149,DRV042,06-02-2024 19:21,2501,swerve,low,0.747,0,0.336,swerve detected. Combined score 0.336.,Motion: swerve | Audio: normal
+FLAG0936,TRIP150,DRV042,06-02-2024 19:34,0,swerve,low,0.623,0,0.28,pothole detected. Combined score 0.28.,Motion: swerve | Audio: normal
+FLAG0937,TRIP150,DRV042,06-02-2024 19:39,330,harsh_braking,low,0.646,0,0.291,harsh braking detected. Combined score 0.291.,Motion: harsh_braking | Audio: normal
+FLAG0938,TRIP150,DRV042,06-02-2024 19:43,594,harsh_braking,low,0.801,0,0.36,pothole detected. Combined score 0.36.,Motion: harsh_braking | Audio: normal
+FLAG0939,TRIP150,DRV042,06-02-2024 19:50,990,moderate_brake,low,0.274,0,0.123,moderate brake detected. Combined score 0.123.,Motion: moderate_brake | Audio: normal
+FLAG0940,TRIP150,DRV042,06-02-2024 19:56,1320,harsh_braking,low,0.683,0,0.307,harsh braking detected. Combined score 0.307.,Motion: harsh_braking | Audio: normal
+FLAG0941,TRIP150,DRV042,06-02-2024 20:00,1562,harsh_accel,low,0.494,0,0.222,moderate brake detected. Combined score 0.222.,Motion: harsh_accel | Audio: normal
+FLAG0942,TRIP150,DRV042,06-02-2024 20:05,1892,harsh_accel,low,0.695,0,0.313,harsh accel detected. Combined score 0.313.,Motion: harsh_accel | Audio: normal
+FLAG0943,TRIP150,DRV042,06-02-2024 20:10,2178,harsh_accel,low,0.31,0,0.14,harsh accel detected. Combined score 0.14.,Motion: harsh_accel | Audio: normal
+FLAG0944,TRIP150,DRV042,06-02-2024 20:12,2332,harsh_accel,low,0.37,0,0.167,harsh accel detected. Combined score 0.167.,Motion: harsh_accel | Audio: normal
+FLAG0945,TRIP150,DRV042,06-02-2024 20:16,2574,harsh_braking,low,0.769,0,0.346,harsh braking detected. Combined score 0.346.,Motion: harsh_braking | Audio: normal
+FLAG0946,TRIP150,DRV042,06-02-2024 20:19,2750,moderate_brake,low,0.196,0,0.088,moderate brake detected. Combined score 0.088.,Motion: moderate_brake | Audio: normal
+FLAG0947,TRIP150,DRV042,06-02-2024 20:22,2882,harsh_accel,low,0.632,0,0.284,swerve detected. Combined score 0.284.,Motion: harsh_accel | Audio: normal
+FLAG0948,TRIP150,DRV042,06-02-2024 20:30,3388,swerve,low,0.7,0,0.315,harsh accel detected. Combined score 0.315.,Motion: swerve | Audio: normal
+FLAG0949,TRIP151,DRV043,06-02-2024 12:22,203,harsh_braking,low,0.409,0,0.184,harsh braking detected. Combined score 0.184.,Motion: harsh_braking | Audio: normal
+FLAG0950,TRIP151,DRV043,06-02-2024 12:25,377,harsh_accel,low,0.68,0,0.306,harsh accel detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG0951,TRIP151,DRV043,06-02-2024 12:30,696,moderate_brake,low,0.182,0,0.082,moderate brake detected. Combined score 0.082.,Motion: moderate_brake | Audio: normal
+FLAG0952,TRIP151,DRV043,06-02-2024 12:34,928,harsh_accel,low,0.646,0,0.291,harsh braking detected. Combined score 0.291.,Motion: harsh_accel | Audio: normal
+FLAG0953,TRIP151,DRV043,06-02-2024 12:39,1218,harsh_braking,low,0.777,0,0.35,harsh braking detected. Combined score 0.35.,Motion: harsh_braking | Audio: normal
+FLAG0954,TRIP151,DRV043,06-02-2024 12:43,1479,harsh_braking,low,0.715,0,0.322,harsh braking detected. Combined score 0.322.,Motion: harsh_braking | Audio: normal
+FLAG0955,TRIP151,DRV043,06-02-2024 12:48,1798,harsh_braking,medium,0.95,0,0.427,harsh accel detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG0956,TRIP151,DRV043,06-02-2024 12:59,2407,swerve,low,0.692,0,0.311,moderate brake detected. Combined score 0.311.,Motion: swerve | Audio: normal
+FLAG0957,TRIP151,DRV043,06-02-2024 13:10,3103,swerve,low,0.358,0,0.161,swerve detected. Combined score 0.161.,Motion: swerve | Audio: normal
+FLAG0958,TRIP152,DRV043,06-02-2024 13:36,280,harsh_accel,low,0.44,0,0.198,harsh accel detected. Combined score 0.198.,Motion: harsh_accel | Audio: normal
+FLAG0959,TRIP152,DRV043,06-02-2024 13:50,1120,harsh_braking,low,0.521,0,0.234,harsh braking detected. Combined score 0.234.,Motion: harsh_braking | Audio: normal
+FLAG0960,TRIP152,DRV043,06-02-2024 13:57,1505,harsh_braking,low,0.476,0,0.214,harsh braking detected. Combined score 0.214.,Motion: harsh_braking | Audio: normal
+FLAG0961,TRIP152,DRV043,06-02-2024 14:07,2135,harsh_braking,low,0.608,0,0.274,harsh braking detected. Combined score 0.274.,Motion: harsh_braking | Audio: normal
+FLAG0962,TRIP152,DRV043,06-02-2024 14:09,2275,harsh_braking,low,0.404,0,0.182,harsh braking detected. Combined score 0.182.,Motion: harsh_braking | Audio: normal
+FLAG0963,TRIP152,DRV043,06-02-2024 14:12,2450,swerve,low,0.178,0,0.08,swerve detected. Combined score 0.08.,Motion: swerve | Audio: normal
+FLAG0964,TRIP152,DRV043,06-02-2024 14:17,2730,harsh_accel,low,0.546,0,0.246,harsh accel detected. Combined score 0.246.,Motion: harsh_accel | Audio: normal
+FLAG0965,TRIP153,DRV043,06-02-2024 14:42,76,harsh_accel,low,0.368,0,0.166,moderate brake detected. Combined score 0.166.,Motion: harsh_accel | Audio: normal
+FLAG0966,TRIP153,DRV043,06-02-2024 14:46,342,harsh_braking,low,0.582,0,0.262,pothole detected. Combined score 0.262.,Motion: harsh_braking | Audio: normal
+FLAG0967,TRIP153,DRV043,06-02-2024 14:53,765,conflict_moment,high,0,0.95,0.522,"elevated cabin audio (82 dB, 44s sustained). Combined score 0.522.",Motion: conflict_moment | Audio: conflict
+FLAG0968,TRIP153,DRV043,06-02-2024 15:00,1140,swerve,low,0.346,0,0.156,swerve detected. Combined score 0.156.,Motion: swerve | Audio: normal
+FLAG0969,TRIP153,DRV043,06-02-2024 15:13,1976,swerve,low,0.357,0,0.161,moderate brake detected. Combined score 0.161.,Motion: swerve | Audio: normal
+FLAG0970,TRIP154,DRV043,06-02-2024 15:35,144,moderate_brake,low,0.199,0,0.09,moderate brake detected. Combined score 0.09.,Motion: moderate_brake | Audio: normal
+FLAG0971,TRIP154,DRV043,06-02-2024 15:42,544,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0972,TRIP154,DRV043,06-02-2024 15:47,848,moderate_brake,low,0.331,0,0.149,swerve detected. Combined score 0.149.,Motion: moderate_brake | Audio: normal
+FLAG0973,TRIP154,DRV043,06-02-2024 15:51,1136,harsh_braking,low,0.552,0,0.248,harsh braking detected. Combined score 0.248.,Motion: harsh_braking | Audio: normal
+FLAG0974,TRIP154,DRV043,06-02-2024 15:55,1376,harsh_accel,low,0.637,0,0.287,harsh accel detected. Combined score 0.287.,Motion: harsh_accel | Audio: normal
+FLAG0975,TRIP154,DRV043,06-02-2024 15:59,1568,swerve,low,0.763,0,0.343,swerve detected. Combined score 0.343.,Motion: swerve | Audio: normal
+FLAG0976,TRIP155,DRV043,06-02-2024 16:26,242,harsh_accel,low,0.5,0,0.225,harsh accel detected. Combined score 0.225.,Motion: harsh_accel | Audio: normal
+FLAG0977,TRIP155,DRV043,06-02-2024 16:45,1386,harsh_braking,low,0.737,0,0.332,harsh braking detected. Combined score 0.332.,Motion: harsh_braking | Audio: normal
+FLAG0978,TRIP156,DRV043,06-02-2024 17:11,180,swerve,low,0.325,0,0.146,swerve detected. Combined score 0.146.,Motion: swerve | Audio: normal
+FLAG0979,TRIP156,DRV043,06-02-2024 17:13,324,swerve,low,0.264,0,0.119,swerve detected. Combined score 0.119.,Motion: swerve | Audio: normal
+FLAG0980,TRIP156,DRV043,06-02-2024 17:20,720,swerve,low,0.431,0,0.194,swerve detected. Combined score 0.194.,Motion: swerve | Audio: normal
+FLAG0981,TRIP156,DRV043,06-02-2024 17:38,1800,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG0982,TRIP156,DRV043,06-02-2024 17:45,2232,harsh_accel,low,0.268,0,0.121,swerve detected. Combined score 0.121.,Motion: harsh_accel | Audio: normal
+FLAG0983,TRIP156,DRV043,06-02-2024 17:49,2484,swerve,low,0.476,0,0.214,swerve detected. Combined score 0.214.,Motion: swerve | Audio: normal
+FLAG0984,TRIP157,DRV044,06-02-2024 12:29,901,conflict_moment,high,0.1,0.95,0.568,"pothole detected. elevated cabin audio (97 dB, 52s sustained). Combined score 0.568.",Motion: conflict_moment | Audio: conflict
+FLAG0985,TRIP158,DRV044,06-02-2024 13:15,36,harsh_accel,low,0.54,0,0.243,moderate brake detected. Combined score 0.243.,Motion: harsh_accel | Audio: normal
+FLAG0986,TRIP158,DRV044,06-02-2024 13:25,648,harsh_accel,low,0.564,0,0.254,harsh accel detected. Combined score 0.254.,Motion: harsh_accel | Audio: normal
+FLAG0987,TRIP158,DRV044,06-02-2024 13:34,1188,swerve,low,0.728,0,0.328,swerve detected. Combined score 0.328.,Motion: swerve | Audio: normal
+FLAG0988,TRIP158,DRV044,06-02-2024 13:44,1764,harsh_braking,medium,0.887,0,0.399,harsh braking detected. Combined score 0.399.,Motion: harsh_braking | Audio: normal
+FLAG0989,TRIP158,DRV044,06-02-2024 13:47,1944,moderate_brake,low,0.308,0,0.139,pothole detected. Combined score 0.139.,Motion: moderate_brake | Audio: normal
+FLAG0990,TRIP158,DRV044,06-02-2024 13:52,2232,swerve,low,0.638,0,0.287,swerve detected. Combined score 0.287.,Motion: swerve | Audio: normal
+FLAG0991,TRIP159,DRV044,06-02-2024 14:32,117,harsh_accel,low,0.504,0,0.227,harsh accel detected. Combined score 0.227.,Motion: harsh_accel | Audio: normal
+FLAG0992,TRIP159,DRV044,06-02-2024 14:55,1443,swerve,low,0.314,0,0.141,swerve detected. Combined score 0.141.,Motion: swerve | Audio: normal
+FLAG0993,TRIP159,DRV044,06-02-2024 14:59,1716,harsh_accel,low,0.581,0,0.261,harsh accel detected. Combined score 0.261.,Motion: harsh_accel | Audio: normal
+FLAG0994,TRIP159,DRV044,06-02-2024 15:02,1872,harsh_accel,low,0.284,0,0.128,harsh accel detected. Combined score 0.128.,Motion: harsh_accel | Audio: normal
+FLAG0995,TRIP159,DRV044,06-02-2024 15:07,2184,swerve,low,0.4,0,0.18,moderate brake detected. Combined score 0.18.,Motion: swerve | Audio: normal
+FLAG0996,TRIP160,DRV045,06-02-2024 06:13,92,swerve,low,0.532,0,0.239,swerve detected. Combined score 0.239.,Motion: swerve | Audio: normal
+FLAG0997,TRIP160,DRV045,06-02-2024 06:18,391,harsh_accel,low,0.683,0,0.307,harsh accel detected. Combined score 0.307.,Motion: harsh_accel | Audio: normal
+FLAG0998,TRIP160,DRV045,06-02-2024 06:35,1426,harsh_braking,low,0.805,0,0.362,harsh braking detected. Combined score 0.362.,Motion: harsh_braking | Audio: normal
+FLAG0999,TRIP161,DRV045,06-02-2024 07:31,111,swerve,low,0.25,0,0.113,swerve detected. Combined score 0.113.,Motion: swerve | Audio: normal
+FLAG1000,TRIP161,DRV045,06-02-2024 07:36,407,harsh_accel,low,0.32,0,0.144,harsh accel detected. Combined score 0.144.,Motion: harsh_accel | Audio: normal
+FLAG1001,TRIP161,DRV045,06-02-2024 07:46,999,swerve,low,0.671,0,0.302,harsh braking detected. Combined score 0.302.,Motion: swerve | Audio: normal
+FLAG1002,TRIP161,DRV045,06-02-2024 07:50,1221,harsh_accel,low,0.623,0,0.28,harsh accel detected. Combined score 0.28.,Motion: harsh_accel | Audio: normal
+FLAG1003,TRIP161,DRV045,06-02-2024 07:53,1406,harsh_braking,low,0.66,0,0.297,harsh braking detected. Combined score 0.297.,Motion: harsh_braking | Audio: normal
+FLAG1004,TRIP161,DRV045,06-02-2024 07:58,1702,moderate_brake,low,0.175,0,0.079,moderate brake detected. Combined score 0.079.,Motion: moderate_brake | Audio: normal
+FLAG1005,TRIP161,DRV045,06-02-2024 08:06,2183,swerve,low,0.714,0,0.321,swerve detected. Combined score 0.321.,Motion: swerve | Audio: normal
+FLAG1006,TRIP161,DRV045,06-02-2024 08:13,2590,harsh_braking,low,0.63,0,0.284,moderate brake detected. Combined score 0.284.,Motion: harsh_braking | Audio: normal
+FLAG1007,TRIP161,DRV045,06-02-2024 08:19,2940,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG1008,TRIP162,DRV045,06-02-2024 08:38,116,swerve,low,0.49,0,0.221,swerve detected. Combined score 0.221.,Motion: swerve | Audio: normal
+FLAG1009,TRIP162,DRV045,06-02-2024 08:43,406,moderate_brake,low,0.286,0,0.129,moderate brake detected. Combined score 0.129.,Motion: moderate_brake | Audio: normal
+FLAG1010,TRIP162,DRV045,06-02-2024 08:47,638,harsh_braking,medium,0.935,0,0.421,harsh accel detected. Combined score 0.421.,Motion: harsh_braking | Audio: normal
+FLAG1011,TRIP162,DRV045,06-02-2024 08:54,1073,moderate_brake,low,0.311,0,0.14,moderate brake detected. Combined score 0.14.,Motion: moderate_brake | Audio: normal
+FLAG1012,TRIP162,DRV045,06-02-2024 09:05,1682,swerve,low,0.415,0,0.187,swerve detected. Combined score 0.187.,Motion: swerve | Audio: normal
+FLAG1013,TRIP162,DRV045,06-02-2024 09:10,2030,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG1014,TRIP162,DRV045,06-02-2024 09:16,2397,conflict_moment,medium,0,0.7,0.385,"elevated cabin audio (89 dB, 41s sustained). Combined score 0.385.",Motion: conflict_moment | Audio: conflict
+FLAG1015,TRIP163,DRV045,06-02-2024 10:03,203,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1016,TRIP163,DRV045,06-02-2024 10:07,464,harsh_braking,medium,0.95,0,0.427,moderate brake detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1017,TRIP163,DRV045,06-02-2024 10:13,792,conflict_moment,high,0.596,0.95,0.949,"harsh braking detected. elevated cabin audio (85 dB, 51s sustained). Combined score 0.949.",Motion: conflict_moment | Audio: conflict
+FLAG1018,TRIP163,DRV045,06-02-2024 10:19,1189,harsh_accel,low,0.382,0,0.172,harsh accel detected. Combined score 0.172.,Motion: harsh_accel | Audio: normal
+FLAG1019,TRIP163,DRV045,06-02-2024 10:22,1363,swerve,low,0.642,0,0.289,swerve detected. Combined score 0.289.,Motion: swerve | Audio: normal
+FLAG1020,TRIP163,DRV045,06-02-2024 10:29,1740,harsh_braking,low,0.712,0,0.32,harsh braking detected. Combined score 0.32.,Motion: harsh_braking | Audio: normal
+FLAG1021,TRIP163,DRV045,06-02-2024 10:35,2146,moderate_brake,low,0.202,0,0.091,moderate brake detected. Combined score 0.091.,Motion: moderate_brake | Audio: normal
+FLAG1022,TRIP163,DRV045,06-02-2024 10:43,2581,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1023,TRIP164,DRV046,06-02-2024 06:27,204,moderate_brake,low,0.138,0,0.062,moderate brake detected. Combined score 0.062.,Motion: moderate_brake | Audio: normal
+FLAG1024,TRIP164,DRV046,06-02-2024 06:30,391,harsh_braking,low,0.724,0,0.326,moderate brake detected. Combined score 0.326.,Motion: harsh_braking | Audio: normal
+FLAG1025,TRIP164,DRV046,06-02-2024 06:35,680,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG1026,TRIP164,DRV046,06-02-2024 06:38,867,moderate_brake,low,0.12,0,0.054,moderate brake detected. Combined score 0.054.,Motion: moderate_brake | Audio: normal
+FLAG1027,TRIP164,DRV046,06-02-2024 06:46,1343,harsh_accel,low,0.575,0,0.259,harsh accel detected. Combined score 0.259.,Motion: harsh_accel | Audio: normal
+FLAG1028,TRIP164,DRV046,06-02-2024 06:50,1581,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1029,TRIP165,DRV046,06-02-2024 07:23,32,harsh_accel,low,0.684,0,0.308,swerve detected. Combined score 0.308.,Motion: harsh_accel | Audio: normal
+FLAG1030,TRIP165,DRV046,06-02-2024 07:28,304,swerve,low,0.68,0,0.306,swerve detected. Combined score 0.306.,Motion: swerve | Audio: normal
+FLAG1031,TRIP165,DRV046,06-02-2024 07:32,560,harsh_accel,low,0.695,0,0.313,harsh accel detected. Combined score 0.313.,Motion: harsh_accel | Audio: normal
+FLAG1032,TRIP165,DRV046,06-02-2024 07:45,1344,swerve,low,0.666,0,0.3,swerve detected. Combined score 0.3.,Motion: swerve | Audio: normal
+FLAG1033,TRIP165,DRV046,06-02-2024 07:49,1600,harsh_braking,low,0.73,0,0.329,harsh braking detected. Combined score 0.329.,Motion: harsh_braking | Audio: normal
+FLAG1034,TRIP165,DRV046,06-02-2024 07:52,1792,harsh_accel,low,0.685,0,0.308,harsh accel detected. Combined score 0.308.,Motion: harsh_accel | Audio: normal
+FLAG1035,TRIP165,DRV046,06-02-2024 08:00,2240,swerve,low,0.754,0,0.339,harsh accel detected. Combined score 0.339.,Motion: swerve | Audio: normal
+FLAG1036,TRIP165,DRV046,06-02-2024 08:09,2784,harsh_accel,low,0.292,0,0.131,harsh accel detected. Combined score 0.131.,Motion: harsh_accel | Audio: normal
+FLAG1037,TRIP165,DRV046,06-02-2024 08:14,3104,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1038,TRIP165,DRV046,06-02-2024 08:18,3328,harsh_accel,low,0.498,0,0.224,harsh accel detected. Combined score 0.224.,Motion: harsh_accel | Audio: normal
+FLAG1039,TRIP166,DRV047,06-02-2024 06:16,76,swerve,low,0.163,0,0.073,swerve detected. Combined score 0.073.,Motion: swerve | Audio: normal
+FLAG1040,TRIP166,DRV047,06-02-2024 06:25,646,moderate_brake,low,0.312,0,0.14,moderate brake detected. Combined score 0.14.,Motion: moderate_brake | Audio: normal
+FLAG1041,TRIP166,DRV047,06-02-2024 06:38,1406,swerve,low,0.345,0,0.155,swerve detected. Combined score 0.155.,Motion: swerve | Audio: normal
+FLAG1042,TRIP166,DRV047,06-02-2024 06:40,1558,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1043,TRIP166,DRV047,06-02-2024 06:51,2166,moderate_brake,low,0.192,0,0.086,moderate brake detected. Combined score 0.086.,Motion: moderate_brake | Audio: normal
+FLAG1044,TRIP166,DRV047,06-02-2024 07:14,3572,swerve,low,0.661,0,0.297,swerve detected. Combined score 0.297.,Motion: swerve | Audio: normal
+FLAG1045,TRIP167,DRV047,06-02-2024 07:35,31,harsh_braking,low,0.507,0,0.228,moderate brake detected. Combined score 0.228.,Motion: harsh_braking | Audio: normal
+FLAG1046,TRIP167,DRV047,06-02-2024 07:45,651,harsh_accel,low,0.6,0,0.27,harsh accel detected. Combined score 0.27.,Motion: harsh_accel | Audio: normal
+FLAG1047,TRIP167,DRV047,06-02-2024 07:49,899,harsh_accel,low,0.384,0,0.173,harsh accel detected. Combined score 0.173.,Motion: harsh_accel | Audio: normal
+FLAG1048,TRIP167,DRV047,06-02-2024 07:52,1054,harsh_braking,low,0.434,0,0.195,harsh braking detected. Combined score 0.195.,Motion: harsh_braking | Audio: normal
+FLAG1049,TRIP167,DRV047,06-02-2024 07:57,1364,harsh_accel,low,0.397,0,0.179,moderate brake detected. Combined score 0.179.,Motion: harsh_accel | Audio: normal
+FLAG1050,TRIP167,DRV047,06-02-2024 08:01,1612,harsh_accel,low,0.618,0,0.278,harsh accel detected. Combined score 0.278.,Motion: harsh_accel | Audio: normal
+FLAG1051,TRIP168,DRV047,06-02-2024 08:39,26,harsh_braking,low,0.687,0,0.309,pothole detected. Combined score 0.309.,Motion: harsh_braking | Audio: normal
+FLAG1052,TRIP168,DRV047,06-02-2024 08:44,312,moderate_brake,low,0.278,0,0.125,moderate brake detected. Combined score 0.125.,Motion: moderate_brake | Audio: normal
+FLAG1053,TRIP168,DRV047,06-02-2024 08:48,572,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG1054,TRIP168,DRV047,06-02-2024 08:52,780,harsh_braking,low,0.391,0,0.176,harsh braking detected. Combined score 0.176.,Motion: harsh_braking | Audio: normal
+FLAG1055,TRIP168,DRV047,06-02-2024 08:55,962,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG1056,TRIP168,DRV047,06-02-2024 09:01,1352,swerve,low,0.271,0,0.122,swerve detected. Combined score 0.122.,Motion: swerve | Audio: normal
+FLAG1057,TRIP169,DRV048,06-02-2024 06:09,76,harsh_accel,low,0.275,0,0.124,harsh accel detected. Combined score 0.124.,Motion: harsh_accel | Audio: normal
+FLAG1058,TRIP169,DRV048,06-02-2024 06:18,608,harsh_braking,medium,0.875,0,0.394,harsh braking detected. Combined score 0.394.,Motion: harsh_braking | Audio: normal
+FLAG1059,TRIP169,DRV048,06-02-2024 06:21,836,swerve,low,0.592,0,0.266,swerve detected. Combined score 0.266.,Motion: swerve | Audio: normal
+FLAG1060,TRIP169,DRV048,06-02-2024 06:27,1197,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1061,TRIP169,DRV048,06-02-2024 06:30,1368,harsh_braking,low,0.523,0,0.235,harsh braking detected. Combined score 0.235.,Motion: harsh_braking | Audio: normal
+FLAG1062,TRIP169,DRV048,06-02-2024 06:37,1748,harsh_accel,low,0.571,0,0.257,harsh accel detected. Combined score 0.257.,Motion: harsh_accel | Audio: normal
+FLAG1063,TRIP169,DRV048,06-02-2024 06:40,1938,swerve,low,0.657,0,0.296,swerve detected. Combined score 0.296.,Motion: swerve | Audio: normal
+FLAG1064,TRIP169,DRV048,06-02-2024 06:44,2204,swerve,low,0.774,0,0.348,swerve detected. Combined score 0.348.,Motion: swerve | Audio: normal
+FLAG1065,TRIP169,DRV048,06-02-2024 06:49,2470,harsh_accel,low,0.371,0,0.167,harsh accel detected. Combined score 0.167.,Motion: harsh_accel | Audio: normal
+FLAG1066,TRIP170,DRV048,06-02-2024 07:27,0,harsh_braking,low,0.722,0,0.325,swerve detected. Combined score 0.325.,Motion: harsh_braking | Audio: normal
+FLAG1067,TRIP170,DRV048,06-02-2024 07:36,578,harsh_braking,low,0.596,0,0.268,harsh accel detected. Combined score 0.268.,Motion: harsh_braking | Audio: normal
+FLAG1068,TRIP170,DRV048,06-02-2024 07:41,884,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1069,TRIP170,DRV048,06-02-2024 07:44,1020,swerve,low,0.676,0,0.304,harsh accel detected. Combined score 0.304.,Motion: swerve | Audio: normal
+FLAG1070,TRIP170,DRV048,06-02-2024 07:49,1326,harsh_accel,low,0.683,0,0.307,harsh accel detected. Combined score 0.307.,Motion: harsh_accel | Audio: normal
+FLAG1071,TRIP170,DRV048,06-02-2024 07:57,1836,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1072,TRIP170,DRV048,06-02-2024 08:03,2176,moderate_brake,low,0.209,0,0.094,moderate brake detected. Combined score 0.094.,Motion: moderate_brake | Audio: normal
+FLAG1073,TRIP171,DRV049,06-02-2024 06:29,129,pothole,low,0.1,0,0.045,pothole detected. Combined score 0.045.,Motion: pothole | Audio: normal
+FLAG1074,TRIP171,DRV049,06-02-2024 06:35,516,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1075,TRIP171,DRV049,06-02-2024 06:44,1032,harsh_accel,low,0.674,0,0.303,harsh accel detected. Combined score 0.303.,Motion: harsh_accel | Audio: normal
+FLAG1076,TRIP171,DRV049,06-02-2024 06:47,1247,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1077,TRIP171,DRV049,06-02-2024 06:57,1849,harsh_accel,low,0.529,0,0.238,moderate brake detected. Combined score 0.238.,Motion: harsh_accel | Audio: normal
+FLAG1078,TRIP171,DRV049,06-02-2024 07:02,2107,harsh_accel,low,0.679,0,0.306,harsh accel detected. Combined score 0.306.,Motion: harsh_accel | Audio: normal
+FLAG1079,TRIP172,DRV049,06-02-2024 07:42,0,swerve,low,0.516,0,0.232,swerve detected. Combined score 0.232.,Motion: swerve | Audio: normal
+FLAG1080,TRIP172,DRV049,06-02-2024 07:46,247,swerve,low,0.584,0,0.263,swerve detected. Combined score 0.263.,Motion: swerve | Audio: normal
+FLAG1081,TRIP172,DRV049,06-02-2024 07:55,817,harsh_accel,low,0.275,0,0.124,harsh accel detected. Combined score 0.124.,Motion: harsh_accel | Audio: normal
+FLAG1082,TRIP172,DRV049,06-02-2024 07:59,1064,swerve,low,0.6,0,0.27,swerve detected. Combined score 0.27.,Motion: swerve | Audio: normal
+FLAG1083,TRIP173,DRV050,06-02-2024 06:29,351,harsh_braking,low,0.689,0,0.31,harsh braking detected. Combined score 0.31.,Motion: harsh_braking | Audio: normal
+FLAG1084,TRIP173,DRV050,06-02-2024 06:37,783,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1085,TRIP173,DRV050,06-02-2024 06:45,1269,harsh_braking,medium,0.95,0,0.427,harsh braking detected. Combined score 0.427.,Motion: harsh_braking | Audio: normal
+FLAG1086,TRIP173,DRV050,06-02-2024 06:47,1404,harsh_braking,medium,0.849,0,0.382,harsh braking detected. Combined score 0.382.,Motion: harsh_braking | Audio: normal
+FLAG1087,TRIP173,DRV050,06-02-2024 06:53,1782,harsh_accel,low,0.476,0,0.214,harsh accel detected. Combined score 0.214.,Motion: harsh_accel | Audio: normal
+FLAG1088,TRIP173,DRV050,06-02-2024 06:55,1917,harsh_braking,low,0.773,0,0.348,harsh braking detected. Combined score 0.348.,Motion: harsh_braking | Audio: normal
+FLAG1089,TRIP173,DRV050,06-02-2024 07:01,2241,harsh_accel,low,0.372,0,0.167,harsh braking detected. Combined score 0.167.,Motion: harsh_accel | Audio: normal
+FLAG1090,TRIP173,DRV050,06-02-2024 07:08,2673,swerve,low,0.494,0,0.222,swerve detected. Combined score 0.222.,Motion: swerve | Audio: normal
+FLAG1091,TRIP173,DRV050,06-02-2024 07:15,3105,harsh_braking,low,0.602,0,0.271,harsh braking detected. Combined score 0.271.,Motion: harsh_braking | Audio: normal
+FLAG1092,TRIP173,DRV050,06-02-2024 07:18,3294,moderate_brake,low,0.27,0,0.122,moderate brake detected. Combined score 0.122.,Motion: moderate_brake | Audio: normal
+FLAG1093,TRIP174,DRV050,06-02-2024 07:44,0,swerve,low,0.667,0,0.3,swerve detected. Combined score 0.3.,Motion: swerve | Audio: normal
+FLAG1094,TRIP174,DRV050,06-02-2024 07:47,196,harsh_accel,low,0.474,0,0.213,moderate brake detected. Combined score 0.213.,Motion: harsh_accel | Audio: normal
+FLAG1095,TRIP174,DRV050,06-02-2024 07:51,448,harsh_braking,low,0.614,0,0.276,harsh braking detected. Combined score 0.276.,Motion: harsh_braking | Audio: normal
+FLAG1096,TRIP174,DRV050,06-02-2024 07:54,616,moderate_brake,low,0.285,0,0.128,moderate brake detected. Combined score 0.128.,Motion: moderate_brake | Audio: normal
+FLAG1097,TRIP174,DRV050,06-02-2024 07:57,784,harsh_accel,low,0.693,0,0.312,harsh accel detected. Combined score 0.312.,Motion: harsh_accel | Audio: normal
+FLAG1098,TRIP174,DRV050,06-02-2024 08:03,1176,harsh_braking,low,0.721,0,0.324,harsh braking detected. Combined score 0.324.,Motion: harsh_braking | Audio: normal
+FLAG1099,TRIP174,DRV050,06-02-2024 08:06,1344,swerve,low,0.701,0,0.315,swerve detected. Combined score 0.315.,Motion: swerve | Audio: normal
+FLAG1100,TRIP174,DRV050,06-02-2024 08:11,1652,swerve,low,0.711,0,0.32,swerve detected. Combined score 0.32.,Motion: swerve | Audio: normal
+FLAG1101,TRIP174,DRV050,06-02-2024 08:19,2156,harsh_braking,low,0.775,0,0.349,harsh braking detected. Combined score 0.349.,Motion: harsh_braking | Audio: normal
+FLAG1102,TRIP175,DRV050,06-02-2024 08:59,21,harsh_accel,low,0.606,0,0.273,swerve detected. Combined score 0.273.,Motion: harsh_accel | Audio: normal
+FLAG1103,TRIP175,DRV050,06-02-2024 09:03,273,swerve,low,0.485,0,0.218,swerve detected. Combined score 0.218.,Motion: swerve | Audio: normal
+FLAG1104,TRIP175,DRV050,06-02-2024 09:05,399,moderate_brake,low,0.1,0,0.045,moderate brake detected. Combined score 0.045.,Motion: moderate_brake | Audio: normal
+FLAG1105,TRIP175,DRV050,06-02-2024 09:09,651,harsh_accel,low,0.632,0,0.284,harsh accel detected. Combined score 0.284.,Motion: harsh_accel | Audio: normal
+FLAG1106,TRIP175,DRV050,06-02-2024 09:11,777,swerve,low,0.352,0,0.158,swerve detected. Combined score 0.158.,Motion: swerve | Audio: normal
+FLAG1107,TRIP175,DRV050,06-02-2024 09:14,924,harsh_accel,low,0.476,0,0.214,harsh accel detected. Combined score 0.214.,Motion: harsh_accel | Audio: normal
+FLAG1108,TRIP175,DRV050,06-02-2024 09:16,1050,harsh_accel,low,0.332,0,0.149,moderate brake detected. Combined score 0.149.,Motion: harsh_accel | Audio: normal
+FLAG1109,TRIP175,DRV050,06-02-2024 09:22,1428,swerve,low,0.235,0,0.106,swerve detected. Combined score 0.106.,Motion: swerve | Audio: normal
+FLAG1110,TRIP175,DRV050,06-02-2024 09:26,1638,harsh_accel,low,0.698,0,0.314,harsh braking detected. Combined score 0.314.,Motion: harsh_accel | Audio: normal
+FLAG1111,TRIP175,DRV050,06-02-2024 09:35,2205,harsh_accel,low,0.399,0,0.18,moderate brake detected. Combined score 0.18.,Motion: harsh_accel | Audio: normal
+FLAG1112,TRIP175,DRV050,06-02-2024 09:41,2520,harsh_braking,low,0.77,0,0.347,harsh braking detected. Combined score 0.347.,Motion: harsh_braking | Audio: normal
+FLAG1113,TRIP175,DRV050,06-02-2024 09:45,2814,harsh_braking,low,0.571,0,0.257,moderate brake detected. Combined score 0.257.,Motion: harsh_braking | Audio: normal
