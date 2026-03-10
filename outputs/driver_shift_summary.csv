@@ -1,0 +1,51 @@
+driver_id,total_earned,total_trips,avg_velocity,peak_stress_score,stress_badge,stress_icon,n_excellent_trips,n_good_trips,n_average_trips,n_poor_trips,best_route,best_route_vel,target_earnings,projected_earnings,remaining_hours,goal_pct_complete,forecast,goal_message,total_flags,high_flags
+DRV001,1777,5,583.0,1.0,HIGH,🔴,0,0,0,5,Viman Nagar → Hinjewadi,856.0,1676.0,2854.63,3.02,106.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,66,4
+DRV002,790,2,518.0,0.862,HIGH,🔴,0,0,0,2,South Delhi → Saket,621.0,1433.0,3950.0,6.4,55.1,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,18,1
+DRV003,1343,2,672.0,0.988,HIGH,🔴,0,0,0,2,Koregaon Park → Aundh,782.0,1205.0,4533.35,5.63,111.5,achieved,🎯 Goal reached! Any more trips today are a bonus.,25,1
+DRV004,1412,3,683.0,0.52,MODERATE,🟡,0,0,0,3,Juhu → Andheri West,832.0,1463.0,4344.63,5.4,96.5,on_track,You're on track — just 4% left to go.,28,0
+DRV005,1564,4,610.0,0.932,HIGH,🔴,0,0,0,4,Adyar → Guindy,786.0,1566.0,3208.22,4.1,99.9,on_track,You're on track — just 0% left to go.,26,1
+DRV006,1745,4,704.0,0.672,HIGH,🔴,0,0,1,3,Hadapsar → Baner,884.0,3227.0,7755.53,12.4,54.1,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,23,0
+DRV007,1233,2,717.0,0.82,HIGH,🔴,0,0,0,2,HSR Layout → BTM Layout,800.0,1186.0,3653.35,5.3,104.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,20,2
+DRV008,1153,2,584.0,0.988,HIGH,🔴,0,0,0,2,Hitec City → Madhapur,721.0,904.0,3493.93,4.02,127.5,achieved,🎯 Goal reached! Any more trips today are a bonus.,30,2
+DRV009,1389,4,671.0,0.568,MODERATE,🟡,0,0,0,4,BTM Layout → Koramangala,880.0,1385.0,3728.87,5.02,100.3,achieved,🎯 Goal reached! Any more trips today are a bonus.,30,0
+DRV010,2489,5,627.0,0.52,MODERATE,🟡,0,0,0,5,Electronic City → Koramangala,719.0,1192.0,2606.28,0.27,208.8,achieved,🎯 Goal reached! Any more trips today are a bonus.,48,0
+DRV011,631,2,475.0,0.52,MODERATE,🟡,0,0,1,1,Shivajinagar → Wakad,515.0,2447.0,5048.0,14.0,25.8,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,24,0
+DRV012,2531,6,688.0,0.52,MODERATE,🟡,0,0,0,6,Kurla → Malad,768.0,1237.0,2989.37,0.92,204.6,achieved,🎯 Goal reached! Any more trips today are a bonus.,66,0
+DRV013,891,3,554.0,0.52,MODERATE,🟡,0,0,1,2,Anna Nagar → Adyar,720.0,1619.0,3426.95,5.92,55.0,on_track,You're on track — just 45% left to go.,13,0
+DRV014,2825,5,726.0,0.946,HIGH,🔴,0,1,0,4,Shivajinagar → Baner,900.0,1177.0,4502.0,2.98,240.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,28,3
+DRV015,804,2,568.0,0.948,HIGH,🔴,0,0,0,2,Vasant Kunj → Gurugram,693.0,1537.0,4375.52,6.53,52.3,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,13,1
+DRV016,860,3,540.0,0.919,HIGH,🔴,0,0,0,3,Shivajinagar → Baner,680.0,1345.0,2492.76,3.93,63.9,on_track,You're on track — just 36% left to go.,29,2
+DRV017,2372,5,599.0,0.897,HIGH,🔴,0,0,0,5,South Delhi → Rohini,705.0,945.0,2372.0,0.0,251.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,38,2
+DRV018,532,2,417.0,0.52,MODERATE,🟡,0,0,0,2,Baner → Hinjewadi,478.0,1377.0,2745.83,6.45,38.6,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,11,0
+DRV019,646,2,542.0,0.52,MODERATE,🟡,0,0,0,2,Secunderabad → Kondapur,588.0,2297.0,8834.24,14.83,28.1,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,14,0
+DRV020,645,2,423.0,0.52,MODERATE,🟡,0,0,0,2,Hinjewadi → Hadapsar,552.0,1138.0,2069.52,4.13,56.7,on_track,You're on track — just 43% left to go.,25,0
+DRV021,1349,3,671.0,0.834,HIGH,🔴,0,0,0,3,Malad → Goregaon,814.0,1173.0,3149.41,3.43,115.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,37,2
+DRV022,862,2,627.0,0.66,HIGH,🔴,0,0,0,2,Vasant Kunj → Lajpat Nagar,687.0,1178.0,2826.24,4.17,73.2,on_track,You're on track — just 27% left to go.,21,0
+DRV023,2488,6,596.0,0.806,HIGH,🔴,0,0,0,6,Kothrud → Hinjewadi,754.0,3277.0,6059.05,9.43,75.9,on_track,You're on track — just 24% left to go.,76,1
+DRV024,2314,5,594.0,0.52,MODERATE,🟡,0,0,1,4,Rohini → Karol Bagh,784.0,843.0,2654.69,0.77,274.5,achieved,🎯 Goal reached! Any more trips today are a bonus.,77,0
+DRV025,1016,3,559.0,1.0,HIGH,🔴,0,0,0,3,Porur → Guindy,687.0,3088.0,8693.11,14.13,32.9,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,22,1
+DRV026,593,2,522.0,0.83,HIGH,🔴,0,0,0,2,Velachery → Porur,537.0,2991.0,6543.51,14.55,19.8,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,20,1
+DRV027,1067,3,473.0,0.52,MODERATE,🟡,0,0,0,3,Noida → Vasant Kunj,554.0,1398.0,2667.51,4.8,76.3,on_track,You're on track — just 24% left to go.,31,0
+DRV028,2686,5,717.0,0.941,HIGH,🔴,0,0,0,5,Dadar → Bandra,800.0,3303.0,8510.09,10.95,81.3,on_track,You're on track — just 19% left to go.,67,1
+DRV029,768,2,572.0,0.946,HIGH,🔴,0,0,0,2,Anna Nagar → Porur,641.0,897.0,2531.88,4.18,85.6,on_track,You're on track — just 14% left to go.,27,2
+DRV030,1564,5,516.0,0.52,MODERATE,🟡,0,0,0,5,Baner → Kothrud,618.0,1348.0,2979.04,3.8,116.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,28,0
+DRV031,2309,6,640.0,0.62,MODERATE,🟡,0,0,0,6,Shivajinagar → Aundh,770.0,1084.0,2465.12,0.38,213.0,achieved,🎯 Goal reached! Any more trips today are a bonus.,53,0
+DRV032,930,2,597.0,0.561,MODERATE,🟡,0,0,0,2,Dwarka → Lajpat Nagar,706.0,2699.0,6857.12,13.83,34.5,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,30,0
+DRV033,1013,4,465.0,1.0,HIGH,🔴,0,0,0,4,Dwarka → Rohini,551.0,1474.0,2775.35,5.08,68.7,on_track,You're on track — just 31% left to go.,36,5
+DRV034,1015,2,700.0,0.52,MODERATE,🟡,0,0,0,2,OMR → Tambaram,747.0,1486.0,4060.0,6.0,68.3,on_track,You're on track — just 32% left to go.,28,0
+DRV035,700,3,464.0,0.719,HIGH,🔴,0,0,0,3,OMR → Adyar,530.0,1865.0,2641.52,5.88,37.5,on_track,You're on track — just 62% left to go.,27,0
+DRV036,1606,4,653.0,0.816,HIGH,🔴,0,0,0,4,Worli → Goregaon,878.0,1528.0,3756.72,4.58,105.1,achieved,🎯 Goal reached! Any more trips today are a bonus.,28,1
+DRV037,1465,3,606.0,0.922,HIGH,🔴,0,0,0,3,Rohini → Vasant Kunj,736.0,1323.0,3720.64,4.85,110.7,achieved,🎯 Goal reached! Any more trips today are a bonus.,31,2
+DRV038,2614,6,652.0,0.988,HIGH,🔴,0,0,2,4,Bandra → Colaba,876.0,4000.0,6935.99,9.97,65.3,on_track,You're on track — just 35% left to go.,55,1
+DRV039,2556,6,548.0,1.0,HIGH,🔴,0,0,1,5,Karol Bagh → Dwarka,664.0,1453.0,3121.83,1.45,175.9,achieved,🎯 Goal reached! Any more trips today are a bonus.,46,4
+DRV040,2177,5,700.0,0.52,MODERATE,🟡,0,0,0,5,Karol Bagh → Noida,950.0,851.0,2340.86,0.42,255.8,achieved,🎯 Goal reached! Any more trips today are a bonus.,46,0
+DRV041,2163,5,670.0,1.0,HIGH,🔴,0,0,0,5,Connaught Place → Karol Bagh,823.0,1543.0,3460.8,3.0,140.2,achieved,🎯 Goal reached! Any more trips today are a bonus.,40,3
+DRV042,1538,3,553.0,0.862,HIGH,🔴,0,0,0,3,Koregaon Park → Wakad,636.0,927.0,2948.23,2.87,165.9,achieved,🎯 Goal reached! Any more trips today are a bonus.,53,3
+DRV043,3186,6,781.0,0.862,HIGH,🔴,0,0,0,6,Worli → Dadar,964.0,1261.0,4634.18,2.5,252.7,achieved,🎯 Goal reached! Any more trips today are a bonus.,58,4
+DRV044,1366,3,674.0,0.52,MODERATE,🟡,0,0,1,2,Worli → Dadar,843.0,2016.0,3930.95,5.22,67.8,on_track,You're on track — just 32% left to go.,17,0
+DRV045,2076,4,625.0,1.0,HIGH,🔴,0,0,0,4,Juhu → BKC,751.0,1795.0,3321.6,3.0,115.7,achieved,🎯 Goal reached! Any more trips today are a bonus.,36,1
+DRV046,692,2,466.0,0.52,MODERATE,🟡,0,0,0,2,Indiranagar → Marathahalli,468.0,1666.0,2913.68,6.1,41.5,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,22,0
+DRV047,1193,3,658.0,0.52,MODERATE,🟡,0,0,0,3,Shivajinagar → Koregaon Park,806.0,2614.0,6514.71,13.07,45.6,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,21,0
+DRV048,721,2,506.0,0.52,MODERATE,🟡,0,0,0,2,Aundh → Koregaon Park,590.0,3910.0,5977.27,14.07,18.4,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,23,0
+DRV049,695,2,680.0,1.0,HIGH,🔴,0,0,0,2,Saket → Connaught Place,748.0,1853.0,3123.6,6.22,37.5,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,14,2
+DRV050,1982,4,626.0,0.52,MODERATE,🟡,0,0,1,3,Kondapur → LB Nagar,793.0,3624.0,6776.02,11.32,54.7,on_track,You're on track — just 45% left to go.,43,0

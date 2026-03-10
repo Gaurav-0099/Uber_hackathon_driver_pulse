@@ -1,0 +1,177 @@
+log_id,driver_id,timestamp,elapsed_hours,cumulative_earnings,recalc_velocity,target_velocity,needed_velocity,shift_phase,forecast_status,pct_complete,message
+VEL0001,DRV001,06-02-2024 07:02,0.65,485,746.15,257.85,203.59,early,on_track,28.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0002,DRV001,06-02-2024 08:34,2.18,1064,488.07,257.85,141.67,mid,on_track,63.5,You're on track — just 36% left to go.
+VEL0003,DRV001,06-02-2024 09:25,3.03,1451,478.88,257.85,64.84,mid,on_track,86.6,You're on track — just 13% left to go.
+VEL0004,DRV001,06-02-2024 10:24,4.02,1619,402.74,257.85,22.98,peak,on_track,96.6,Almost there. Stay consistent for the last stretch.
+VEL0005,DRV001,06-02-2024 11:22,4.98,1777,356.83,257.85,-66.45,peak,achieved,106.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0006,DRV002,06-02-2024 13:12,0.83,569,685.54,191.07,129.54,early,on_track,39.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0007,DRV002,06-02-2024 13:58,1.6,790,493.75,191.07,108.98,early,on_track,55.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0008,DRV003,06-02-2024 07:01,0.93,782,840.86,158.55,63.42,early,on_track,64.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0009,DRV003,06-02-2024 08:27,2.37,1343,566.67,158.55,-26.39,mid,achieved,111.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0010,DRV004,06-02-2024 06:27,0.1,174,1740.0,200.41,179.03,early,on_track,11.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0011,DRV004,06-02-2024 07:46,1.4,857,612.14,200.41,102.71,early,on_track,58.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0012,DRV004,06-02-2024 08:58,2.6,1412,543.08,200.41,10.85,mid,on_track,96.5,You're on track — just 4% left to go.
+VEL0013,DRV005,06-02-2024 07:03,0.95,499,525.26,214.52,168.03,early,on_track,31.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0014,DRV005,06-02-2024 08:15,2.15,1036,481.86,214.52,102.91,mid,on_track,66.2,You're on track — just 34% left to go.
+VEL0015,DRV005,06-02-2024 09:00,2.9,1240,427.59,214.52,74.09,mid,on_track,79.2,You're on track — just 21% left to go.
+VEL0016,DRV005,06-02-2024 10:00,3.9,1564,401.03,214.52,0.59,mid,on_track,99.9,You're on track — just 0% left to go.
+VEL0017,DRV006,06-02-2024 06:48,0.77,259,336.36,230.5,224.34,early,on_track,8.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0018,DRV006,06-02-2024 08:01,1.98,948,478.79,230.5,189.6,early,on_track,29.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0019,DRV006,06-02-2024 08:46,2.73,1287,471.43,230.5,172.14,early,on_track,39.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0020,DRV006,06-02-2024 09:38,3.6,1745,484.72,230.5,142.5,mid,on_track,54.1,You're on track — just 46% left to go.
+VEL0021,DRV007,06-02-2024 07:27,1.42,800,563.38,185.31,77.51,early,on_track,67.5,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0022,DRV007,06-02-2024 08:44,2.7,1233,456.67,185.31,-12.7,mid,achieved,104.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0023,DRV008,06-02-2024 18:03,0.72,432,600.0,161.43,96.72,early,on_track,47.8,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0024,DRV008,06-02-2024 19:19,1.98,1153,582.32,161.43,-68.78,mid,achieved,127.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0025,DRV009,06-02-2024 06:36,0.35,484,1382.86,197.86,135.49,early,on_track,34.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0026,DRV009,06-02-2024 07:30,1.25,972,777.6,197.86,71.83,early,on_track,70.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0027,DRV009,06-02-2024 08:31,2.27,1199,528.19,197.86,39.32,mid,on_track,86.6,You're on track — just 13% left to go.
+VEL0028,DRV009,06-02-2024 09:14,2.98,1389,466.11,197.86,-1.0,mid,achieved,100.3,🎯 Goal reached! Any more trips today are a bonus.
+VEL0029,DRV010,06-02-2024 17:47,0.77,295,383.12,238.4,212.06,early,on_track,24.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0030,DRV010,06-02-2024 18:59,1.97,739,375.13,238.4,149.5,mid,on_track,62.0,You're on track — just 38% left to go.
+VEL0031,DRV010,06-02-2024 20:04,3.05,1182,387.54,238.4,5.13,peak,on_track,99.2,Almost there. Stay consistent for the last stretch.
+VEL0032,DRV010,06-02-2024 21:12,4.18,1770,423.44,238.4,-704.88,late,achieved,148.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0033,DRV010,06-02-2024 22:45,5.73,2489,434.38,238.4,0.0,late,achieved,208.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0034,DRV011,06-02-2024 06:41,0.48,116,241.67,156.86,154.17,early,on_track,4.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0035,DRV011,06-02-2024 08:12,2.0,631,315.5,156.86,133.53,early,on_track,25.8,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0036,DRV012,06-02-2024 17:48,0.43,301,700.0,217.02,177.61,early,on_track,24.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0037,DRV012,06-02-2024 18:38,1.27,596,469.29,217.02,144.7,early,on_track,48.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0038,DRV012,06-02-2024 19:30,2.13,1044,490.14,217.02,54.06,mid,on_track,84.4,You're on track — just 16% left to go.
+VEL0039,DRV012,06-02-2024 20:44,3.37,1707,506.53,217.02,-201.72,mid,achieved,138.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0040,DRV012,06-02-2024 21:19,3.95,2014,509.87,217.02,-444.0,peak,achieved,162.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0041,DRV012,06-02-2024 22:27,5.08,2531,498.23,217.02,-2087.1,late,achieved,204.6,🎯 Goal reached! Any more trips today are a bonus.
+VEL0042,DRV013,06-02-2024 12:58,0.58,292,503.45,231.29,206.7,early,on_track,18.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0043,DRV013,06-02-2024 13:52,1.48,567,383.11,231.29,190.58,early,on_track,35.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0044,DRV013,06-02-2024 14:28,2.08,891,428.37,231.29,147.97,mid,on_track,55.0,You're on track — just 45% left to go.
+VEL0045,DRV014,06-02-2024 13:15,0.97,510,525.77,148.99,96.25,early,on_track,43.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0046,DRV014,06-02-2024 14:29,2.2,1215,552.27,148.99,-6.67,mid,achieved,103.2,🎯 Goal reached! Any more trips today are a bonus.
+VEL0047,DRV014,06-02-2024 15:37,3.33,1823,547.45,148.99,-141.36,mid,achieved,154.9,🎯 Goal reached! Any more trips today are a bonus.
+VEL0048,DRV014,06-02-2024 16:22,4.08,2245,550.25,148.99,-279.58,mid,achieved,190.7,🎯 Goal reached! Any more trips today are a bonus.
+VEL0049,DRV014,06-02-2024 17:18,5.02,2825,562.75,148.99,-572.22,peak,achieved,240.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0050,DRV015,06-02-2024 06:40,0.2,111,555.0,194.56,185.19,early,on_track,7.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0051,DRV015,06-02-2024 07:56,1.47,804,546.94,194.56,114.0,early,on_track,52.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0052,DRV016,06-02-2024 17:25,0.32,197,615.62,231.9,209.49,early,on_track,14.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0053,DRV016,06-02-2024 18:14,1.13,605,535.4,231.9,158.46,early,on_track,45.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0054,DRV016,06-02-2024 19:10,2.07,860,415.46,231.9,130.03,mid,on_track,63.9,You're on track — just 36% left to go.
+VEL0055,DRV017,06-02-2024 18:14,1.22,497,407.38,192.86,121.74,early,on_track,52.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0056,DRV017,06-02-2024 19:24,2.38,898,377.31,192.86,18.65,mid,on_track,95.0,You're on track — just 5% left to go.
+VEL0057,DRV017,06-02-2024 20:21,3.33,1368,410.81,192.86,-269.43,peak,achieved,144.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0058,DRV017,06-02-2024 21:44,4.72,1912,405.08,192.86,-5372.22,late,achieved,202.3,🎯 Goal reached! Any more trips today are a bonus.
+VEL0059,DRV017,06-02-2024 23:02,6.02,2372,394.02,192.86,0.0,late,achieved,251.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0060,DRV018,06-02-2024 12:59,0.7,261,372.86,199.57,180.0,early,on_track,19.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0061,DRV018,06-02-2024 13:50,1.55,532,343.23,199.57,157.94,early,on_track,38.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0062,DRV019,06-02-2024 06:56,0.47,431,917.02,154.16,129.31,early,on_track,18.8,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0063,DRV019,06-02-2024 07:38,1.17,646,552.14,154.16,120.25,early,on_track,28.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0064,DRV020,06-02-2024 17:46,0.45,93,206.67,214.72,215.46,early,on_track,8.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0065,DRV020,06-02-2024 19:11,1.87,645,344.92,214.72,143.73,mid,on_track,56.7,You're on track — just 43% left to go.
+VEL0066,DRV021,06-02-2024 17:51,0.45,497,1104.44,213.27,133.86,early,on_track,42.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0067,DRV021,06-02-2024 18:47,1.38,779,564.49,213.27,95.63,mid,on_track,66.4,You're on track — just 34% left to go.
+VEL0068,DRV021,06-02-2024 19:58,2.57,1349,524.9,213.27,-60.07,mid,achieved,115.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0069,DRV022,06-02-2024 17:34,0.35,332,948.57,222.26,170.91,early,on_track,28.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0070,DRV022,06-02-2024 19:03,1.83,862,471.04,222.26,91.07,mid,on_track,73.2,You're on track — just 27% left to go.
+VEL0071,DRV023,06-02-2024 06:56,0.67,511,762.69,215.59,190.36,early,on_track,15.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0072,DRV023,06-02-2024 08:11,1.92,1114,580.21,215.59,162.88,early,on_track,34.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0073,DRV023,06-02-2024 09:22,3.1,1445,466.13,215.59,151.4,early,on_track,44.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0074,DRV023,06-02-2024 10:23,4.12,1710,415.05,215.59,141.43,mid,on_track,52.2,You're on track — just 48% left to go.
+VEL0075,DRV023,06-02-2024 11:31,5.25,2074,395.05,215.59,120.9,mid,on_track,63.3,You're on track — just 37% left to go.
+VEL0076,DRV023,06-02-2024 12:50,6.57,2488,378.69,215.59,91.43,mid,on_track,75.9,You're on track — just 24% left to go.
+VEL0077,DRV024,06-02-2024 18:21,0.95,653,687.37,172.04,48.1,early,on_track,77.5,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0078,DRV024,06-02-2024 19:41,2.28,999,438.16,172.04,-59.54,mid,achieved,118.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0079,DRV024,06-02-2024 21:00,3.6,1783,495.28,172.04,-723.08,peak,achieved,211.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0080,DRV024,06-02-2024 21:56,4.53,2108,465.34,172.04,-3418.92,late,achieved,250.1,🎯 Goal reached! Any more trips today are a bonus.
+VEL0081,DRV024,06-02-2024 22:38,5.23,2314,442.45,172.04,0.0,late,achieved,274.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0082,DRV025,06-02-2024 06:29,0.1,188,1880.0,200.52,189.54,early,on_track,6.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0083,DRV025,06-02-2024 07:16,0.8,512,640.0,200.52,176.44,early,on_track,16.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0084,DRV025,06-02-2024 08:20,1.87,1016,543.32,200.52,153.14,early,on_track,32.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0085,DRV026,06-02-2024 06:46,0.35,188,537.14,204.86,196.7,early,on_track,6.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0086,DRV026,06-02-2024 07:52,1.45,593,408.97,204.86,182.36,early,on_track,19.8,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0087,DRV027,06-02-2024 12:58,0.97,340,350.52,179.23,154.9,early,on_track,24.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0088,DRV027,06-02-2024 14:07,2.12,698,329.25,179.23,123.24,mid,on_track,49.9,You're on track — just 50% left to go.
+VEL0089,DRV027,06-02-2024 15:12,3.2,1067,333.44,179.23,71.96,mid,on_track,76.3,You're on track — just 24% left to go.
+VEL0090,DRV028,06-02-2024 07:04,0.68,711,1045.59,210.38,172.57,early,on_track,21.5,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0091,DRV028,06-02-2024 07:55,1.53,955,624.18,210.38,165.7,early,on_track,28.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0092,DRV028,06-02-2024 08:54,2.52,1425,565.48,210.38,142.49,early,on_track,43.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0093,DRV028,06-02-2024 09:59,3.6,1886,523.89,210.38,117.11,early,on_track,57.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0094,DRV028,06-02-2024 11:26,5.05,2686,531.88,210.38,57.93,mid,on_track,81.3,You're on track — just 19% left to go.
+VEL0095,DRV029,06-02-2024 17:56,0.55,299,543.64,183.06,137.47,early,on_track,33.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0096,DRV029,06-02-2024 19:12,1.82,768,421.98,183.06,41.88,mid,on_track,85.6,You're on track — just 14% left to go.
+VEL0097,DRV030,06-02-2024 06:38,0.22,144,654.55,177.37,163.14,early,on_track,10.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0098,DRV030,06-02-2024 07:25,1.0,462,462.0,177.37,134.24,early,on_track,34.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0099,DRV030,06-02-2024 08:53,2.47,1080,437.25,177.37,52.24,mid,on_track,80.1,You're on track — just 20% left to go.
+VEL0100,DRV030,06-02-2024 09:37,3.2,1201,375.31,177.37,33.41,mid,on_track,89.1,You're on track — just 11% left to go.
+VEL0101,DRV030,06-02-2024 10:37,4.2,1564,372.38,177.37,-63.53,mid,achieved,116.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0102,DRV031,06-02-2024 18:11,1.1,527,479.09,193.57,123.78,early,on_track,48.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0103,DRV031,06-02-2024 19:13,2.13,925,434.27,193.57,45.82,mid,on_track,85.3,You're on track — just 15% left to go.
+VEL0104,DRV031,06-02-2024 20:13,3.13,1400,447.28,193.57,-127.94,mid,achieved,129.2,🎯 Goal reached! Any more trips today are a bonus.
+VEL0105,DRV031,06-02-2024 20:53,3.8,1618,425.79,193.57,-296.67,peak,achieved,149.3,🎯 Goal reached! Any more trips today are a bonus.
+VEL0106,DRV031,06-02-2024 21:43,4.63,1860,401.73,193.57,-800.0,late,achieved,171.6,🎯 Goal reached! Any more trips today are a bonus.
+VEL0107,DRV031,06-02-2024 22:42,5.62,2309,410.85,193.57,0.0,late,achieved,213.0,🎯 Goal reached! Any more trips today are a bonus.
+VEL0108,DRV032,06-02-2024 06:58,0.67,236,352.24,183.61,175.55,early,on_track,8.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0109,DRV032,06-02-2024 08:28,2.17,930,428.57,183.61,141.18,early,on_track,34.5,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0110,DRV033,06-02-2024 06:27,0.13,146,1123.08,223.33,205.26,early,on_track,9.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0111,DRV033,06-02-2024 07:19,1.0,532,532.0,223.33,168.21,early,on_track,36.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0112,DRV033,06-02-2024 08:10,1.85,704,380.54,223.33,162.11,mid,on_track,47.8,You're on track — just 52% left to go.
+VEL0113,DRV033,06-02-2024 09:14,2.92,1013,346.92,223.33,125.27,mid,on_track,68.7,You're on track — just 31% left to go.
+VEL0114,DRV034,06-02-2024 12:53,0.4,361,902.5,225.15,181.45,early,on_track,24.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0115,DRV034,06-02-2024 14:29,2.0,1015,507.5,225.15,102.39,mid,on_track,68.3,You're on track — just 32% left to go.
+VEL0116,DRV035,06-02-2024 06:43,0.33,138,418.18,242.21,234.33,early,on_track,7.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0117,DRV035,06-02-2024 08:02,1.65,562,340.61,242.21,215.37,early,on_track,30.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0118,DRV035,06-02-2024 08:30,2.12,700,330.19,242.21,208.78,mid,on_track,37.5,You're on track — just 62% left to go.
+VEL0119,DRV036,06-02-2024 06:48,0.57,144,252.63,224.71,222.15,early,on_track,9.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0120,DRV036,06-02-2024 07:44,1.5,602,401.33,224.71,174.72,early,on_track,39.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0121,DRV036,06-02-2024 08:28,2.23,968,434.08,224.71,122.54,mid,on_track,63.4,You're on track — just 37% left to go.
+VEL0122,DRV036,06-02-2024 09:39,3.42,1606,469.59,224.71,-23.08,mid,achieved,105.1,🎯 Goal reached! Any more trips today are a bonus.
+VEL0123,DRV037,06-02-2024 07:08,0.65,724,1113.85,189.0,94.33,early,on_track,54.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0124,DRV037,06-02-2024 08:19,1.83,1041,568.85,189.0,54.55,mid,on_track,78.7,You're on track — just 21% left to go.
+VEL0125,DRV037,06-02-2024 09:38,3.15,1465,465.08,189.0,-36.88,mid,achieved,110.7,🎯 Goal reached! Any more trips today are a bonus.
+VEL0126,DRV038,06-02-2024 06:44,0.58,451,777.59,310.08,288.07,early,on_track,11.3,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0127,DRV038,06-02-2024 07:27,1.3,618,475.38,310.08,291.55,early,on_track,15.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0128,DRV038,06-02-2024 08:26,2.28,1246,546.49,310.08,259.32,early,on_track,31.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0129,DRV038,06-02-2024 09:59,3.83,1830,477.81,310.08,239.25,mid,on_track,45.8,You're on track — just 54% left to go.
+VEL0130,DRV038,06-02-2024 11:12,5.05,2298,455.05,310.08,216.82,mid,on_track,57.5,You're on track — just 42% left to go.
+VEL0131,DRV038,06-02-2024 12:11,6.03,2614,433.5,310.08,201.75,mid,on_track,65.3,You're on track — just 35% left to go.
+VEL0132,DRV039,06-02-2024 13:17,0.9,522,580.0,193.73,141.06,early,on_track,35.9,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0133,DRV039,06-02-2024 14:25,2.03,843,415.27,193.73,111.52,mid,on_track,58.0,You're on track — just 42% left to go.
+VEL0134,DRV039,06-02-2024 15:42,3.32,1475,444.28,193.73,-5.26,mid,achieved,101.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0135,DRV039,06-02-2024 17:01,4.63,1985,428.73,193.73,-185.37,peak,achieved,136.6,🎯 Goal reached! Any more trips today are a bonus.
+VEL0136,DRV039,06-02-2024 17:33,5.17,2140,413.93,193.73,-294.85,peak,achieved,147.3,🎯 Goal reached! Any more trips today are a bonus.
+VEL0137,DRV039,06-02-2024 18:56,6.55,2556,390.23,193.73,-1161.05,late,achieved,175.9,🎯 Goal reached! Any more trips today are a bonus.
+VEL0138,DRV040,06-02-2024 17:44,0.62,364,587.1,160.57,104.06,early,on_track,42.8,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0139,DRV040,06-02-2024 18:34,1.45,557,384.14,160.57,76.36,mid,on_track,65.5,You're on track — just 34% left to go.
+VEL0140,DRV040,06-02-2024 19:46,2.65,909,343.02,160.57,-21.89,mid,achieved,106.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0141,DRV040,06-02-2024 21:10,4.05,1510,372.84,160.57,-527.2,peak,achieved,177.4,🎯 Goal reached! Any more trips today are a bonus.
+VEL0142,DRV040,06-02-2024 22:42,5.58,2177,390.14,160.57,0.0,late,achieved,255.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0143,DRV041,06-02-2024 12:50,0.5,325,650.0,226.91,193.33,early,on_track,21.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0144,DRV041,06-02-2024 13:40,1.33,802,603.01,226.91,135.47,early,on_track,52.0,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0145,DRV041,06-02-2024 14:26,2.1,1241,590.95,226.91,64.26,mid,on_track,80.4,You're on track — just 20% left to go.
+VEL0146,DRV041,06-02-2024 15:58,3.63,1731,476.86,226.91,-59.31,mid,achieved,112.2,🎯 Goal reached! Any more trips today are a bonus.
+VEL0147,DRV041,06-02-2024 17:20,5.0,2163,432.6,226.91,-344.44,peak,achieved,140.2,🎯 Goal reached! Any more trips today are a bonus.
+VEL0148,DRV042,06-02-2024 18:05,0.65,636,978.46,171.67,61.26,early,on_track,68.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0149,DRV042,06-02-2024 19:23,1.95,941,482.56,171.67,-4.06,mid,achieved,101.5,🎯 Goal reached! Any more trips today are a bonus.
+VEL0150,DRV042,06-02-2024 20:34,3.13,1538,491.37,171.67,-269.16,mid,achieved,165.9,🎯 Goal reached! Any more trips today are a bonus.
+VEL0151,DRV043,06-02-2024 13:12,0.83,644,775.9,170.41,93.91,early,on_track,51.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0152,DRV043,06-02-2024 14:27,2.08,1345,646.63,170.41,-15.79,mid,achieved,106.7,🎯 Goal reached! Any more trips today are a bonus.
+VEL0153,DRV043,06-02-2024 15:18,2.93,1914,653.24,170.41,-146.09,mid,achieved,151.8,🎯 Goal reached! Any more trips today are a bonus.
+VEL0154,DRV043,06-02-2024 16:00,3.63,2290,630.85,170.41,-272.94,mid,achieved,181.6,🎯 Goal reached! Any more trips today are a bonus.
+VEL0155,DRV043,06-02-2024 16:46,4.4,2479,563.41,170.41,-406.0,mid,achieved,196.6,🎯 Goal reached! Any more trips today are a bonus.
+VEL0156,DRV043,06-02-2024 17:52,5.5,3186,579.27,170.41,-1013.16,peak,achieved,252.7,🎯 Goal reached! Any more trips today are a bonus.
+VEL0157,DRV044,06-02-2024 12:58,0.58,351,605.17,280.0,251.51,early,on_track,17.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0158,DRV044,06-02-2024 13:55,1.53,818,534.64,280.0,211.29,early,on_track,40.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0159,DRV044,06-02-2024 15:10,2.78,1366,491.37,280.0,147.06,mid,on_track,67.8,You're on track — just 32% left to go.
+VEL0160,DRV045,06-02-2024 06:54,0.9,525,583.33,276.15,226.79,early,on_track,29.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0161,DRV045,06-02-2024 08:19,2.32,1138,490.52,276.15,157.18,mid,on_track,63.4,You're on track — just 37% left to go.
+VEL0162,DRV045,06-02-2024 09:29,3.48,1542,443.1,276.15,83.77,mid,on_track,85.9,You're on track — just 14% left to go.
+VEL0163,DRV045,06-02-2024 11:00,5.0,2076,415.2,276.15,-187.33,peak,achieved,115.7,🎯 Goal reached! Any more trips today are a bonus.
+VEL0164,DRV046,06-02-2024 06:53,0.4,224,560.0,245.0,225.31,early,on_track,13.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0165,DRV046,06-02-2024 08:23,1.9,692,364.21,245.0,198.78,mid,on_track,41.5,You're on track — just 58% left to go.
+VEL0166,DRV047,06-02-2024 07:15,1.15,555,482.61,173.11,147.6,early,on_track,21.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0167,DRV047,06-02-2024 08:05,1.98,958,483.84,173.11,126.22,early,on_track,36.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0168,DRV047,06-02-2024 09:02,2.93,1193,407.17,173.11,116.76,early,on_track,45.6,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0169,DRV048,06-02-2024 06:52,0.67,433,646.27,258.94,240.96,early,on_track,11.1,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0170,DRV048,06-02-2024 08:08,1.93,721,373.58,258.94,242.14,early,on_track,18.4,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0171,DRV049,06-02-2024 07:12,0.97,458,472.16,240.65,207.28,early,on_track,24.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0172,DRV049,06-02-2024 08:01,1.78,695,390.45,240.65,195.61,early,on_track,37.5,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0173,DRV050,06-02-2024 07:24,1.18,462,391.53,280.93,269.8,early,on_track,12.7,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0174,DRV050,06-02-2024 08:29,2.27,1057,465.64,280.93,241.49,early,on_track,29.2,Good start! Keep this pace and you'll hit your goal comfortably.
+VEL0175,DRV050,06-02-2024 09:57,3.73,1823,488.74,280.93,196.4,mid,on_track,50.3,You're on track — just 50% left to go.
+VEL0176,DRV050,06-02-2024 10:54,4.68,1982,423.5,280.93,199.76,mid,on_track,54.7,You're on track — just 45% left to go.

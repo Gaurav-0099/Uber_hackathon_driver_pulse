@@ -1,0 +1,177 @@
+trip_id,driver_id,date,start_time,end_time,duration_min,distance_km,fare,surge_multiplier,pickup_location,dropoff_location,route,earnings_velocity,earnings_rating,motion_events_count,audio_events_count,flagged_count,stress_score,worst_event_type,trip_quality
+TRIP001,DRV001,06-02-2024,06:28:00,07:02:00,34,18.3,485,1.5,Viman Nagar,Hinjewadi,Viman Nagar → Hinjewadi,855.88,excellent,5,0,5,0.52,sharp_turn,poor
+TRIP002,DRV001,06-02-2024,07:34:00,08:34:00,60,23.1,579,1.3,Hadapsar,Wakad,Hadapsar → Wakad,579.0,excellent,35,1,32,0.862,sharp_turn,poor
+TRIP003,DRV001,06-02-2024,08:53:00,09:25:00,32,14.2,387,1.5,Viman Nagar,Baner,Viman Nagar → Baner,725.62,excellent,14,4,13,1.0,sharp_turn,poor
+TRIP004,DRV001,06-02-2024,09:56:00,10:24:00,28,6.5,168,1.3,Aundh,Baner,Aundh → Baner,360.0,good,8,1,8,0.52,sharp_turn,poor
+TRIP005,DRV001,06-02-2024,10:58:00,11:22:00,24,8.0,158,1.1,Shivajinagar,Koregaon Park,Shivajinagar → Koregaon Park,395.0,good,9,0,8,0.52,sharp_turn,poor
+TRIP006,DRV002,06-02-2024,12:17:00,13:12:00,55,20.3,569,1.3,South Delhi,Saket,South Delhi → Saket,620.73,excellent,15,5,14,0.862,sharp_turn,poor
+TRIP007,DRV002,06-02-2024,13:26:00,13:58:00,32,9.7,221,1.2,South Delhi,Rohini,South Delhi → Rohini,414.38,excellent,6,3,4,0.687,sharp_turn,poor
+TRIP008,DRV003,06-02-2024,06:01:00,07:01:00,60,26.2,782,1.5,Koregaon Park,Aundh,Koregaon Park → Aundh,782.0,excellent,10,0,9,0.52,sharp_turn,poor
+TRIP009,DRV003,06-02-2024,07:27:00,08:27:00,60,22.7,561,1.3,Viman Nagar,Shivajinagar,Viman Nagar → Shivajinagar,561.0,excellent,20,2,16,0.988,sharp_turn,poor
+TRIP010,DRV004,06-02-2024,06:07:00,06:27:00,20,7.4,174,1.1,Juhu,BKC,Juhu → BKC,522.0,excellent,14,0,3,0.52,sharp_turn,poor
+TRIP011,DRV004,06-02-2024,06:47:00,07:46:00,59,20.5,683,1.5,Andheri West,Malad,Andheri West → Malad,694.58,excellent,7,0,6,0.52,sharp_turn,poor
+TRIP012,DRV004,06-02-2024,08:18:00,08:58:00,40,19.7,555,1.4,Juhu,Andheri West,Juhu → Andheri West,832.5,excellent,21,0,19,0.52,sharp_turn,poor
+TRIP013,DRV005,06-02-2024,06:03:00,07:03:00,60,18.7,499,1.4,Anna Nagar,Tambaram,Anna Nagar → Tambaram,499.0,excellent,10,4,10,0.932,sharp_turn,poor
+TRIP014,DRV005,06-02-2024,07:34:00,08:15:00,41,18.2,537,1.4,Adyar,Guindy,Adyar → Guindy,785.85,excellent,12,0,10,0.52,sharp_turn,poor
+TRIP015,DRV005,06-02-2024,08:41:00,09:00:00,19,8.1,204,1.3,Guindy,Nungambakkam,Guindy → Nungambakkam,644.21,excellent,3,0,3,0.52,sharp_turn,poor
+TRIP016,DRV005,06-02-2024,09:22:00,10:00:00,38,18.4,324,1.0,Velachery,Guindy,Velachery → Guindy,511.58,excellent,4,0,3,0.52,sharp_turn,poor
+TRIP017,DRV006,06-02-2024,06:20:00,06:48:00,28,12.0,259,1.2,Hinjewadi,Aundh,Hinjewadi → Aundh,555.0,excellent,2,1,2,0.417,sharp_turn,average
+TRIP018,DRV006,06-02-2024,07:01:00,08:01:00,60,26.5,689,1.4,Hadapsar,Hinjewadi,Hadapsar → Hinjewadi,689.0,excellent,7,1,6,0.52,sharp_turn,poor
+TRIP019,DRV006,06-02-2024,08:23:00,08:46:00,23,13.0,339,1.6,Hadapsar,Baner,Hadapsar → Baner,884.35,excellent,13,0,10,0.52,sharp_turn,poor
+TRIP020,DRV006,06-02-2024,08:58:00,09:38:00,40,18.1,458,1.3,Koregaon Park,Baner,Koregaon Park → Baner,687.0,excellent,5,2,5,0.672,sharp_turn,poor
+TRIP021,DRV007,06-02-2024,06:27:00,07:27:00,60,22.8,800,1.6,HSR Layout,BTM Layout,HSR Layout → BTM Layout,800.0,excellent,6,3,6,0.52,sharp_turn,poor
+TRIP022,DRV007,06-02-2024,08:03:00,08:44:00,41,20.0,433,1.0,Whitefield,Hebbal,Whitefield → Hebbal,633.66,excellent,15,2,14,0.82,sharp_turn,poor
+TRIP023,DRV008,06-02-2024,17:05:00,18:03:00,58,25.9,432,1.0,Gachibowli,Secunderabad,Gachibowli → Secunderabad,446.9,excellent,80,0,14,0.52,sharp_turn,poor
+TRIP024,DRV008,06-02-2024,18:19:00,19:19:00,60,24.4,721,1.5,Hitec City,Madhapur,Hitec City → Madhapur,721.0,excellent,16,1,16,0.988,sharp_turn,poor
+TRIP025,DRV009,06-02-2024,06:03:00,06:36:00,33,16.1,484,1.4,BTM Layout,Koramangala,BTM Layout → Koramangala,880.0,excellent,28,5,12,0.568,sharp_turn,poor
+TRIP026,DRV009,06-02-2024,06:53:00,07:30:00,37,21.0,488,1.3,MG Road,Koramangala,MG Road → Koramangala,791.35,excellent,34,0,3,0.52,sharp_turn,poor
+TRIP027,DRV009,06-02-2024,07:58:00,08:31:00,33,8.2,227,1.1,Koramangala,BTM Layout,Koramangala → BTM Layout,412.73,excellent,24,2,8,0.52,sharp_turn,poor
+TRIP028,DRV009,06-02-2024,08:55:00,09:14:00,19,7.5,190,1.2,BTM Layout,Whitefield,BTM Layout → Whitefield,600.0,excellent,8,1,7,0.52,sharp_turn,poor
+TRIP029,DRV010,06-02-2024,17:15:00,17:47:00,32,13.7,295,1.1,Koramangala,Whitefield,Koramangala → Whitefield,553.12,excellent,13,0,13,0.52,sharp_turn,poor
+TRIP030,DRV010,06-02-2024,18:12:00,18:59:00,47,19.2,444,1.1,Whitefield,Indiranagar,Whitefield → Indiranagar,566.81,excellent,17,0,17,0.52,sharp_turn,poor
+TRIP031,DRV010,06-02-2024,19:20:00,20:04:00,44,15.4,443,1.3,Indiranagar,Hebbal,Indiranagar → Hebbal,604.09,excellent,6,0,5,0.52,sharp_turn,poor
+TRIP032,DRV010,06-02-2024,20:21:00,21:12:00,51,22.9,588,1.3,HSR Layout,Indiranagar,HSR Layout → Indiranagar,691.76,excellent,5,0,5,0.52,sharp_turn,poor
+TRIP033,DRV010,06-02-2024,21:45:00,22:45:00,60,26.1,719,1.4,Electronic City,Koramangala,Electronic City → Koramangala,719.0,excellent,11,0,8,0.52,sharp_turn,poor
+TRIP034,DRV011,06-02-2024,06:25:00,06:41:00,16,5.3,116,1.2,Viman Nagar,Koregaon Park,Viman Nagar → Koregaon Park,435.0,excellent,29,0,2,0.456,sharp_turn,average
+TRIP035,DRV011,06-02-2024,07:12:00,08:12:00,60,24.6,515,1.1,Shivajinagar,Wakad,Shivajinagar → Wakad,515.0,excellent,23,0,22,0.52,sharp_turn,poor
+TRIP036,DRV012,06-02-2024,17:23:00,17:48:00,25,11.5,301,1.2,Bandra,Worli,Bandra → Worli,722.4,excellent,12,0,11,0.52,sharp_turn,poor
+TRIP037,DRV012,06-02-2024,18:11:00,18:38:00,27,7.9,295,1.6,Kurla,Dadar,Kurla → Dadar,655.56,excellent,9,2,9,0.52,sharp_turn,poor
+TRIP038,DRV012,06-02-2024,18:51:00,19:30:00,39,14.8,448,1.4,Worli,Dadar,Worli → Dadar,689.23,excellent,12,0,10,0.52,sharp_turn,poor
+TRIP039,DRV012,06-02-2024,19:44:00,20:44:00,60,25.8,663,1.2,Powai,Lower Parel,Powai → Lower Parel,663.0,excellent,21,0,18,0.52,sharp_turn,poor
+TRIP040,DRV012,06-02-2024,20:55:00,21:19:00,24,9.8,307,1.4,Kurla,Malad,Kurla → Malad,767.5,excellent,7,1,7,0.52,sharp_turn,poor
+TRIP041,DRV012,06-02-2024,21:38:00,22:27:00,49,16.9,517,1.3,Bandra,Juhu,Bandra → Juhu,633.06,excellent,12,0,11,0.52,sharp_turn,poor
+TRIP042,DRV013,06-02-2024,12:25:00,12:58:00,33,12.2,292,1.3,Porur,Anna Nagar,Porur → Anna Nagar,530.91,excellent,12,2,10,0.52,sharp_turn,poor
+TRIP043,DRV013,06-02-2024,13:12:00,13:52:00,40,12.1,275,1.0,T Nagar,Nungambakkam,T Nagar → Nungambakkam,412.5,excellent,26,0,2,0.52,sharp_turn,poor
+TRIP044,DRV013,06-02-2024,14:01:00,14:28:00,27,10.7,324,1.4,Anna Nagar,Adyar,Anna Nagar → Adyar,720.0,excellent,1,0,1,0.496,sharp_turn,average
+TRIP045,DRV014,06-02-2024,12:21:00,13:15:00,54,27.1,510,1.0,Shivajinagar,Aundh,Shivajinagar → Aundh,566.67,excellent,6,0,6,0.52,sharp_turn,poor
+TRIP046,DRV014,06-02-2024,13:42:00,14:29:00,47,27.3,705,1.4,Shivajinagar,Baner,Shivajinagar → Baner,900.0,excellent,6,0,4,0.52,sharp_turn,poor
+TRIP047,DRV014,06-02-2024,14:39:00,15:37:00,58,22.7,608,1.3,Kothrud,Hadapsar,Kothrud → Hadapsar,628.97,excellent,13,1,11,0.52,sharp_turn,poor
+TRIP048,DRV014,06-02-2024,15:48:00,16:22:00,34,17.3,422,1.5,Viman Nagar,Baner,Viman Nagar → Baner,744.71,excellent,1,2,1,0.312,sharp_turn,good
+TRIP049,DRV014,06-02-2024,16:34:00,17:18:00,44,20.2,580,1.5,Wakad,Baner,Wakad → Baner,790.91,excellent,7,4,6,0.946,sharp_turn,poor
+TRIP050,DRV015,06-02-2024,06:25:00,06:40:00,15,4.1,111,1.4,South Delhi,Vasant Kunj,South Delhi → Vasant Kunj,444.0,excellent,2,0,2,0.52,sharp_turn,poor
+TRIP051,DRV015,06-02-2024,06:56:00,07:56:00,60,24.5,693,1.5,Vasant Kunj,Gurugram,Vasant Kunj → Gurugram,693.0,excellent,45,3,11,0.948,sharp_turn,poor
+TRIP052,DRV016,06-02-2024,17:05:00,17:25:00,20,6.0,197,1.5,Shivajinagar,Hinjewadi,Shivajinagar → Hinjewadi,591.0,excellent,4,0,4,0.52,sharp_turn,poor
+TRIP053,DRV016,06-02-2024,17:38:00,18:14:00,36,17.8,408,1.3,Shivajinagar,Baner,Shivajinagar → Baner,680.0,excellent,19,1,16,0.52,sharp_turn,poor
+TRIP054,DRV016,06-02-2024,18:26:00,19:10:00,44,12.8,255,1.0,Viman Nagar,Aundh,Viman Nagar → Aundh,347.73,good,9,4,9,0.919,sharp_turn,poor
+TRIP055,DRV017,06-02-2024,17:22:00,18:14:00,52,17.0,497,1.5,Gurugram,Dwarka,Gurugram → Dwarka,573.46,excellent,7,0,7,0.52,sharp_turn,poor
+TRIP056,DRV017,06-02-2024,18:43:00,19:24:00,41,18.2,401,1.2,Dwarka,Karol Bagh,Dwarka → Karol Bagh,586.83,excellent,8,4,8,0.897,sharp_turn,poor
+TRIP057,DRV017,06-02-2024,19:41:00,20:21:00,40,17.5,470,1.4,South Delhi,Rohini,South Delhi → Rohini,705.0,excellent,6,0,6,0.52,sharp_turn,poor
+TRIP058,DRV017,06-02-2024,20:52:00,21:44:00,52,25.7,544,1.1,Gurugram,Noida,Gurugram → Noida,627.69,excellent,10,0,8,0.52,sharp_turn,poor
+TRIP059,DRV017,06-02-2024,22:07:00,23:02:00,55,14.4,460,1.6,Rohini,Noida,Rohini → Noida,501.82,excellent,9,0,9,0.52,sharp_turn,poor
+TRIP060,DRV018,06-02-2024,12:15:00,12:59:00,44,11.5,261,1.2,Baner,Shivajinagar,Baner → Shivajinagar,355.91,good,8,0,7,0.52,sharp_turn,poor
+TRIP061,DRV018,06-02-2024,13:16:00,13:50:00,34,13.5,271,1.0,Baner,Hinjewadi,Baner → Hinjewadi,478.24,excellent,5,5,4,0.52,sharp_turn,poor
+TRIP062,DRV019,06-02-2024,06:12:00,06:56:00,44,22.7,431,1.1,Secunderabad,Kondapur,Secunderabad → Kondapur,587.73,excellent,10,1,10,0.52,sharp_turn,poor
+TRIP063,DRV019,06-02-2024,07:12:00,07:38:00,26,11.9,215,1.0,Kondapur,LB Nagar,Kondapur → LB Nagar,496.15,excellent,5,0,4,0.52,sharp_turn,poor
+TRIP064,DRV020,06-02-2024,17:27:00,17:46:00,19,4.2,93,1.0,Baner,Hinjewadi,Baner → Hinjewadi,293.68,good,10,0,10,0.52,sharp_turn,poor
+TRIP065,DRV020,06-02-2024,18:11:00,19:11:00,60,24.4,552,1.3,Hinjewadi,Hadapsar,Hinjewadi → Hadapsar,552.0,excellent,17,0,15,0.52,sharp_turn,poor
+TRIP066,DRV021,06-02-2024,17:13:00,17:51:00,38,18.5,497,1.2,Lower Parel,Malad,Lower Parel → Malad,784.74,excellent,4,0,4,0.52,sharp_turn,poor
+TRIP067,DRV021,06-02-2024,18:06:00,18:47:00,41,13.9,282,1.0,Bandra,Lower Parel,Bandra → Lower Parel,412.68,excellent,9,1,9,0.52,sharp_turn,poor
+TRIP068,DRV021,06-02-2024,19:16:00,19:58:00,42,21.0,570,1.2,Malad,Goregaon,Malad → Goregaon,814.29,excellent,24,3,24,0.834,sharp_turn,poor
+TRIP069,DRV022,06-02-2024,17:05:00,17:34:00,29,16.2,332,1.0,Vasant Kunj,Lajpat Nagar,Vasant Kunj → Lajpat Nagar,686.9,excellent,6,1,6,0.66,sharp_turn,poor
+TRIP070,DRV022,06-02-2024,18:07:00,19:03:00,56,25.1,530,1.2,Vasant Kunj,Connaught Place,Vasant Kunj → Connaught Place,567.86,excellent,16,1,15,0.652,sharp_turn,poor
+TRIP071,DRV023,06-02-2024,06:00:00,06:56:00,56,18.3,511,1.5,Viman Nagar,Kothrud,Viman Nagar → Kothrud,547.5,excellent,20,2,5,0.52,sharp_turn,poor
+TRIP072,DRV023,06-02-2024,07:23:00,08:11:00,48,21.4,603,1.4,Kothrud,Hinjewadi,Kothrud → Hinjewadi,753.75,excellent,19,0,15,0.52,sharp_turn,poor
+TRIP073,DRV023,06-02-2024,08:42:00,09:22:00,40,16.5,331,1.0,Wakad,Kothrud,Wakad → Kothrud,496.5,excellent,8,1,7,0.564,sharp_turn,poor
+TRIP074,DRV023,06-02-2024,09:57:00,10:23:00,26,8.3,265,1.5,Hadapsar,Kothrud,Hadapsar → Kothrud,611.54,excellent,13,1,12,0.806,sharp_turn,poor
+TRIP075,DRV023,06-02-2024,10:56:00,11:31:00,35,13.1,364,1.4,Hinjewadi,Wakad,Hinjewadi → Wakad,624.0,excellent,27,0,27,0.52,sharp_turn,poor
+TRIP076,DRV023,06-02-2024,12:04:00,12:50:00,46,24.8,414,1.0,Wakad,Hinjewadi,Wakad → Hinjewadi,540.0,excellent,10,0,10,0.52,sharp_turn,poor
+TRIP077,DRV024,06-02-2024,17:21:00,18:21:00,60,25.3,653,1.3,Rohini,Noida,Rohini → Noida,653.0,excellent,30,1,30,0.52,sharp_turn,poor
+TRIP078,DRV024,06-02-2024,18:55:00,19:41:00,46,15.2,346,1.2,Noida,Dwarka,Noida → Dwarka,451.3,excellent,24,1,4,0.388,sharp_turn,average
+TRIP079,DRV024,06-02-2024,20:00:00,21:00:00,60,26.9,784,1.4,Rohini,Karol Bagh,Rohini → Karol Bagh,784.0,excellent,26,1,25,0.52,sharp_turn,poor
+TRIP080,DRV024,06-02-2024,21:14:00,21:56:00,42,16.5,325,1.0,Lajpat Nagar,South Delhi,Lajpat Nagar → South Delhi,464.29,excellent,8,0,8,0.52,sharp_turn,poor
+TRIP081,DRV024,06-02-2024,22:18:00,22:38:00,20,6.7,206,1.4,Noida,South Delhi,Noida → South Delhi,618.0,excellent,12,0,10,0.52,sharp_turn,poor
+TRIP082,DRV025,06-02-2024,06:02:00,06:29:00,27,7.3,188,1.3,Adyar,Guindy,Adyar → Guindy,417.78,excellent,10,3,9,1.0,sharp_turn,poor
+TRIP083,DRV025,06-02-2024,06:42:00,07:16:00,34,10.1,324,1.5,T Nagar,Velachery,T Nagar → Velachery,571.76,excellent,4,0,2,0.504,sharp_turn,poor
+TRIP084,DRV025,06-02-2024,07:36:00,08:20:00,44,22.2,504,1.1,Porur,Guindy,Porur → Guindy,687.27,excellent,11,1,11,0.52,sharp_turn,poor
+TRIP085,DRV026,06-02-2024,06:25:00,06:46:00,21,8.3,188,1.1,Velachery,Porur,Velachery → Porur,537.14,excellent,12,2,10,0.566,sharp_turn,poor
+TRIP086,DRV026,06-02-2024,07:04:00,07:52:00,48,16.7,405,1.1,Adyar,Anna Nagar,Adyar → Anna Nagar,506.25,excellent,11,7,10,0.83,sharp_turn,poor
+TRIP087,DRV027,06-02-2024,12:15:00,12:58:00,43,16.9,340,1.1,Lajpat Nagar,Connaught Place,Lajpat Nagar → Connaught Place,474.42,excellent,3,1,3,0.52,sharp_turn,poor
+TRIP088,DRV027,06-02-2024,13:12:00,14:07:00,55,17.3,358,1.1,Saket,Noida,Saket → Noida,390.55,good,20,0,18,0.52,sharp_turn,poor
+TRIP089,DRV027,06-02-2024,14:32:00,15:12:00,40,15.2,369,1.3,Noida,Vasant Kunj,Noida → Vasant Kunj,553.5,excellent,10,0,10,0.52,sharp_turn,poor
+TRIP090,DRV028,06-02-2024,06:04:00,07:04:00,60,26.1,711,1.2,Dadar,Bandra,Dadar → Bandra,711.0,excellent,8,1,6,0.52,sharp_turn,poor
+TRIP091,DRV028,06-02-2024,07:35:00,07:55:00,20,9.1,244,1.4,Worli,Bandra,Worli → Bandra,732.0,excellent,8,0,7,0.52,sharp_turn,poor
+TRIP092,DRV028,06-02-2024,08:05:00,08:54:00,49,15.0,470,1.4,Andheri West,Malad,Andheri West → Malad,575.51,excellent,26,0,26,0.52,sharp_turn,poor
+TRIP093,DRV028,06-02-2024,09:23:00,09:59:00,36,15.1,461,1.3,Worli,Goregaon,Worli → Goregaon,768.33,excellent,11,1,8,0.52,sharp_turn,poor
+TRIP094,DRV028,06-02-2024,10:26:00,11:26:00,60,24.3,800,1.5,Dadar,Bandra,Dadar → Bandra,800.0,excellent,21,3,20,0.941,sharp_turn,poor
+TRIP095,DRV029,06-02-2024,17:28:00,17:56:00,28,12.8,299,1.2,Anna Nagar,Porur,Anna Nagar → Porur,640.71,excellent,7,5,7,0.946,sharp_turn,poor
+TRIP096,DRV029,06-02-2024,18:16:00,19:12:00,56,19.5,469,1.2,Porur,Guindy,Porur → Guindy,502.5,excellent,21,1,20,0.52,sharp_turn,poor
+TRIP097,DRV030,06-02-2024,06:19:00,06:38:00,19,4.5,144,1.4,Shivajinagar,Wakad,Shivajinagar → Wakad,454.74,excellent,3,0,3,0.52,sharp_turn,poor
+TRIP098,DRV030,06-02-2024,06:51:00,07:25:00,34,10.6,318,1.4,Hinjewadi,Kothrud,Hinjewadi → Kothrud,561.18,excellent,22,2,4,0.52,sharp_turn,poor
+TRIP099,DRV030,06-02-2024,07:53:00,08:53:00,60,26.9,618,1.3,Baner,Kothrud,Baner → Kothrud,618.0,excellent,12,3,9,0.52,sharp_turn,poor
+TRIP100,DRV030,06-02-2024,09:20:00,09:37:00,17,4.6,121,1.3,Baner,Hinjewadi,Baner → Hinjewadi,427.06,excellent,22,0,4,0.52,sharp_turn,poor
+TRIP101,DRV030,06-02-2024,09:55:00,10:37:00,42,17.1,363,1.2,Viman Nagar,Koregaon Park,Viman Nagar → Koregaon Park,518.57,excellent,8,1,8,0.52,sharp_turn,poor
+TRIP102,DRV031,06-02-2024,17:22:00,18:11:00,49,22.4,527,1.3,Wakad,Hadapsar,Wakad → Hadapsar,645.31,excellent,13,2,13,0.62,sharp_turn,poor
+TRIP103,DRV031,06-02-2024,18:27:00,19:13:00,46,18.1,398,1.1,Hadapsar,Viman Nagar,Hadapsar → Viman Nagar,519.13,excellent,17,0,16,0.52,sharp_turn,poor
+TRIP104,DRV031,06-02-2024,19:31:00,20:13:00,42,23.1,475,1.1,Hadapsar,Aundh,Hadapsar → Aundh,678.57,excellent,9,5,7,0.52,sharp_turn,poor
+TRIP105,DRV031,06-02-2024,20:27:00,20:53:00,26,7.7,218,1.3,Baner,Hinjewadi,Baner → Hinjewadi,503.08,excellent,5,0,5,0.52,sharp_turn,poor
+TRIP106,DRV031,06-02-2024,21:23:00,21:43:00,20,10.5,242,1.4,Hadapsar,Hinjewadi,Hadapsar → Hinjewadi,726.0,excellent,9,5,9,0.52,sharp_turn,poor
+TRIP107,DRV031,06-02-2024,22:07:00,22:42:00,35,16.0,449,1.4,Shivajinagar,Aundh,Shivajinagar → Aundh,769.71,excellent,34,1,3,0.52,sharp_turn,poor
+TRIP108,DRV032,06-02-2024,06:29:00,06:58:00,29,11.6,236,1.0,Rohini,Saket,Rohini → Saket,488.28,excellent,10,6,9,0.52,sharp_turn,poor
+TRIP109,DRV032,06-02-2024,07:29:00,08:28:00,59,23.7,694,1.4,Dwarka,Lajpat Nagar,Dwarka → Lajpat Nagar,705.76,excellent,103,4,21,0.561,speeding,poor
+TRIP110,DRV033,06-02-2024,06:02:00,06:27:00,25,7.7,146,1.0,Karol Bagh,Rohini,Karol Bagh → Rohini,350.4,good,2,0,2,0.52,sharp_turn,poor
+TRIP111,DRV033,06-02-2024,06:37:00,07:19:00,42,19.7,386,1.1,Dwarka,Rohini,Dwarka → Rohini,551.43,excellent,10,1,10,0.82,sharp_turn,poor
+TRIP112,DRV033,06-02-2024,07:50:00,08:10:00,20,6.2,172,1.4,Vasant Kunj,Gurugram,Vasant Kunj → Gurugram,516.0,excellent,18,3,16,1.0,sharp_turn,poor
+TRIP113,DRV033,06-02-2024,08:32:00,09:14:00,42,12.8,309,1.1,Lajpat Nagar,Rohini,Lajpat Nagar → Rohini,441.43,excellent,10,0,8,0.52,sharp_turn,poor
+TRIP114,DRV034,06-02-2024,12:24:00,12:53:00,29,13.6,361,1.4,OMR,Tambaram,OMR → Tambaram,746.9,excellent,14,0,14,0.52,sharp_turn,poor
+TRIP115,DRV034,06-02-2024,13:29:00,14:29:00,60,24.9,654,1.4,Nungambakkam,Adyar,Nungambakkam → Adyar,654.0,excellent,16,0,14,0.52,sharp_turn,poor
+TRIP116,DRV035,06-02-2024,06:21:00,06:43:00,22,4.6,138,1.3,Velachery,Guindy,Velachery → Guindy,376.36,good,22,0,7,0.52,sharp_turn,poor
+TRIP117,DRV035,06-02-2024,07:14:00,08:02:00,48,17.5,424,1.2,OMR,Adyar,OMR → Adyar,530.0,excellent,19,6,14,0.719,sharp_turn,poor
+TRIP118,DRV035,06-02-2024,08:13:00,08:30:00,17,4.0,138,1.5,Tambaram,Guindy,Tambaram → Guindy,487.06,excellent,7,0,6,0.52,sharp_turn,poor
+TRIP119,DRV036,06-02-2024,06:28:00,06:48:00,20,5.4,144,1.1,Juhu,Andheri West,Juhu → Andheri West,432.0,excellent,2,5,2,0.816,sharp_turn,poor
+TRIP120,DRV036,06-02-2024,07:02:00,07:44:00,42,14.1,458,1.5,Bandra,Dadar,Bandra → Dadar,654.29,excellent,11,0,10,0.52,sharp_turn,poor
+TRIP121,DRV036,06-02-2024,08:03:00,08:28:00,25,10.4,366,1.5,Worli,Goregaon,Worli → Goregaon,878.4,excellent,9,3,7,0.52,sharp_turn,poor
+TRIP122,DRV036,06-02-2024,08:40:00,09:39:00,59,18.9,638,1.4,Colaba,Kurla,Colaba → Kurla,648.81,excellent,9,5,9,0.52,sharp_turn,poor
+TRIP123,DRV037,06-02-2024,06:09:00,07:08:00,59,26.8,724,1.5,Rohini,Vasant Kunj,Rohini → Vasant Kunj,736.27,excellent,10,0,10,0.52,sharp_turn,poor
+TRIP124,DRV037,06-02-2024,07:43:00,08:19:00,36,13.1,317,1.3,Saket,Vasant Kunj,Saket → Vasant Kunj,528.33,excellent,15,4,12,0.922,sharp_turn,poor
+TRIP125,DRV037,06-02-2024,08:52:00,09:38:00,46,18.1,424,1.2,Noida,Karol Bagh,Noida → Karol Bagh,553.04,excellent,9,1,9,0.52,sharp_turn,poor
+TRIP126,DRV038,06-02-2024,06:09:00,06:44:00,35,14.8,451,1.4,Goregaon,Lower Parel,Goregaon → Lower Parel,773.14,excellent,2,0,0,-1.0,,average
+TRIP127,DRV038,06-02-2024,07:04:00,07:27:00,23,6.3,167,1.2,Kurla,BKC,Kurla → BKC,435.65,excellent,2,0,1,0.465,sharp_turn,average
+TRIP128,DRV038,06-02-2024,07:43:00,08:26:00,43,23.8,628,1.4,Bandra,Colaba,Bandra → Colaba,876.28,excellent,12,2,11,0.658,sharp_turn,poor
+TRIP129,DRV038,06-02-2024,08:59:00,09:59:00,60,17.9,584,1.4,Kurla,Malad,Kurla → Malad,584.0,excellent,35,6,14,0.567,sharp_turn,poor
+TRIP130,DRV038,06-02-2024,10:32:00,11:12:00,40,15.9,468,1.4,Colaba,Dadar,Colaba → Dadar,702.0,excellent,16,0,15,0.52,sharp_turn,poor
+TRIP131,DRV038,06-02-2024,11:36:00,12:11:00,35,10.5,316,1.3,BKC,Bandra,BKC → Bandra,541.71,excellent,15,2,14,0.988,sharp_turn,poor
+TRIP132,DRV039,06-02-2024,12:17:00,13:17:00,60,25.1,522,1.0,Gurugram,Noida,Gurugram → Noida,522.0,excellent,16,3,15,0.822,sharp_turn,poor
+TRIP133,DRV039,06-02-2024,13:43:00,14:25:00,42,14.2,321,1.2,Noida,South Delhi,Noida → South Delhi,458.57,excellent,9,8,9,1.0,sharp_turn,poor
+TRIP134,DRV039,06-02-2024,14:42:00,15:42:00,60,25.0,632,1.3,Connaught Place,Dwarka,Connaught Place → Dwarka,632.0,excellent,8,1,6,0.52,sharp_turn,poor
+TRIP135,DRV039,06-02-2024,16:01:00,17:01:00,60,18.8,510,1.3,Noida,Vasant Kunj,Noida → Vasant Kunj,510.0,excellent,10,1,9,0.52,sharp_turn,poor
+TRIP136,DRV039,06-02-2024,17:19:00,17:33:00,14,6.3,155,1.2,Karol Bagh,Dwarka,Karol Bagh → Dwarka,664.29,excellent,1,0,1,0.448,sharp_turn,average
+TRIP137,DRV039,06-02-2024,18:06:00,18:56:00,50,19.2,416,1.2,Saket,Lajpat Nagar,Saket → Lajpat Nagar,499.2,excellent,6,5,6,1.0,sharp_turn,poor
+TRIP138,DRV040,06-02-2024,17:21:00,17:44:00,23,11.2,364,1.6,Karol Bagh,Noida,Karol Bagh → Noida,949.57,excellent,5,0,4,0.52,sharp_turn,poor
+TRIP139,DRV040,06-02-2024,18:15:00,18:34:00,19,7.7,193,1.3,Lajpat Nagar,Vasant Kunj,Lajpat Nagar → Vasant Kunj,609.47,excellent,8,1,6,0.52,sharp_turn,poor
+TRIP140,DRV040,06-02-2024,19:09:00,19:46:00,37,11.5,352,1.6,Lajpat Nagar,Noida,Lajpat Nagar → Noida,570.81,excellent,13,0,12,0.52,sharp_turn,poor
+TRIP141,DRV040,06-02-2024,20:18:00,21:10:00,52,27.4,601,1.1,South Delhi,Connaught Place,South Delhi → Connaught Place,693.46,excellent,14,0,13,0.52,sharp_turn,poor
+TRIP142,DRV040,06-02-2024,21:43:00,22:42:00,59,27.3,667,1.3,Dwarka,Saket,Dwarka → Saket,678.31,excellent,12,0,11,0.52,sharp_turn,poor
+TRIP143,DRV041,06-02-2024,12:23:00,12:50:00,27,14.7,325,1.3,Noida,South Delhi,Noida → South Delhi,722.22,excellent,9,0,9,0.52,sharp_turn,poor
+TRIP144,DRV041,06-02-2024,13:05:00,13:40:00,35,16.4,477,1.6,Vasant Kunj,Saket,Vasant Kunj → Saket,817.71,excellent,6,2,4,0.52,sharp_turn,poor
+TRIP145,DRV041,06-02-2024,13:54:00,14:26:00,32,17.6,439,1.3,Connaught Place,Karol Bagh,Connaught Place → Karol Bagh,823.12,excellent,4,2,3,0.52,sharp_turn,poor
+TRIP146,DRV041,06-02-2024,14:58:00,15:58:00,60,26.8,490,1.0,Noida,Dwarka,Noida → Dwarka,490.0,excellent,17,2,16,0.834,sharp_turn,poor
+TRIP147,DRV041,06-02-2024,16:28:00,17:20:00,52,17.0,432,1.2,Saket,South Delhi,Saket → South Delhi,498.46,excellent,9,6,8,1.0,sharp_turn,poor
+TRIP148,DRV042,06-02-2024,17:05:00,18:05:00,60,26.5,636,1.3,Koregaon Park,Wakad,Koregaon Park → Wakad,636.0,excellent,18,2,18,0.862,sharp_turn,poor
+TRIP149,DRV042,06-02-2024,18:40:00,19:23:00,43,15.7,305,1.0,Koregaon Park,Hadapsar,Koregaon Park → Hadapsar,425.58,excellent,12,5,9,0.581,sharp_turn,poor
+TRIP150,DRV042,06-02-2024,19:34:00,20:34:00,60,27.6,597,1.3,Shivajinagar,Koregaon Park,Shivajinagar → Koregaon Park,597.0,excellent,28,0,26,0.52,sharp_turn,poor
+TRIP151,DRV043,06-02-2024,12:19:00,13:12:00,53,24.5,644,1.2,Lower Parel,Juhu,Lower Parel → Juhu,729.06,excellent,27,4,25,0.862,sharp_turn,poor
+TRIP152,DRV043,06-02-2024,13:32:00,14:27:00,55,23.5,701,1.4,Goregaon,Bandra,Goregaon → Bandra,764.73,excellent,9,0,8,0.52,sharp_turn,poor
+TRIP153,DRV043,06-02-2024,14:41:00,15:18:00,37,19.0,569,1.5,Worli,Malad,Worli → Malad,922.7,excellent,8,2,8,0.52,sharp_turn,poor
+TRIP154,DRV043,06-02-2024,15:33:00,16:00:00,27,11.0,376,1.5,Bandra,Colaba,Bandra → Colaba,835.56,excellent,6,0,6,0.52,sharp_turn,poor
+TRIP155,DRV043,06-02-2024,16:22:00,16:46:00,24,7.5,189,1.2,Goregaon,Malad,Goregaon → Malad,472.5,excellent,19,0,3,0.52,sharp_turn,poor
+TRIP156,DRV043,06-02-2024,17:08:00,17:52:00,44,22.8,707,1.5,Worli,Dadar,Worli → Dadar,964.09,excellent,8,3,8,0.62,harsh_brake,poor
+TRIP157,DRV044,06-02-2024,12:14:00,12:58:00,44,13.4,351,1.2,Goregaon,BKC,Goregaon → BKC,478.64,excellent,0,3,0,-1.0,,average
+TRIP158,DRV044,06-02-2024,13:15:00,13:55:00,40,12.9,467,1.6,Malad,Bandra,Malad → Bandra,700.5,excellent,12,0,12,0.52,sharp_turn,poor
+TRIP159,DRV044,06-02-2024,14:31:00,15:10:00,39,18.7,548,1.4,Worli,Dadar,Worli → Dadar,843.08,excellent,6,0,5,0.52,sharp_turn,poor
+TRIP160,DRV045,06-02-2024,06:12:00,06:54:00,42,17.6,525,1.5,Dadar,Powai,Dadar → Powai,750.0,excellent,5,1,5,0.52,sharp_turn,poor
+TRIP161,DRV045,06-02-2024,07:30:00,08:19:00,49,24.9,613,1.2,Juhu,BKC,Juhu → BKC,750.61,excellent,14,0,13,0.52,sharp_turn,poor
+TRIP162,DRV045,06-02-2024,08:37:00,09:29:00,52,17.4,404,1.1,Lower Parel,Worli,Lower Parel → Worli,466.15,excellent,7,3,7,0.52,sharp_turn,poor
+TRIP163,DRV045,06-02-2024,10:00:00,11:00:00,60,20.4,534,1.1,Worli,Goregaon,Worli → Goregaon,534.0,excellent,11,7,11,1.0,sharp_turn,poor
+TRIP164,DRV046,06-02-2024,06:24:00,06:53:00,29,9.6,224,1.1,Whitefield,Hebbal,Whitefield → Hebbal,463.45,excellent,9,0,5,0.52,sharp_turn,poor
+TRIP165,DRV046,06-02-2024,07:23:00,08:23:00,60,22.5,468,1.1,Indiranagar,Marathahalli,Indiranagar → Marathahalli,468.0,excellent,17,1,17,0.52,sharp_turn,poor
+TRIP166,DRV047,06-02-2024,06:15:00,07:15:00,60,23.4,555,1.2,Hadapsar,Wakad,Hadapsar → Wakad,555.0,excellent,6,0,6,0.52,sharp_turn,poor
+TRIP167,DRV047,06-02-2024,07:35:00,08:05:00,30,15.5,403,1.4,Shivajinagar,Koregaon Park,Shivajinagar → Koregaon Park,806.0,excellent,10,0,9,0.52,sharp_turn,poor
+TRIP168,DRV047,06-02-2024,08:39:00,09:02:00,23,9.9,235,1.4,Hadapsar,Hinjewadi,Hadapsar → Hinjewadi,613.04,excellent,8,0,6,0.52,sharp_turn,poor
+TRIP169,DRV048,06-02-2024,06:08:00,06:52:00,44,23.1,433,1.1,Aundh,Koregaon Park,Aundh → Koregaon Park,590.45,excellent,65,0,6,0.52,sharp_turn,poor
+TRIP170,DRV048,06-02-2024,07:27:00,08:08:00,41,13.6,288,1.2,Hadapsar,Hinjewadi,Hadapsar → Hinjewadi,421.46,excellent,18,0,17,0.52,sharp_turn,poor
+TRIP171,DRV049,06-02-2024,06:27:00,07:12:00,45,24.4,458,1.1,Karol Bagh,Lajpat Nagar,Karol Bagh → Lajpat Nagar,610.67,excellent,10,4,10,1.0,sharp_turn,poor
+TRIP172,DRV049,06-02-2024,07:42:00,08:01:00,19,7.1,237,1.6,Saket,Connaught Place,Saket → Connaught Place,748.42,excellent,4,0,4,0.52,sharp_turn,poor
+TRIP173,DRV050,06-02-2024,06:24:00,07:24:00,60,22.0,462,1.1,Madhapur,Banjara Hills,Madhapur → Banjara Hills,462.0,excellent,60,0,7,0.52,sharp_turn,poor
+TRIP174,DRV050,06-02-2024,07:44:00,08:29:00,45,22.9,595,1.4,Kondapur,LB Nagar,Kondapur → LB Nagar,793.33,excellent,16,0,14,0.52,sharp_turn,poor
+TRIP175,DRV050,06-02-2024,08:59:00,09:57:00,58,27.1,766,1.6,Kondapur,Gachibowli,Kondapur → Gachibowli,792.41,excellent,23,0,22,0.52,sharp_turn,poor
+TRIP176,DRV050,06-02-2024,10:33:00,10:54:00,21,6.3,159,1.2,Jubilee Hills,Gachibowli,Jubilee Hills → Gachibowli,454.29,excellent,0,0,0,-1.0,,average

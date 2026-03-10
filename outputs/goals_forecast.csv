@@ -1,0 +1,51 @@
+driver_id,target_earnings,current_earnings,remaining_earnings,current_hours,remaining_hours,current_velocity,effective_velocity,needed_velocity,projected_earnings,goal_pct_complete,shift_phase,forecast,message,surge_adjusted,dead_zone
+DRV001,1676,1777,0,4.98,3.02,356.83,356.83,-33.44,2854.63,106,peak,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV002,1433,790,643,1.6,6.4,493.75,493.75,100.47,3950,55.1,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV003,1205,1343,0,2.37,5.63,566.67,566.67,-24.51,4533.35,111.5,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV004,1463,1412,51,2.6,5.4,543.08,543.08,9.44,4344.63,96.5,mid,on_track,You're on track — just 4% left to go.,FALSE,FALSE
+DRV005,1566,1564,2,3.9,4.1,401.03,401.03,0.49,3208.22,99.9,mid,on_track,You're on track — just 0% left to go.,FALSE,FALSE
+DRV006,3227,1745,1482,3.6,12.4,484.72,484.72,119.52,7755.53,54.1,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV007,1186,1233,0,2.7,5.3,456.67,456.67,-8.87,3653.35,104,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV008,904,1153,0,1.98,4.02,582.32,582.32,-61.94,3493.93,127.5,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV009,1385,1389,0,2.98,5.02,466.11,466.11,-0.8,3728.87,100.3,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV010,1192,2489,0,5.73,0.27,434.38,434.38,-4803.7,2606.28,208.8,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV011,2447,631,1816,2,14,315.5,315.5,129.71,5048,25.8,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV012,1237,2531,0,5.08,0.92,498.23,498.23,-1406.52,2989.37,204.6,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV013,1619,891,728,2.08,5.92,428.37,428.37,122.97,3426.95,55,mid,on_track,You're on track — just 45% left to go.,FALSE,FALSE
+DRV014,1177,2825,0,5.02,2.98,562.75,562.75,-553.02,4502,240,peak,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV015,1537,804,733,1.47,6.53,546.94,546.94,112.25,4375.52,52.3,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV016,1345,860,485,2.07,3.93,415.46,415.46,123.41,2492.76,63.9,mid,on_track,You're on track — just 36% left to go.,FALSE,FALSE
+DRV017,945,2372,0,6,0,395.33,395.33,0,2372,251,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV018,1377,532,845,1.55,6.45,343.23,343.23,131.01,2745.83,38.6,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV019,2297,646,1651,1.17,14.83,552.14,552.14,111.33,8834.24,28.1,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV020,1138,645,493,1.87,4.13,344.92,344.92,119.37,2069.52,56.7,mid,on_track,You're on track — just 43% left to go.,FALSE,FALSE
+DRV021,1173,1349,0,2.57,3.43,524.9,524.9,-51.31,3149.41,115,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV022,1178,862,316,1.83,4.17,471.04,471.04,75.78,2826.24,73.2,mid,on_track,You're on track — just 27% left to go.,FALSE,FALSE
+DRV023,3277,2488,789,6.57,9.43,378.69,378.69,83.67,6059.05,75.9,mid,on_track,You're on track — just 24% left to go.,FALSE,FALSE
+DRV024,843,2314,0,5.23,0.77,442.45,442.45,-1910.39,2654.69,274.5,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV025,3088,1016,2072,1.87,14.13,543.32,543.32,146.64,8693.11,32.9,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV026,2991,593,2398,1.45,14.55,408.97,408.97,164.81,6543.51,19.8,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV027,1398,1067,331,3.2,4.8,333.44,333.44,68.96,2667.51,76.3,mid,on_track,You're on track — just 24% left to go.,FALSE,FALSE
+DRV028,3303,2686,617,5.05,10.95,531.88,531.88,56.35,8510.09,81.3,mid,on_track,You're on track — just 19% left to go.,FALSE,FALSE
+DRV029,897,768,129,1.82,4.18,421.98,421.98,30.86,2531.88,85.6,mid,on_track,You're on track — just 14% left to go.,FALSE,FALSE
+DRV030,1348,1564,0,4.2,3.8,372.38,372.38,-56.84,2979.04,116,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV031,1084,2309,0,5.62,0.38,410.85,410.85,-3223.68,2465.12,213,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV032,2699,930,1769,2.17,13.83,428.57,428.57,127.91,6857.12,34.5,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV033,1474,1013,461,2.92,5.08,346.92,346.92,90.75,2775.35,68.7,mid,on_track,You're on track — just 31% left to go.,FALSE,FALSE
+DRV034,1486,1015,471,2,6,507.5,507.5,78.5,4060,68.3,mid,on_track,You're on track — just 32% left to go.,FALSE,FALSE
+DRV035,1865,700,1165,2.12,5.88,330.19,330.19,198.13,2641.52,37.5,mid,on_track,You're on track — just 62% left to go.,FALSE,FALSE
+DRV036,1528,1606,0,3.42,4.58,469.59,469.59,-17.03,3756.72,105.1,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV037,1323,1465,0,3.15,4.85,465.08,465.08,-29.28,3720.64,110.7,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV038,4000,2614,1386,6.03,9.97,433.5,433.5,139.02,6935.99,65.3,mid,on_track,You're on track — just 35% left to go.,FALSE,FALSE
+DRV039,1453,2556,0,6.55,1.45,390.23,390.23,-760.69,3121.83,175.9,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV040,851,2177,0,5.58,0.42,390.14,390.14,-3157.14,2340.86,255.8,late,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV041,1543,2163,0,5,3,432.6,432.6,-206.67,3460.8,140.2,peak,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV042,927,1538,0,3.13,2.87,491.37,491.37,-212.89,2948.23,165.9,mid,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV043,1261,3186,0,5.5,2.5,579.27,579.27,-770,4634.18,252.7,peak,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV044,2016,1366,650,2.78,5.22,491.37,491.37,124.52,3930.95,67.8,mid,on_track,You're on track — just 32% left to go.,FALSE,FALSE
+DRV045,1795,2076,0,5,3,415.2,415.2,-93.67,3321.6,115.7,peak,achieved,🎯 Goal reached! Any more trips today are a bonus.,FALSE,FALSE
+DRV046,1666,692,974,1.9,6.1,364.21,364.21,159.67,2913.68,41.5,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV047,2614,1193,1421,2.93,13.07,407.17,407.17,108.72,6514.71,45.6,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV048,3910,721,3189,1.93,14.07,373.58,373.58,226.65,5977.27,18.4,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV049,1853,695,1158,1.78,6.22,390.45,390.45,186.17,3123.6,37.5,early,on_track,Good start! Keep this pace and you'll hit your goal comfortably.,FALSE,FALSE
+DRV050,3624,1982,1642,4.68,11.32,423.5,423.5,145.05,6776.02,54.7,mid,on_track,You're on track — just 45% left to go.,FALSE,FALSE
