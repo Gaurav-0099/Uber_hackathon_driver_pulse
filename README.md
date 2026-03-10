@@ -24,8 +24,6 @@ Run everything with:
 streamlit run app_realtime_demo.py
 ```
 
-The three engine files have also moved into a `src/` subdirectory. All imports in the app reflect this.
-
 ---
 
 ## System Overview
