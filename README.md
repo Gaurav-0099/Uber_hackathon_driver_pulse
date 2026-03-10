@@ -1,6 +1,6 @@
 Driver Pulse — Team Name
 
-Demo Video: <INSERT VIDEO LINK>
+Demo Video: <https://drive.google.com/drive/folders/1XSVPZgTSUTMX_Lrcjv9UKrSNVhg1XOsK?usp=sharing>
 
 Live Application: <https://apprealtimedemopy-ga6nxjkdbmnprgyoapji7e.streamlit.app/>
 
