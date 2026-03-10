@@ -4,10 +4,6 @@ Demo Video: <https://drive.google.com/drive/folders/1XSVPZgTSUTMX_Lrcjv9UKrSNVhg
 
 Live Application: <https://apprealtimedemopy-ga6nxjkdbmnprgyoapji7e.streamlit.app/>
 
-Judge Login Credentials:
-Username: judge@uber.com
-Password: hackathon2026
-
 ---
 
 # Driver Pulse 🚗
