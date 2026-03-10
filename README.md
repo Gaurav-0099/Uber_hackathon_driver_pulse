@@ -2,7 +2,7 @@ Driver Pulse — Team Name
 
 Demo Video: <INSERT VIDEO LINK>
 
-Live Application: <INSERT DEPLOYMENT LINK>
+Live Application: <https://apprealtimedemopy-ga6nxjkdbmnprgyoapji7e.streamlit.app/>
 
 Judge Login Credentials:
 Username: judge@uber.com
