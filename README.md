@@ -12,17 +12,13 @@ Live Application: <https://apprealtimedemopy-ga6nxjkdbmnprgyoapji7e.streamlit.ap
 
 ---
 
-## What Changed in the Final Submission
-
-The original prototype had two separate Streamlit apps (`app.py` + `app_realtime_demo.py`). **These have been merged into a single unified application: `app_realtime_demo.py`.**
-
 The unified app combines:
 - The full shift analytics dashboard (home, trips, safety, charts, export)
 - The live sensor simulation (replays `realtime_trip_simulation.csv` as a streaming trip)
 - Driver login with per-driver data isolation
 - The complete three-engine pipeline running inside a single cached session
 
-**There is no `app.py` in the final codebase.** Run everything with:
+Run everything with:
 
 ```bash
 streamlit run app_realtime_demo.py
